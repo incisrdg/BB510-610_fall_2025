@@ -17,3 +17,7 @@ Link to the Kendrew's Nobel Lecture "Myoglobin and the structure of proteins": h
 Link to the Perutz's Nobel Lecture "Cracking the phase problem": https://www-nobelprize-org.translate.goog/prizes/chemistry/1962/perspectives/?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=wa
 
 Link to the biography of Max Perutz: https://www.maxperutzlabs.ac.at/about/max-f-perutz
+
+Link to the Kendrew's Nobel Lecture "Myoglobin and the structure of proteins": https://www.nobelprize.org/uploads/2018/06/kendrew-lecture.pdf
+
+Link to the Hodgkin's Nobel Lecture "The X-ray analysis of complicated molecules": https://www.nobelprize.org/uploads/2018/06/hodgkin-lecture-1.pdf
