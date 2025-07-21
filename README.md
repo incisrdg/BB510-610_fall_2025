@@ -1,5 +1,5 @@
 # Structural_Biology
-Welcome to the structural biology course🧬! This course is all about protein structures. We will cover topics including, but not limited to, the history of structural biology, structural data and sources, and the protein structure prediction problem. You can find all the relevant course materials here📚. The field is evolving at the speed of the light⚡️. Let's try to keep up with as many advancements as we can.
+Welcome to the structural biology course 🧬! This course is all about protein structures. We will cover topics including, but not limited to, the history of structural biology, structural data and sources, and the protein structure prediction problem. You can find all the relevant course materials here 📚. The field is evolving at the speed of the light ⚡️. Let's try to keep up with as many advancements as we can.
 
 👀Here is an overview of the next 14 weeks:
 
@@ -14,6 +14,8 @@ Welcome to the structural biology course🧬! This course is all about protein s
  Week 5: Architecture of AF2, AF3, and AF3-implementations. 
  
  Week 6: Structure predcition with AF2, AF3, and AF3-implementations using Colab and Tamarind. 
+
+📣 Announcement of project topics!
  
  Week 7: Pathogenicity prediction using structural data (single mutant: DynaMut, PremPS, FoldX, double mutant: ThermoMPNN-D)
  
