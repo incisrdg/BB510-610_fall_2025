@@ -15,7 +15,7 @@ Welcome to the structural biology course 🧬! This course is all about protein 
  
  Week 6: Structure predcition with AF2, AF3, and AF3-implementations using Colab and Tamarind. 
 
-📣 Announcement of project topics!
+📢 Announcement of project topics!
  
  Week 7: Pathogenicity prediction using structural data (single mutant: DynaMut, PremPS, FoldX, double mutant: ThermoMPNN-D)
  
@@ -32,3 +32,16 @@ Welcome to the structural biology course 🧬! This course is all about protein 
  Week 13: De novo protein design with RFDiffusion by Rosetta team.
  
  Week 14: Project presentations. 
+
+
+
+❕You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class.❕
+
+
+⬇️ Below are some general suggestions for this course:
+
+✅For structure visualization as well as some basic calculations, please set up UCSF ChimeraX and VMD from the following links.
+
+UCSF ChimeraX: https://www.cgl.ucsf.edu/chimera/download.html
+
+VMD: https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
