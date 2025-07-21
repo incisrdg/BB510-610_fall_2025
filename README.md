@@ -54,3 +54,5 @@ Miniconda: https://www.anaconda.com/docs/getting-started/miniconda/install
 ✅ Please sign up for Colab with your Google account. You will need Colab to run structure predictions using AF2, AF3 implementations, and BioEmu. Colab can also be used to run scripts in weeks 10 and 11.
 
 Colab: https://colab.research.google.com/
+
+🔮 There will be pop-up quizzes during the first five minutes of each lesson, not for grading, but to help recall the key points from the previous week. Highly recommend you join the pop-up quizzes, they’ll be fun!
