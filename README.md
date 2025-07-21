@@ -39,7 +39,7 @@ Welcome to the structural biology course 🧬! This course is all about protein 
 ❕You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class.❕
 
 
-⬇️ Below are some general suggestions for this course:
+## ⬇️ Below are some general suggestions for this course:
 
 ✅ For structure visualization as well as some basic calculations, please set up UCSF ChimeraX and VMD from the following links.
 
@@ -54,7 +54,7 @@ Miniconda: https://www.anaconda.com/docs/getting-started/miniconda/install
 ✅ Please sign up for Colab with your Google account. You will need Colab to run structure predictions using AF2, AF3 implementations, and BioEmu. Colab can also be used to run scripts in weeks 10 and 11.
 
 Colab: https://colab.research.google.com/
-
+##
 🔮 There will be pop-up quizzes during the first five minutes of each lesson, not for grading, but to help recall the key points from the previous week. Highly recommend you join the pop-up quizzes, they’ll be fun!
 
 📬 If you have any questions or concerns, do not hesitate to contact me at the following email address: srdginci@gmail.com
