@@ -12,12 +12,12 @@ Link to the crystallography course of CBE "The Phase Problem": https://www.xtal.
 
 Link to a review on Fourier transform doe X-ray crystallography: https://www.linkedin.com/posts/incisrdg_xrayabrcrystallography-fourierabrtransform-activity-7298989935603163136-4vqo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRxyycBleb3LSNQc425gEPE4WKojpyREes
 
-Link to the Kendrew's Nobel Lecture "Myoglobin and the structure of proteins": https://www.nobelprize.org/uploads/2018/06/kendrew-lecture.pdf
-
 Link to the Perutz's Nobel Lecture "Cracking the phase problem": https://www-nobelprize-org.translate.goog/prizes/chemistry/1962/perspectives/?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=wa
 
 Link to the biography of Max Perutz: https://www.maxperutzlabs.ac.at/about/max-f-perutz
 
 Link to the Kendrew's Nobel Lecture "Myoglobin and the structure of proteins": https://www.nobelprize.org/uploads/2018/06/kendrew-lecture.pdf
+
+Link to Kendrew's and Perutz's paper on "A Comparative X-Ray Study of Foetal and Adult Sheep Haemoglobins": https://www.jstor.org/stable/98295?seq=23
 
 Link to the Hodgkin's Nobel Lecture "The X-ray analysis of complicated molecules": https://www.nobelprize.org/uploads/2018/06/hodgkin-lecture-1.pdf
