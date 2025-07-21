@@ -5,16 +5,28 @@ Here is an overview of the next 14 weeks:
 
  Week 1: Course overview and history of the structural biology. 
  
- Week 2: Structure determination methods (X-ray, NMR, Cryo-EM), what the structural data look like, structural databases (PDB, PDBe-KB, UniProt)
- Week 3: Protein folding problem, CASP and CAPRI competitions, AlphaFold as a groundbreaking team.
+ Week 2: Structure determination methods (X-ray, NMR, Cryo-EM), what the structural data look like, structural databases (PDB, PDBe-KB, UniProt).
+
+ Week 3: Protein folding problem, CASP and CAPRI competitions, AlphaFold and RosettaFold as groundbreaking teams.
+ 
  Week 4: Evaluation of AlphaFold predicted models.
+ 
  Week 5: Architecture of AF2, AF3, and AF3-implementations. 
- Week 6: Structure predcition with AF2, AF3, and AF3-implementations. 
- Week 7: Pathogenicity prediction
- Week 8: Pathogenicity prediction with AlphaMissense.
- Week 9: Protein-protein docking: practical lesson.
- Week 10: Molecular docking: practical lesson I.
- Week 11: Molecular docking: practical lesson II.
+ 
+ Week 6: Structure predcition with AF2, AF3, and AF3-implementations using Colab and Tamarind. 
+ 
+ Week 7: Pathogenicity prediction using structural data (single mutant: DynaMut, PremPS, FoldX, double mutant: ThermoMPNN-D)
+ 
+ Week 8: Pathogenicity prediction with AlphaMissense and Hotspot.
+ 
+ Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY).
+ 
+ Week 10: Molecular docking pipeline: module 1 (Digital Representations of Molecules) and module 2 (Exploring Chemical and Biological Data With BidingDB and the RDKit).
+ 
+ Week 11: Molecular docking pipeline: module 3 (Preparing Structures for Docking) and module 4 (Molecular Docking using gnina).
+ 
  Week 12: Conformation prediction with BioEmu.
- Week 13: De novo protein design with RFDiffusion.
+ 
+ Week 13: De novo protein design with RFDiffusion by Rosetta team.
+ 
  Week 14: Project presentations. 
