@@ -41,8 +41,12 @@ Welcome to the structural biology course 🧬! This course is all about protein 
 
 ⬇️ Below are some general suggestions for this course:
 
-✅For structure visualization as well as some basic calculations, please set up UCSF ChimeraX and VMD from the following links.
+✅ For structure visualization as well as some basic calculations, please set up UCSF ChimeraX and VMD from the following links.
 
 UCSF ChimeraX: https://www.cgl.ucsf.edu/chimera/download.html
-
 VMD: https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
+
+✅ For additional basic calculations, it is recommended that you use Jupyter 🪐 or Spyder 🕸️. To access these environments, you can install either Anaconda or Miniconda.
+
+Anaconda: https://www.anaconda.com/download
+Miniconda: https://www.anaconda.com/docs/getting-started/miniconda/install
