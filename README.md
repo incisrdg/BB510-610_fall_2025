@@ -35,6 +35,7 @@ Welcome to the structural biology course 🧬! This course is all about protein 
 
 
 
+
 ❕You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class.❕
 
 
