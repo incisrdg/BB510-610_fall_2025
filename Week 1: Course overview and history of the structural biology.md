@@ -21,3 +21,9 @@ Link to the Kendrew's Nobel Lecture "Myoglobin and the structure of proteins": h
 Link to Kendrew's and Perutz's paper on "A Comparative X-Ray Study of Foetal and Adult Sheep Haemoglobins": https://www.jstor.org/stable/98295?seq=23
 
 Link to the Hodgkin's Nobel Lecture "The X-ray analysis of complicated molecules": https://www.nobelprize.org/uploads/2018/06/hodgkin-lecture-1.pdf
+
+Link to the unit cell definition: http://ccp14.cryst.bbk.ac.uk/ccp/web-mirrors/xtaldraw/crystal/unitcell.htm
+
+Link to the Ghale Rhode's book "Crystallography Made Crystal Clear": https://www.sciencedirect.com/book/9780125870733/crystallography-made-crystal-clear
+
+Link to Bach's Tocatta and Fugue: https://www.youtube.com/watch?v=ATbMw6X3T40&list=PLpYpzr2uMfSVGgN8tDt3IUS36Ayzo3GA_&index=4
