@@ -1,17 +1,17 @@
 ## Take-home points:
-Henry Bragg and his son Lawrence Bragg invented X-ray crystallography, pioneering the use of X-ray diffraction to determine the atomic structure of crystals.
+- Henry Bragg and his son Lawrence Bragg invented X-ray crystallography, pioneering the use of X-ray diffraction to determine the atomic structure of crystals.
 
-The first studies by Henry Bragg and his son Lawrence Bragg were conducted on simple inorganic salt crystals such as sodium chloride
+- The first studies by Henry Bragg and his son Lawrence Bragg were conducted on simple inorganic salt crystals such as sodium chloride
 
-Lawrence Bragg went on to focus on the structures of organic compounds and was the first to determine the low-resolution structure of hemoglobin, revealing the structural differnece of deoxy and oxy states.
+- Lawrence Bragg went on to focus on the structures of organic compounds and was the first to determine the low-resolution structure of hemoglobin, revealing the structural differnece of deoxy and oxy states.
 
-Bragg’s PhD student, Max Perutz, concentrated on solving the phase problem and determined the high-resolution structure of hemoglobin using the method of isomorphous replacement.
+- Bragg’s PhD student, Max Perutz, concentrated on solving the phase problem and determined the high-resolution structure of hemoglobin using the method of isomorphous replacement.
 
-John Kendrew, a student of both Bragg and Perutz, focused on determining the structure of myoglobin and, together with Perutz, revealed the structural differences between fetal and adult hemoglobin.
+- John Kendrew, a student of both Bragg and Perutz, focused on determining the structure of myoglobin and, together with Perutz, revealed the structural differences between fetal and adult hemoglobin.
 
-Dorothy Hodgkin identified the structures of key biomolecules essential for life, such as penicillin, vitamin B12, and insulin.
+- Dorothy Hodgkin identified the structures of key biomolecules essential for life, such as penicillin, vitamin B12, and insulin.
 
-One of the secrets to their laboratory’s success was its happy and supportive atmosphere.
+- One of the secrets to their laboratory’s success was its happy and supportive atmosphere.
 
 
 ## Summary
