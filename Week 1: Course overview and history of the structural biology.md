@@ -1,3 +1,9 @@
+#Take-home points:
+
+
+
+
+
 Link to the book of "Architects of the Structural Biology": [https://archive.org/details/architects-of-structural-biology-bragg-perutz-kendrew-hodgkin-john-meurig-thomas-z-lib.org]
 
 Link to the Lawrence Bragg's paper "X-Ray Analysis of the Haemoglobin Molecule": https://www.jstor.org/stable/pdf/1710602.pdf
