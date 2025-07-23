@@ -42,6 +42,8 @@ Link to the Kendrew's Nobel Lecture "Myoglobin and the structure of proteins": h
 
 Link to Kendrew's and Perutz's paper on "A Comparative X-Ray Study of Foetal and Adult Sheep Haemoglobins": https://www.jstor.org/stable/98295?seq=23
 
+Link to the PDB101 Molecule of the Month: Fetal Hemoglobin: https://pdb101.rcsb.org/motm/257
+
 Link to the Hodgkin's Nobel Lecture "The X-ray analysis of complicated molecules": https://www.nobelprize.org/uploads/2018/06/hodgkin-lecture-1.pdf
 
 Link to the unit cell definition: http://ccp14.cryst.bbk.ac.uk/ccp/web-mirrors/xtaldraw/crystal/unitcell.htm
