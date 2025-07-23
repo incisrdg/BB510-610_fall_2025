@@ -1,4 +1,4 @@
-## Take-home points:
+## 🏠 Take-home points:
 - Henry Bragg and his son Lawrence Bragg invented X-ray crystallography, pioneering the use of X-ray diffraction to determine the atomic structure of crystals.
 
 - The first studies by Henry Bragg and his son Lawrence Bragg were conducted on simple inorganic salt crystals such as sodium chloride
