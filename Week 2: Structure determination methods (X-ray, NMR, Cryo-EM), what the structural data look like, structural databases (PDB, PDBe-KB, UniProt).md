@@ -6,4 +6,4 @@ Link to the PDB101 Exploring the Structural Biology of Bioenergy: https://pdb101
 
 Link to the PDB's X-ray Crystallography video: https://www.youtube.com/watch?v=RUok4O9oovQ
 
-
+➡️ Link to the example crystal structure 2rh1: https://www.rcsb.org/structure/2RH1
