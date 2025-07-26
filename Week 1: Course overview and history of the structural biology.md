@@ -29,7 +29,7 @@ Link to the Lawrence Bragg's Nobel Lecture "The diffraction of X-rays by crystal
 ![hb-animation](https://github.com/user-attachments/assets/9d376a3c-b923-4c28-87e3-3702645139bb)
 PDB101
 
-Link to the PDB 101 Molecule of the Month: Hemoglobin: https://pdb101.rcsb.org/motm/41
+➡️ Link to the PDB 101 Molecule of the Month: Hemoglobin: https://pdb101.rcsb.org/motm/41
 
 Link to the crystallography course of CBE "The Phase Problem": https://www.xtal.iqf.csic.es/Cristalografia/parte_05_7-en.html
 
@@ -43,7 +43,7 @@ Link to the Kendrew's Nobel Lecture "Myoglobin and the structure of proteins": h
 
 Link to Kendrew's and Perutz's paper on "A Comparative X-Ray Study of Foetal and Adult Sheep Haemoglobins": https://www.jstor.org/stable/98295?seq=23
 
-Link to the PDB101 Molecule of the Month: Fetal Hemoglobin: https://pdb101.rcsb.org/motm/257
+➡️ Link to the PDB101 Molecule of the Month: Fetal Hemoglobin: https://pdb101.rcsb.org/motm/257
 
 Link to the Hodgkin's Nobel Lecture "The X-ray analysis of complicated molecules": https://www.nobelprize.org/uploads/2018/06/hodgkin-lecture-1.pdf
 
