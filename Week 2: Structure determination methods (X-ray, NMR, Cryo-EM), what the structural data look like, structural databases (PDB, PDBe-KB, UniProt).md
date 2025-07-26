@@ -20,3 +20,4 @@ Link to the chapter on Cryo-EM: https://cryoem101.org/chapter-1/
 
 ➡️ Link to the example EM structure 6qzp: https://www.rcsb.org/structure/6QZP
 
+Link to the NMR lecture from MSU: https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/nmr/nmr1.htm
