@@ -18,3 +18,5 @@ Link to the PDB's X-ray Crystallography video: https://www.youtube.com/watch?v=R
 
 Link to the chapter on Cryo-EM: https://cryoem101.org/chapter-1/
 
+Link to the example EM structure 6qzp: https://www.rcsb.org/structure/6QZP
+
