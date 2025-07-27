@@ -1,4 +1,10 @@
+## 🗄️ Databases: 
 
+Link to the Protein Structure Data Bank (PDB): https://www.rcsb.org/
+
+Link to the Protein Data Bank in Europe (PDBe): https://www.ebi.ac.uk/pdbe/
+
+Link to the UniProt: https://www.uniprot.org/
 
 ## References: 
 
@@ -23,3 +29,4 @@ Link to the chapter on Cryo-EM: https://cryoem101.org/chapter-1/
 Link to the NMR lecture from MSU: https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/nmr/nmr1.htm
 
 ➡️ Link to the example NMR structure 8urv: https://www.rcsb.org/structure/8URV
+
