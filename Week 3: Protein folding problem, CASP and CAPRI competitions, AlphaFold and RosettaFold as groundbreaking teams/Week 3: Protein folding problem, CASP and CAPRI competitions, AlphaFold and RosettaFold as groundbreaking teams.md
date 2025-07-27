@@ -21,3 +21,5 @@ Link to the paper of AlphaFold: https://www.nature.com/articles/s41586-019-1923-
 Link to the paper of AlphaFold2: https://www.nature.com/articles/s41586-021-03819-2
 
 Link to the paper of AlphaFold3: https://www.nature.com/articles/s41586-024-07487-w
+
+Link to the DeepMind's blog post "AlphaFold: a solution to a 50-year-old grand challenge in biology": https://deepmind.google/discover/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology/
