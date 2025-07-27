@@ -1,12 +1,12 @@
 ## 🏠 Take-home points
 
-Most structural data are obtained through the following three methods: X-ray crystallography, cryo-electron microscopy (cryo-EM), and nuclear magnetic resonance (NMR) spectroscopy.
+- Most structural data are obtained through the following three methods: X-ray crystallography, cryo-electron microscopy (cryo-EM), and nuclear magnetic resonance (NMR) spectroscopy.
 
-X-ray crystallography can resolve structures at atomic resolution; however, due to crystal packing effects, the resulting structures may deviate from their native folds. 
+- X-ray crystallography can resolve structures at atomic resolution; however, due to crystal packing effects, the resulting structures may deviate from their native folds. 
 
-Cryo-EM allows the visualization of large macromolecular complexes in near-native conditions; moreover, it is particularly well-suited for studying membrane proteins.
+- Cryo-EM allows the visualization of large macromolecular complexes in near-native conditions; moreover, it is particularly well-suited for studying membrane proteins.
 
-NMR spectroscopy provides structural information in solution, closely resembling the physiological environment; however, it is generally limited to smaller proteins due to signal overlap and sensitivity constraints. It is also one of the most labor-intensive methods for determining protein structures.
+- NMR spectroscopy provides structural information in solution, closely resembling the physiological environment; however, it is generally limited to smaller proteins due to signal overlap and sensitivity constraints. It is also one of the most labor-intensive methods for determining protein structures.
 
 
 
