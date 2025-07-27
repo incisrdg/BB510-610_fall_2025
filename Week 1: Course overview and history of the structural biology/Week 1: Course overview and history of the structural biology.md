@@ -20,7 +20,7 @@ Henry Bragg and his son Lawrence Bragg laid the foundations of X-ray crystallogr
 
 ## References:
 
-Link to the book of "Architects of the Structural Biology": [https://archive.org/details/architects-of-structural-biology-bragg-perutz-kendrew-hodgkin-john-meurig-thomas-z-lib.org]
+📚 Link to the book of "Architects of the Structural Biology": [https://archive.org/details/architects-of-structural-biology-bragg-perutz-kendrew-hodgkin-john-meurig-thomas-z-lib.org]
 
 Link to the Lawrence Bragg's paper "X-Ray Analysis of the Haemoglobin Molecule": https://www.jstor.org/stable/pdf/1710602.pdf
 
@@ -49,6 +49,6 @@ Link to the Hodgkin's Nobel Lecture "The X-ray analysis of complicated molecules
 
 Link to the unit cell definition: http://ccp14.cryst.bbk.ac.uk/ccp/web-mirrors/xtaldraw/crystal/unitcell.htm
 
-Link to the Ghale Rhode's book "Crystallography Made Crystal Clear": https://www.sciencedirect.com/book/9780125870733/crystallography-made-crystal-clear
+📚 Link to the Ghale Rhode's book "Crystallography Made Crystal Clear": https://www.sciencedirect.com/book/9780125870733/crystallography-made-crystal-clear
 
 🎼 Link to Bach's Tocatta and Fugue: https://www.youtube.com/watch?v=ATbMw6X3T40&list=PLpYpzr2uMfSVGgN8tDt3IUS36Ayzo3GA_&index=4
