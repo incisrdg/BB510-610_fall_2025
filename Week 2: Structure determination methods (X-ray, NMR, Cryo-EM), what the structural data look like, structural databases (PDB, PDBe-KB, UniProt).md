@@ -14,7 +14,7 @@
 
 - UniProt is a comprehensive database of both protein sequence and functional information.
 
-![ATPsynthase_animated](https://github.com/user-attachments/assets/4561684b-dd12-4573-ad7c-5e788fd0ef8c) PDB
+![ATPsynthase_animated](https://github.com/user-attachments/assets/4561684b-dd12-4573-ad7c-5e788fd0ef8c) PDB101
 
 
 
