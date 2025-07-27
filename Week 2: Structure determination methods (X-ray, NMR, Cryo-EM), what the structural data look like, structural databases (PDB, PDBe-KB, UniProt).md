@@ -14,6 +14,7 @@
 
 - UniProt is a comprehensive database of both protein sequence and functional information.
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xtal.iqf.csic.es%2FCristalografia%2Fparte_06-en.html&psig=AOvVaw0kNSMlSjJtoJj-zzAsybZX&ust=1753680958910000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC-mOuo3I4DFQAAAAAdAAAAABAL<img width="350" height="343" alt="image" src="https://github.com/user-attachments/assets/9db74e2b-9bdc-468d-b7d2-1e66807ebedc" />
 
 ## Summary
 
