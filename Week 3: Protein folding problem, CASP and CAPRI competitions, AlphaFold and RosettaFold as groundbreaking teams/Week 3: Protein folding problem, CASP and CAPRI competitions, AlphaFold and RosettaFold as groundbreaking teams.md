@@ -23,3 +23,14 @@ Link to the paper of AlphaFold2: https://www.nature.com/articles/s41586-021-0381
 Link to the paper of AlphaFold3: https://www.nature.com/articles/s41586-024-07487-w
 
 Link to the DeepMind's blog post "AlphaFold: a solution to a 50-year-old grand challenge in biology": https://deepmind.google/discover/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology/
+
+Link to the paper "Protein complex prediction with AlphaFold-Multimer": https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2
+
+Link to the paper "AlphaFold2 reveals commonalities and novelties in protein structure space for 21 model organisms": https://www.nature.com/articles/s42003-023-04488-9
+
+Link to the paper "Clustering predicted structures at the scale of the known protein universe": https://www.nature.com/articles/s41586-023-06510-w
+
+Link to the paper "Uncovering new families and folds in the natural protein universe": https://www.nature.com/articles/s41586-023-06622-3
+
+Link to the example of an uncharacterized protein: https://alphafold.ebi.ac.uk/entry/A0A849ZK06
+
