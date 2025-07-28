@@ -55,6 +55,13 @@ Miniconda: https://www.anaconda.com/docs/getting-started/miniconda/install
 
 Colab: https://colab.research.google.com/
 ##
+Legend:
+
+📚: link to the reference books
+
+➡️: link to the mentioned structures
+
+##
 🔮 There will be pop-up quizzes during the first five minutes of each lesson, not for grading, but to help recall the key points from the previous week. Highly recommend you join the pop-up quizzes, they’ll be fun!
 ##
 📬 If you have any questions or concerns, do not hesitate to contact me at the following email address: srdginci@gmail.com
