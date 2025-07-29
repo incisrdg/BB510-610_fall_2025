@@ -2,6 +2,8 @@
 
 ## References
 
+🗄️ Link to the Alphafold structure databse: https://alphafold.ebi.ac.uk/
+
 📚 Link to the book "Protein Structure and Prediction" by Gregory A Petsko & Dagmar Ringe: https://books.google.co.ls/books?id=2yRDWkHhN9QC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false
 
 Link to the paper "The Resolution Revolution": https://www.science.org/doi/10.1126/science.1251652
