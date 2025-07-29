@@ -12,6 +12,7 @@
 - Dorothy Hodgkin identified the structures of key biomolecules essential for life, such as penicillin, vitamin B12, and insulin.
 
 - One of the secrets to their laboratory’s success was its happy and supportive atmosphere.
+
 ![GKAmjG-XEAA9SQ3 jpg-large](https://github.com/user-attachments/assets/119cb1ba-a861-4d67-be12-3ad10d88bd9d)
 
 
