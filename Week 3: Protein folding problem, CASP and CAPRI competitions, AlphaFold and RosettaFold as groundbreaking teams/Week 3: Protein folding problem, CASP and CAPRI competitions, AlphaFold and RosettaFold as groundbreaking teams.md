@@ -34,3 +34,10 @@ Link to the paper "Uncovering new families and folds in the natural protein univ
 
 Link to the example of an uncharacterized protein: https://alphafold.ebi.ac.uk/entry/A0A849ZK06
 
+Link to the paper "The X-ray crystallography phase problem solved thanks to AlphaFold and RoseTTAFold models: a case-study report" : https://onlinelibrary.wiley.com/doi/epdf/10.1107/S2059798322002157?saml_referrer
+
+Link to the paper "Deep learning for reconstructing protein structures from cryo-EM density maps: Recent advances and future directions": https://www.sciencedirect.com/science/article/pii/S0959440X23000106?via%3Dihub
+
+Link to the paper "The accuracy of protein structures in solution determined by AlphaFold and NMR": https://www.cell.com/structure/fulltext/S0969-2126(22)00132-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212622001320%3Fshowall%3Dtrue
+
+
