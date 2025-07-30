@@ -42,4 +42,16 @@ Link to the paper "Deep learning for reconstructing protein structures from cryo
 
 Link to the paper "The accuracy of protein structures in solution determined by AlphaFold and NMR": https://www.cell.com/structure/fulltext/S0969-2126(22)00132-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212622001320%3Fshowall%3Dtrue
 
+Link to the paper "Assessing the Performance of AF2 and AF3-Implementations on Antibody-Antigen Complexes": https://www.biorxiv.org/content/10.1101/2025.07.25.666870v1.full
+
+Link to the Ian Wilkinson's blog post on NIH cutting funding for CASP: https://www.linkedin.com/feed/update/urn:li:activity:7347934915520327682/
+
+Link to the Ian Wilkinson's blog post on CASP rising from the dead: https://www.linkedin.com/feed/update/urn:li:activity:7354568665385607170/
+
+
+
+
+
+
+
 
