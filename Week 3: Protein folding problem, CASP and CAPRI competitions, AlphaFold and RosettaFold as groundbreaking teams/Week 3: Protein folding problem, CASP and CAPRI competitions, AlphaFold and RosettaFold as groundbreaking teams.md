@@ -1,6 +1,14 @@
 ## 🏠 Take-home points
+- Levinthal’s paradox highlights the computational complexity of protein folding, which has historically hindered accurate in silico structure prediction.
 
+- AF2 achieved unprecedented accuracy in monomer structure prediction and expanded this success to protein-protein complexes via its multimeric module.
 
+- AF3 built on AF2’s foundation by using a new model design, leading to even more complicated predictions for multimeric and complex structures.
+
+- The CASP and CAPRI global competitions provide rigorous, standardized assessments that drive innovation and track the performance of structure prediction methods over time.
+
+- The predictive performance and generalizability of structure prediction models are fundamentally constrained by the quality, diversity, and size of the datasets they are trained on.
+  
 ## Summary
 Experimental determination of protein structures and protein-protein complexes is both costly and time-intensive, highlighting the need for computational approaches as efficient and cost-effective alternatives. However, the protein folding problem has long posed a significant challenge in computational biology, famously encapsulated in Levinthal's paradox. In recent years, deep learning-based structure prediction methods have made significant strides. AlphaFold2 (AF2) marked a major breakthrough by achieving remarkable accuracy in monomer prediction and extending this capability to protein-protein complexes through its multimeric module. Building on this, AlphaFold3 (AF3) introduced a novel model architecture and demonstrated further improvements in predicting multimeric structures with higher accuracy. Alongside AF3, several open-source, AF3-inspired models have emerged, each designed to overcome specific limitations of the original framework and to democratize access to high-accuracy predictions. From the outset, two key international competitions, CASP (Critical Assessment of Structure Prediction) and CAPRI (Critical Assessment of PRedicted Interactions), have played pivotal roles in guiding and benchmarking advances in the field of protein structure prediction. In parallel, RoseTTAFold emerged as another leading method in the field. Developed around the same time as AF2, it contributed significantly to early breakthroughs in structure prediction. However, unlike AlphaFold, the RoseTTAFold models are not fully open-access, limiting their widespread use and reproducibility in the community. 
 
