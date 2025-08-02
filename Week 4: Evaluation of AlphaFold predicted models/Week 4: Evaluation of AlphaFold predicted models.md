@@ -14,5 +14,10 @@ pLDDT score:
 
    Link to the AF2 structure AF-P36883-F1: https://alphafold.ebi.ac.uk/entry/P36883
 
+PAE score:
+
+   Link to the AF2 structure AF-Q9NRI5-F1: https://alphafold.ebi.ac.uk/entry/Q9NRI5
+
+   Link to the AF2 structure AF-P9WNQ7-F1: https://alphafold.ebi.ac.uk/entry/P9WNQ7
 
    
