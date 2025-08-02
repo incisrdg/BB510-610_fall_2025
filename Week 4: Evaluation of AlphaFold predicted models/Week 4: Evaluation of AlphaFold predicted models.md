@@ -20,4 +20,9 @@ PAE score:
 
    Link to the AF2 structure AF-P9WNQ7-F1: https://alphafold.ebi.ac.uk/entry/P9WNQ7
 
+   Link to the AF2 structure AF-O15121-F1: https://alphafold.ebi.ac.uk/entry/O15121
+
+Link to the paper "How significant is a protein structure similarity with TM-score = 0.5?" : https://academic.oup.com/bioinformatics/article/26/7/889/213219
    
+Link to the paper "Scoring function for automated assessment of protein structure template quality": https://onlinelibrary.wiley.com/doi/full/10.1002/prot.20264?casa_token=hX_5at8e3FsAAAAA%3AKUNF1hwKQIVYIOGv2noTxnulTMCVb5ut5vLXkZ-eIuajcLKghchnCjsD97mN91Qw2Y6HQocFjxEU0x5P
+
