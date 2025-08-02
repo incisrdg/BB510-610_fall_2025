@@ -1,8 +1,13 @@
 ## 🏠 Take-home Points
 
-- AlphaFold provides several confidence metrics such as pLDDT, ipLDDT, PAE, iPAE, pTM, and ipTM to help assess the quality and reliability of its predicted protein structures.
+- AlphaFold provides several confidence metrics such as pLDDT, ipLDDT, PAE, iPAE, pTM, and ipTM to help assess the quality and reliability of its accuracy of protein structures.
 
-- The pLDDT score focuses on local (per-residue) confidence, which typically reflects how well AlphaFold is predicting secondary structure elements and local geometry. (ipLDDT for the interface)
+- The pLDDT score provides local (per-residue) confidence, reflecting the accuracy of predicted secondary structures, while ipLDDT offers an analogous measure for interface regions.
+          - pLDDT>90: very high
+          - 70<pLDDT<90: confident
+          - 50<pLDDT<70: low
+          - pLDDT<50: very low
+  
 
 - The PAE (Predicted Aligned Error) score focuses on the confidence of the relative position between pairs of residues (iPAE for the interface), and is particularly informative for:
      -  Domain–domain positioning 
