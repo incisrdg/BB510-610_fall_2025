@@ -1,3 +1,11 @@
+## ❗️Attention: 
+
+This section covers the theoretical and computational background of deep learning models on protein structure prediction. For ease of understanding, you are expected to read the first two papers in the reference section, which focus on the architectures of AF2 and AF3.
+
+## Take-home points:
+
+
+
 ## References
 
 Link to the paper of AF2: https://www.nature.com/articles/s41586-021-03819-2
