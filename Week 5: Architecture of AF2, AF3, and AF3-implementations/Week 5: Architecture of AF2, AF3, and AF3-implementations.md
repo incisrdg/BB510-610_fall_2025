@@ -4,6 +4,11 @@ This section covers the theoretical and computational background of deep learnin
 
 ## Take-home points:
 
+AF2 architecture
+    Input representation moduel: protein sequence + multiple sequence alignments (MSAs) + optional templates
+    Output: MSA representation (N sequences × L residues), pair representation (L × L contact map prior)
+    
+        
 
 
 ## References
