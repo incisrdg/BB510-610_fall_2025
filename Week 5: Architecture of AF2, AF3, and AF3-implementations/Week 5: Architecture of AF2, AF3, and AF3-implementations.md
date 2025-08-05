@@ -12,9 +12,32 @@ Input representation module:
 
 Evoformer module:    
 - Input: MSA representation + pairwise representation
-- Transformer-based blocks: row attention -> column attention -> transition -> out-product mean -> triangle representation
-- Output: 
+- Transformer-based blocks: row attention → column attention → transition → out-product mean → triangle representation
+- Output: learned MSA representation + pairwise representation
 
+Structure module:    
+- IPA → backbone fitting → side chain placement
+
+##
+
+AF3 architecture
+
+Input representation module:
+- Input: protein sequence + multiple sequence alignments (MSAs) ( optional templates) + nucleis acid sequences/small molecules/ions/water (optional docking poses)
+- Output: single representation (N sequences × L residues), pair representation (L × L contact map prior) [no MSA representation]
+
+Pairformer module:    
+- Input: single representation + pair representation
+- Pairformer block: single attention → pair attention → single-pair communication [no triangle representation]
+- Output: refined single and pair embeddings
+
+Geometric module
+- Pairwise distances
+- Orientations
+- Angular/geometric features
+
+Structure module:
+- Diffusion module → denoising
 
 ## References
 
