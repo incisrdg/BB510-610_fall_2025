@@ -11,7 +11,9 @@ Input representation module:
 - Output: MSA representation (N sequences × L residues), pair representation (L × L contact map prior)
 
 Evoformer module:    
-        
+- Input: MSA representation + pairwise representation
+- Transformer-based blocks: row attention -> column attention -> transition -> out-product mean -> triangle representation
+- Output: 
 
 
 ## References
