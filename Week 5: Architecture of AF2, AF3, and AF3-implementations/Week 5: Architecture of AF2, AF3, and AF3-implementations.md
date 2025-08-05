@@ -46,7 +46,7 @@ Structure module:
 AlphaFold2 (AF2) introduced a groundbreaking architecture combining a pair representation (capturing residue-residue interactions) and a MSA representation (capturing evolutionary information) through iterative attention-based modules called Evoformer blocks. It outputs 3D structures via a structure module using invariant point attention and backbone torsion angle prediction. AlphaFold3 (AF3) extends this by unifying the architecture to handle diverse biomolecular inputs including proteins, nucleic acids, and small molecules through a multimodal tokenization and attention mechanism. Instead of separate MSA and pair inputs, AF3 uses a general-purpose architecture inspired by diffusion and generative models, incorporating explicit geometric representations and a diffusion-based structure sampling strategy. Open-source AF3 implementations like Boltz and Chai replicate AF3’s architecture with slight variations: Boltz-1 implements a deep learning model refining the AF3 framework with improved input processing, architectural adjustments, and a redesigned confidence while Chai-1, with the same model architecture and training strategy with AF3, supports experimental restraints for enhanced accuracy and can function without MSAs.
 
 ![gr9_lrg](https://github.com/user-attachments/assets/71bff1b7-713f-4f27-9f95-3832132e92fb)
-AF2, ESMFold, AF3, respectively. 
+(AF2, ESMFold, AF3, respectively.) 
 Pratt, Olivia S., et al., 2025
 
 ## References
