@@ -4,7 +4,7 @@ This section covers the theoretical and computational background of deep learnin
 
 ## 🏠 Take-home points:
 
-AF2 architecture
+**AF2 architecture**
 
 Input representation module:
 - Input: protein sequence + multiple sequence alignments (MSAs) + optional templates
@@ -20,7 +20,7 @@ Structure module:
 
 ##
 
-AF3 architecture
+**AF3 architecture**
 
 Input representation module:
 - Input: protein sequence + multiple sequence alignments (MSAs) ( optional templates) + nucleis acid sequences/small molecules/ions/water (optional docking poses)
@@ -38,6 +38,8 @@ Geometric module
 
 Structure module:
 - Diffusion module → denoising
+
+##
 
 ## References
 
