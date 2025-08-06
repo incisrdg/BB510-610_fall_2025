@@ -24,3 +24,6 @@ and Chai-1. The goal is to evaluate how various parameters such as model type, n
 <img width="672" height="367" alt="Screenshot 2025-08-06 at 08 25 01" src="https://github.com/user-attachments/assets/90fc4ece-9bf8-48fc-9658-6fd830207281" />
  from Sergey Ovchinnikov’s slides
 
+## References
+
+Sergey Ovchinnikov’s slides
