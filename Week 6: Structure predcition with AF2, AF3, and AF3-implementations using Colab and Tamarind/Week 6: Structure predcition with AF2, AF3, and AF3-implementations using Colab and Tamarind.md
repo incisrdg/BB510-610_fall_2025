@@ -4,7 +4,17 @@ In this section, we will perform protein structure predictions using ColabFold (
 
 ## 🏠 Take-home points
 
+- Adding lipids can help support the correct orientation of membrane-embedded proteins.
 
+- Adding salts can help proteins fold into the native conformation.
+
+- Natural ligands can provide structural information that guides the positioning of specific ligand backbones.
+
+- Be aware of hallucinations when predicting structures of larger protein sequences.
+
+- Multiple copies may superimpose during the prediction of higher-order oligomeric assemblies.
+
+- 1/20 seeds got confident prediction scores.
 
 ## Summary
 
