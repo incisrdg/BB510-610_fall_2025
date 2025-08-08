@@ -12,6 +12,8 @@ In this section, we will perform protein structure predictions using ColabFold (
 
 - Human Nars1 protein
 
+- Drosophila Sep2 and Sep5 
+
 ## 🏠 Take-home points
 
 - Adding lipids can help support the correct orientation of membrane-embedded proteins.
