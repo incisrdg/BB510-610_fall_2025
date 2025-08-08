@@ -1,4 +1,4 @@
-## 🚨 Attention
+## 🚨 Attention: pre-course action
 
 In this section, we will perform protein structure predictions using ColabFold (for AF2), the AF3 server, and the Tamarinde Bio server (for Boltz-2 and Chai-1). Please create accounts for the servers in advance of the session by using the links provided on the README page.
 
