@@ -72,7 +72,7 @@ Legend:
 
 (There will be no pop-up quizzes in the first two weeks!)
 
-## 📝 Workshops and Reports 
+## 📝 Workshops and reports 
 
 There will be workshop sessions in the second half of the lessons during certain weeks, including weeks 6, 7, and 8. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are unable to finish your reports during class hours, you will have until the end of the day to send them to my email. 
 
