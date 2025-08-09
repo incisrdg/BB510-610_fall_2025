@@ -80,7 +80,7 @@ Legend:
 
 ❗️ These workshops and reports are the main actions through which you will earn points for this course. There is no MT or final exam, so please pay attention to your reports.
 
-📌 A report template will be provided to guide you in the first writing process; however, there will be no templates for the following weeks.
+📌 A report template will be provided to guide you in the first writing process, however, there will be no templates for the following weeks.
 
 ##
 📬 If you have any questions or concerns, do not hesitate to contact me at the following email address: srdginci@gmail.com
