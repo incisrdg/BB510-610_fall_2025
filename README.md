@@ -1,5 +1,5 @@
 # Structural_Biology
-Welcome to the structural biology course! 🧬 This course is all about protein structures. We will cover topics including, but not limited to, the history of structural biology, structural data and sources, and the protein structure prediction problem from scratch to today's complexity. You can find all the relevant course materials here 📚. The field is evolving at the speed of the light ⚡️. Let's try to keep up with as many advancements as we can.
+🙌 Welcome to the structural biology course! 🧬 This course is all about protein structures. We will cover topics including, but not limited to, the history of structural biology, structural data and sources, and the protein structure prediction problem from scratch to today's complexity. You can find all the relevant course materials here.📚 The field is evolving at the speed of the light.⚡️ Let's try to keep up with as many advancements as we can.
 
 ## 👀Here is an overview of the next 14 weeks:
 
@@ -7,21 +7,21 @@ Welcome to the structural biology course! 🧬 This course is all about protein 
  
  Week 2: Structure determination methods (X-ray, NMR, Cryo-EM), what the structural data look like, structural databases (PDB, PDBe-KB, UniProt).
 
- Week 3: Protein folding problem, CASP and CAPRI competitions, AlphaFold and RosettaFold as the leader teams.
+ Week 3: Protein folding problem, CASP and CAPRI competitions, AlphaFold and RosettaFold as the leading teams.
  
  Week 4: Evaluation of AlphaFold predicted models.
  
  Week 5: Architecture of AF2, AF3, and AF3-implementations. 
  
- Week 6: Structure predcition with AF2, AF3, and AF3-implementations using Colab and Tamarind. 
+ Week 6: Structure prediction with AF2, AF3, and AF3-implementations using Colab and Tamarind. (👩‍💻 workshop session I) 
  
- Week 7: Pathogenicity prediction using structural data (single mutant: DynaMut, PremPS, FoldX, double mutant: ThermoMPNN-D)
+ Week 7: Pathogenicity prediction using structural data (single mutant: DynaMut, PremPS, FoldX, double mutant: ThermoMPNN-D) (👩‍💻 workshop session II-I) 
  
- Week 8: Pathogenicity prediction with AlphaMissense and Hotspot.
+ Week 8: Pathogenicity prediction with AlphaMissense and Hotspot. (👩‍💻 workshop session II-II) 
  
- Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY, Boltz-2).
+ Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY, Boltz-2). (👩‍💻 workshop session III) 
  
- Week 10: Molecular docking pipeline: module 1 (Digital Representations of Molecules) and module 2 (Exploring Chemical and Biological Data With BidingDB and the RDKit).
+ Week 10: Molecular docking pipeline: module 1 (Digital Representations of Molecules) and module 2 (Exploring Chemical and Biological Data With BidingDB and the RDKit). 
  
  Week 11: Molecular docking pipeline: module 3 (Preparing Structures for Docking) and module 4 (Molecular Docking using gnina).
  
@@ -34,7 +34,7 @@ Welcome to the structural biology course! 🧬 This course is all about protein 
 
 
 
-❕You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class.❕
+❕You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates❕
 
 
 ## ⬇️ Below are some general suggestions for this course:
@@ -74,13 +74,13 @@ Legend:
 
 ## 📝 Workshops and reports 
 
-💻 There will be workshop sessions in the second half of the lessons during certain weeks, including weeks 6, 7, and 8. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are unable to finish your reports during class hours, you will have until the end of the day to send them to my email. (Please do not forget to bring your computers to the workshop sessions!)
-
-
+💻 There will be workshop sessions in the second half of the lessons during certain weeks, including weeks 6, 7, and 8. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are unable to finish your reports during class hours, you will have time until the end of the day to send them to my email. (Please do not forget to bring your computers to the workshop sessions!)
 
 ❗️ These workshops and reports are the main actions through which you will earn points for this course. There is no MT or final exam, so please pay attention to your reports.
 
 📌 A report template will be provided to guide you in the first writing process, however, there will be no templates for the following weeks.
+
+## About me
 
 ## Contact info
 📬 If you have any questions or concerns, do not hesitate to contact me at the following email address: srdginci@gmail.com
