@@ -82,5 +82,5 @@ Legend:
 
 📌 A report template will be provided to guide you in the first writing process, however, there will be no templates for the following weeks.
 
-##
+## Contact
 📬 If you have any questions or concerns, do not hesitate to contact me at the following email address: srdginci@gmail.com
