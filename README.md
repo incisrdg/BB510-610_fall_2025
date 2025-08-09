@@ -58,8 +58,7 @@ AF3 server: https://alphafoldserver.com/
 Tamarind Bio: https://app.tamarind.bio/app
 
 Colab: https://colab.research.google.com/
-##
-Legend:
+## Legend
 
 📚: link to the reference books
 
