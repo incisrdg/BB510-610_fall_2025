@@ -58,5 +58,7 @@ Link to the NMR lecture from MSU: https://www2.chemistry.msu.edu/faculty/reusch/
 
 ➡️ Link to the example NMR structure 8urv: https://www.rcsb.org/structure/8URV
 
+## Slides
 
+https://docs.google.com/presentation/d/1eyLvvHLQBsWbhgw54DAtLNdpFG5o4dlRTHgVzR962bk/edit?usp=sharing
 
