@@ -54,3 +54,7 @@ Link to the unit cell definition: http://ccp14.cryst.bbk.ac.uk/ccp/web-mirrors/x
 📚 Link to the Ghale Rhode's book "Crystallography Made Crystal Clear": https://www.sciencedirect.com/book/9780125870733/crystallography-made-crystal-clear
 
 🎼 Link to Bach's Tocatta and Fugue: https://www.youtube.com/watch?v=ATbMw6X3T40&list=PLpYpzr2uMfSVGgN8tDt3IUS36Ayzo3GA_&index=4
+
+## Slides
+
+https://docs.google.com/presentation/d/1wSGxyglgvSnJ-zIdgrNkFPIT5aAzncLxdN0yIgZjpfg/edit?usp=sharing
