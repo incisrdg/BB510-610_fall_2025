@@ -39,3 +39,7 @@ and Chai-1. The goal is to evaluate how various parameters such as model type, n
 ## References
 
 Sergey Ovchinnikov’s slides
+
+## Slides
+
+https://docs.google.com/presentation/d/1MeapGNPZwZcQyvFA1ts-XJdXpp9gv7b2nevZYu8CEAc/edit?usp=sharing
