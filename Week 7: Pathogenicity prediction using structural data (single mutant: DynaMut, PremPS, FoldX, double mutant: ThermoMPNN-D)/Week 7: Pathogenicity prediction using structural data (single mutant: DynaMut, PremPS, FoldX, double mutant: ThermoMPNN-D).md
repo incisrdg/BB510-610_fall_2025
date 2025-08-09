@@ -55,3 +55,7 @@ Tool access:
 ➡️ Link to the PremPS server: https://lilab.jysw.suda.edu.cn/research/PremPS/research/PremPS/
 
 ➡️ Link to the ThermoMPNN Colab: https://colab.research.google.com/drive/1OcT4eYwzxUFNlHNPk9_5uvxGNMVg3CFA
+
+## Slides
+
+https://docs.google.com/presentation/d/1DyIXaXer8BrBsRzPI62I9Tl4_k4rsK4JK6lR7Qz7M1w/edit?usp=sharing
