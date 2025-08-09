@@ -76,6 +76,9 @@ Legend:
 
 There will be workshop sessions in the second half of the lessons during certain weeks, including weeks 6, 7, and 8. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are unable to finish your reports during class hours, you will have until the end of the day to send them to my email. 
 
+❗️ These workshops and reports are the main actions through which you will earn points for this course. There is no MT or final exam, so please pay attention to your reports.
+
+📌 A report template will be provided to guide you in the first writing process; however, there will be no templates for the following weeks.
 
 ##
 📬 If you have any questions or concerns, do not hesitate to contact me at the following email address: srdginci@gmail.com
