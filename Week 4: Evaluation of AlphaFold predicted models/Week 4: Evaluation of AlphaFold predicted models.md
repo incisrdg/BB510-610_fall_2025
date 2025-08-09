@@ -52,3 +52,7 @@ Link to the paper "How significant is a protein structure similarity with TM-sco
 Link to the paper "Scoring function for automated assessment of protein structure template quality": https://onlinelibrary.wiley.com/doi/full/10.1002/prot.20264?casa_token=hX_5at8e3FsAAAAA%3AKUNF1hwKQIVYIOGv2noTxnulTMCVb5ut5vLXkZ-eIuajcLKghchnCjsD97mN91Qw2Y6HQocFjxEU0x5P
 
 Link to the paper "Interrogation and validation of the interactome of neuronal Munc18-interacting Mint proteins with AlphaFold2": https://www.biorxiv.org/lookup/doi/10.1101/2023.02.20.529329
+
+## Slides
+
+https://docs.google.com/presentation/d/1xrgTU-YrxNIb44ym3nXpIGljJDZzavWqU8Lh6kGjZdk/edit?usp=sharing
