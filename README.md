@@ -66,7 +66,7 @@ Legend:
 ➡️: link to the example structures
 
 ##
-🔮 There will be pop-up quizzes during the first five minutes of each lesson, not for grading, but to help recall the key points from the previous week. Highly recommend you join the pop-up quizzes, they’ll be fun!
+🔮 There will be pop-up quizzes during the first five minutes of each lesson, not for grading, but to help recall the key points from the previous week. Highly recommend you join the pop-up quizzes, they will be fun!
 
 🍀 Pop-up quizzes are a fun way to collect some extra points in this course.
 
