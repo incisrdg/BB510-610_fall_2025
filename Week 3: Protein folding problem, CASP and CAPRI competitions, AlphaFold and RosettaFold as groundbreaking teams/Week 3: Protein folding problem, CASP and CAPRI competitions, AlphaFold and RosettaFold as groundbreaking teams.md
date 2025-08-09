@@ -63,7 +63,9 @@ Link to the Ian Wilkinson's blog post on NIH cutting funding for CASP: https://w
 
 Link to the Ian Wilkinson's blog post on CASP rising from the dead: https://www.linkedin.com/feed/update/urn:li:activity:7354568665385607170/
 
+## Slides
 
+https://docs.google.com/presentation/d/1lFHfM3MgESZElMCHVxqUT5rHpqr2D2hpw7VIosMdK48/edit?usp=sharing
 
 
 
