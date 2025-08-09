@@ -60,3 +60,7 @@ Link to the paper on "Assessing the Performance of AF2 and AF3-Implementations o
 Link to the paper of Boltz-1: https://www.biorxiv.org/content/10.1101/2024.11.19.624167v1.full
 
 Link to the paper of Chai-1: https://www.google.com/search?client=safari&rls=en&q=chai-1&ie=UTF-8&oe=UTF-8
+
+## Slides
+
+https://docs.google.com/presentation/d/1C6mlZ-NunWhLkgmeJsuTbuPWF2K-Dnvji4RLWvaEyOY/edit?usp=sharing
