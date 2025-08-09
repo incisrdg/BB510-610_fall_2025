@@ -74,7 +74,9 @@ Legend:
 
 ## 📝 Workshops and reports 
 
-There will be workshop sessions in the second half of the lessons during certain weeks, including weeks 6, 7, and 8. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are unable to finish your reports during class hours, you will have until the end of the day to send them to my email. 
+💻 There will be workshop sessions in the second half of the lessons during certain weeks, including weeks 6, 7, and 8. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are unable to finish your reports during class hours, you will have until the end of the day to send them to my email. (Please do not forget to bring your computers to the workshop sessions!)
+
+
 
 ❗️ These workshops and reports are the main actions through which you will earn points for this course. There is no MT or final exam, so please pay attention to your reports.
 
