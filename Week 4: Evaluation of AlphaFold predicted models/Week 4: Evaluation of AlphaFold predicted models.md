@@ -22,6 +22,7 @@ Deep learning methods such as AlphaFold and RoseTTAFold have dramatically advanc
 
 <img width="1200" height="1171" alt="AF-Q8W3K0-F1-2-3" src="https://github.com/user-attachments/assets/aba7c6e5-2356-43f2-8fad-f8dc2a737030" />
 AlphaFold2 precition of probable disease resistance protein At1g58602
+<img width="300" height="293" alt="AF-Q8W3K0-F1-2-4" src="https://github.com/user-attachments/assets/da0d353a-7b95-48b0-b7a2-f7ef3587f068" />
 
 
 
