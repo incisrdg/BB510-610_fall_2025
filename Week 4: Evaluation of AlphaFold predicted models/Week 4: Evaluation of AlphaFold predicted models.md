@@ -1,6 +1,6 @@
 ## 🏠 Take-home Points
 
-- AlphaFold provides several confidence metrics such as pLDDT, ipLDDT, PAE, iPAE, pTM, and ipTM to help assess the quality and reliability of its accuracy of protein structures.
+- AlphaFold provides several confidence metrics such as pLDDT, ipLDDT, PAE, iPAE, pTM, and ipTM to help assess the quality and reliability of its accuracy of predicted protein structures.
 
 - The pLDDT score provides local (per-residue) confidence, reflecting the accuracy of predicted secondary structures, while ipLDDT offers an analogous measure for interface regions.
 
