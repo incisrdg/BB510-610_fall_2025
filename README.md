@@ -19,8 +19,7 @@
  
  Week 8: Pathogenicity prediction with AlphaMissense and Hotspot. ***(workshop session II-II)*** 
  
- Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY, Boltz-2). @@ (workshop session III)@@```
-***(workshop session III)*** 
+ Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY, Boltz-2).
  
  Week 10: Molecular docking pipeline: module 1 (Digital Representations of Molecules) and module 2 (Exploring Chemical and Biological Data With BidingDB and the RDKit). 
  
@@ -33,6 +32,7 @@
  Week 14: Q&A and discussion session. 
 
 
+<style>H1{color:Blue;}</style>aa
 
 
 ❕You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates❕
