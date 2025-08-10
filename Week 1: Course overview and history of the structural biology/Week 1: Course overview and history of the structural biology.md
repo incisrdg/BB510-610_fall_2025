@@ -29,7 +29,7 @@ Link to the Lawrence Bragg's paper "X-Ray Analysis of the Haemoglobin Molecule":
 Link to the Lawrence Bragg's Nobel Lecture "The diffraction of X-rays by crystals": https://www.nobelprize.org/uploads/2018/06/wl-bragg-lecture.pdf
 
 ![hb-animation](https://github.com/user-attachments/assets/9d376a3c-b923-4c28-87e3-3702645139bb)
-PDB101-deoxy/oxy-hemoglobin
+PDB101 -deoxy/oxy-hemoglobin
 
 ➡️ Link to the PDB 101 Molecule of the Month: Hemoglobin: https://pdb101.rcsb.org/motm/41
 
