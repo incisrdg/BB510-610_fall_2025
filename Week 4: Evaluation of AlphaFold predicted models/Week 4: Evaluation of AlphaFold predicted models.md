@@ -1,3 +1,7 @@
+## Take-home work
+
+
+
 ## 🏠 Take-home Points
 
 - AlphaFold provides several confidence metrics such as pLDDT, ipLDDT, PAE, iPAE, pTM, and ipTM to help assess the quality and reliability of its accuracy of predicted protein structures.
