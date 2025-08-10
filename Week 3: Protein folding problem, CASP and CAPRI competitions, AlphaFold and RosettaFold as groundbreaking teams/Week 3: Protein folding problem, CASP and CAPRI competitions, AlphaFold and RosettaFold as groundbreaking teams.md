@@ -12,7 +12,10 @@
 ## Summary
 Experimental determination of protein structures and protein-protein complexes is both costly and time-intensive, highlighting the need for computational approaches as efficient and cost-effective alternatives. However, the protein folding problem has long posed a significant challenge in computational biology, famously encapsulated in Levinthal's paradox. In recent years, deep learning-based structure prediction methods have made significant strides. AlphaFold2 (AF2) marked a major breakthrough by achieving remarkable accuracy in monomer prediction and extending this capability to protein-protein complexes through its multimeric module. Building on this, AlphaFold3 (AF3) introduced a novel model architecture and demonstrated further improvements in predicting multimeric structures with higher accuracy. Alongside AF3, several open-source, AF3-inspired models have emerged, each designed to overcome specific limitations of the original framework and to democratize access to high-accuracy predictions. From the outset, two key international competitions, CASP (Critical Assessment of Structure Prediction) and CAPRI (Critical Assessment of PRedicted Interactions), have played major roles in guiding and benchmarking advances in the field of protein structure prediction. In parallel, RoseTTAFold emerged as another leading method in the field. Developed around the same time as AF2, it contributed significantly to early breakthroughs in structure prediction. However, unlike AlphaFold, the RoseTTAFold models are not fully open-access, limiting their widespread use and reproducibility in the community. 
 
-<img width="920" height="538" alt="png-transparent-science-protein-folding-problem-energy-landscape-foldit-folding-funnel-gibbs-free-energy-structure-casp" src="https://github.com/user-attachments/assets/55e6581e-ca60-4e73-81e0-f8e36251628f" /> Protein folding energy landscape
+<img width="920" height="538" alt="png-transparent-science-protein-folding-problem-energy-landscape-foldit-folding-funnel-gibbs-free-energy-structure-casp" src="https://github.com/user-attachments/assets/55e6581e-ca60-4e73-81e0-f8e36251628f" /> 
+
+Protein folding energy landscape
+
 ## References
 
 🗄️ Link to the Alphafold structure databse: https://alphafold.ebi.ac.uk/
