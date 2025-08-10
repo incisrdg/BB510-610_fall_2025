@@ -10,7 +10,7 @@
 
 - The Protein Data Bank (PDB), which was established in 1971, is a structural database that houses experimentally determined protein structures obtained through X-ray, Cryo-EM and NMR together with some computational models.
 
-- The primary file formats used for representing protein structures are the PDB format (.pdb) and the mmCIF format (.cif). PDB format is the traditional flat-text representation, while mmCIF is a more modern and flexible format designed to accommodate larger and more complex structures.
+- The primary file formats used for representing protein structures are the PDB format (.pdb) and the mmCIF format (.cif). PDB format is the traditional flat-text representation, while mmCIF is a more modern and flexible format designed to accommodate larger and more complex information.
 
 - UniProt is a comprehensive database of both protein sequence and functional information.
 
