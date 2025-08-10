@@ -89,5 +89,9 @@ This is me! At least, it looks like. I am working in the fileds of computational
 
 👤 You can check my Scholar profile to see more: https://scholar.google.com/citations?view_op=list_works&hl=tr&hl=tr&user=4zw1czEAAAAJ
 
+Outside of work, I enjoy birdwatching, photography, and reading comics.
+
+🌈🧛‍♂️🪿🏐🏊‍♀️🎼🧬📖🎭🤿🤓
+
 ## Contact info
 📬 If you have any questions or concerns, do not hesitate to contact me at the following email address: srdginci@gmail.com
