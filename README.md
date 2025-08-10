@@ -87,5 +87,7 @@ There will be workshop sessions in the second half of select lessons, including 
 
 This is me! At least, it looks like. I am working in the fileds of computational structural biology and bioinformatics. My special interests include, but not limited to, protein structure predictions, protein-protein interactions, molecular dynamics simulations, ML models based on structural features of proteins as well as deep learning models. 
 
+👤 You can check my Scholar profile to see more: https://scholar.google.com/citations?view_op=list_works&hl=tr&hl=tr&user=4zw1czEAAAAJ
+
 ## Contact info
 📬 If you have any questions or concerns, do not hesitate to contact me at the following email address: srdginci@gmail.com
