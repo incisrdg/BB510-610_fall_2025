@@ -13,7 +13,7 @@
  
  Week 5: Architecture of AF2, AF3, and AF3-implementations. 
  
- Week 6: Structure prediction with AF2, AF3, and AF3-implementations using Colab and Tamarind. ***(workshop session I)*** 
+ Week 6: Structure prediction with AF2, AF3, and AF3-implementations using Colab and Tamarind. 💻***(workshop session I)*** 
  
  Week 7: Pathogenicity prediction using structural data (single mutant: DynaMut, PremPS, FoldX, double mutant: ThermoMPNN-D) ***(workshop session II)*** 
  
@@ -32,7 +32,6 @@
  Week 14: Q&A and discussion session. 
 
 
-<style>H1{color:Blue;}</style>aa
 
 
 ❕You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates❕
