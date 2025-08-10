@@ -17,7 +17,7 @@
 
 
 ## Summary
-Henry Bragg and his son Lawrence Bragg laid the foundations of X-ray crystallography, which was further advanced by their student Max Perutz and, in turn, by John Kendrew, who studied under both Bragg and Perutz. Dorothy Hodgkin, who also worked with Bragg, contributed significantly to the field as well. Together, these physicists were pioneers of structural biology and X-ray crystallography,and their discoveries fueled the development of related fields such as biochemistry and molecular biology. For the first time, these scientists considered proteins in three-dimensional space. They also proved that a supportive and collaborative research environment is fundamental to scientific progress.
+Henry Bragg and his son Lawrence Bragg laid the foundations of X-ray crystallography, which was further advanced by their student Max Perutz and, in turn, by John Kendrew, who studied under both Bragg and Perutz. Dorothy Hodgkin, who also worked with Bragg, contributed significantly to the field as well. Together, these physicists were pioneers of structural biology and X-ray crystallography, and their discoveries fueled the development of related fields such as biochemistry and molecular biology. For the first time, these scientists considered proteins in three-dimensional space. They also proved that a supportive and collaborative research environment is fundamental to scientific progress.
 
 
 ## References:
