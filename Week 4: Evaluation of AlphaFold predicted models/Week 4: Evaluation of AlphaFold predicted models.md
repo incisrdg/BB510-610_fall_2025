@@ -14,6 +14,7 @@ Additional questions:
 - For the fourth entry, please consider the TmAlphaFold database and provide a discussion of the results with respect to membrane localization.
 
 - For the fifth entry, please survey the human myocilin "fragments" deposited in the PDB and compare them with the AlphaFold2-predicted model, highlighting any global structural differences (Please pay attention to the sequence range as well). Then check the UniProt database to determine the protein’s function, and use this information to rationalize the structural differences observed between the computationally predicted model and the experimental structures.
+
 -In one of the PDB entries, one of the side helices differs from the others. Identify and report that structure, compare its motif to the AF2-predicted model, and discuss what this local structural deviation might suggest about the protein’s evolutionary history and importance of that structural motif.
  (4 pts)
 
