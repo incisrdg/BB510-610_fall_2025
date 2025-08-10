@@ -5,7 +5,7 @@
 
 - Lawrence Bragg went on to focus on the structures of organic compounds and was the first to determine the low-resolution structure of hemoglobin, revealing the structural differnece of deoxy- and oxy-states.
 
-- Bragg’s PhD student, Max Perutz, concentrated on solving the phase problem and determined the high-resolution structure of hemoglobin using the method of isomorphous replacement.
+- Bragg’s PhD student, Max Perutz, focused on solving the phase problem and determined the high-resolution structure of hemoglobin using the method of isomorphous replacement.
 
 - John Kendrew, a student of both Bragg and Perutz, focused on determining the structure of myoglobin and, together with Perutz, revealed the structural differences between fetal and adult hemoglobin.
 
