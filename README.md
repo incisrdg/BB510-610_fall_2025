@@ -34,12 +34,12 @@
 
 
 
-❕You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates❕
+❗️ You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates. ❗️
 
 
-## ⬇️ Below are some general suggestions for this course:
+## ⬇️ Below are some general requirements/suggestions for this course:
 
-✅ For structure visualization as well as some basic calculations, please set up UCSF ChimeraX and VMD from the following links.
+✅ For structure visualization as well as some basic calculations, please set up UCSF ChimeraX and/or VMD from the following links.
 
 UCSF ChimeraX: https://www.cgl.ucsf.edu/chimera/download.html
 VMD: https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
@@ -49,7 +49,7 @@ VMD: https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 Anaconda: https://www.anaconda.com/download
 Miniconda: https://www.anaconda.com/docs/getting-started/miniconda/install
 
-✅ Please sign up for Colab with your Google account. You will need Colab to run structure predictions using AF2, AF3 implementations, and BioEmu. Colab can also be used to run scripts in weeks 10 and 11 (suggested).
+✅ Please sign up for Colab with your Google account. You will need Colab to run structure predictions using AF2, AF3-implementations, and BioEmu. Colab can also be used to run scripts in weeks 10 and 11.
 
 ColabFold: https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb
 
@@ -58,22 +58,23 @@ AF3 server: https://alphafoldserver.com/
 Tamarind Bio: https://app.tamarind.bio/app
 
 Colab: https://colab.research.google.com/
+
 ## Legend
 
 📚: link to the reference books
 
 ➡️: link to the example structures
 
-## 🪄 Pop-up quizzes 
-🔮 There will be pop-up quizzes during the first five minutes of each lesson, not for grading, but to help recall the key points from the previous week. Highly recommend you join the pop-up quizzes, they will be fun!
+✅: required actions
+
+## Pop-up quizzes 
+🔮 There will be pop-up quizzes during the first five minutes of select lessons, not for grading, but to help recall the key points from the previous week. Highly recommend you join the pop-up quizzes, they will be fun!
 
 🍀 Pop-up quizzes are a fun way to collect some extra points in this course.
 
-(There will be no pop-up quizzes in the first two weeks!)
+## Workshops and reports 
 
-## 📝 Workshops and reports 
-
-💻 There will be workshop sessions in the second half of the lessons during certain weeks, including weeks 6, 7, and 8. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are unable to finish your reports during class hours, you will have time until the end of the day to send them to my email. (Please do not forget to bring your computers to the workshop sessions!)
+There will be workshop sessions in the second half of select lessons, including weeks 6, 7, 8, 9 and 12. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are not able to finish your reports during class hours, you will have time until the end of the day to send them to my email.  Please do not forget to bring your computers to the workshop sessions! 💻
 
 ❗️ These workshops and reports are the main actions through which you will earn points for this course. There is no MT or final exam, so please pay attention to your reports.
 
