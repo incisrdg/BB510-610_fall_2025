@@ -3,7 +3,7 @@
 
 - The first studies by Henry Bragg and his son Lawrence Bragg were conducted on simple inorganic salt crystals such as sodium chloride
 
-- Lawrence Bragg went on to focus on the structures of organic compounds and was the first to determine the low-resolution structure of hemoglobin, revealing the structural differnece of deoxy and oxy states.
+- Lawrence Bragg went on to focus on the structures of organic compounds and was the first to determine the low-resolution structure of hemoglobin, revealing the structural differnece of deoxy- and oxy-states.
 
 - Bragg’s PhD student, Max Perutz, concentrated on solving the phase problem and determined the high-resolution structure of hemoglobin using the method of isomorphous replacement.
 
