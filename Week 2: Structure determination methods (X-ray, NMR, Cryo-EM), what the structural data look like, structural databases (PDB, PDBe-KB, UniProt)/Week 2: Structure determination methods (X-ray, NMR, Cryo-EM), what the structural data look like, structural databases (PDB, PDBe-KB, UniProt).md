@@ -58,6 +58,23 @@ Link to the NMR lecture from MSU: https://www2.chemistry.msu.edu/faculty/reusch/
 
 ➡️ Link to the example NMR structure 8urv: https://www.rcsb.org/structure/8URV
 
+## Suggested
+Understanding Crystallography - Part 1: From Proteins to Crystals: https://www.youtube.com/watch?v=gLsC4wlrR2A
+
+Understanding Crystallography - Part 2: From Crystals to Diamond: https://www.youtube.com/watch?v=WJKvDUo3KRk
+
+What is CRYOEM?: https://www.youtube.com/watch?v=qc2PbmI5qMw
+
+The 2017 Nobel Prize in Chemistry: Cryo-electron microscopy explained: https://www.youtube.com/watch?v=026rzTXb1zw
+
+Joachim Frank, Nobel Prize in Chemistry 2017: Official interview: https://www.youtube.com/watch?v=3wTlaVvRjvk
+
+Richard Henderson, Nobel Prize in Chemistry 2017: Official interview: https://www.youtube.com/watch?v=o_y0wGZHkKI
+
+Jacques Dubochet, Nobel Prize in Chemistry 2017: Official interview: https://www.youtube.com/watch?v=8UPRTzQDPPY
+
+NMR spectroscopy visualized: https://www.youtube.com/watch?v=RZLew6Ff-JE&t=89s
+
 ## Slides
 
 https://docs.google.com/presentation/d/1eyLvvHLQBsWbhgw54DAtLNdpFG5o4dlRTHgVzR962bk/edit?usp=sharing
