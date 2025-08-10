@@ -48,13 +48,19 @@ Deep learning methods such as AlphaFold and RoseTTAFold have dramatically advanc
 
 AlphaFold2 precition of RRA1-RRA1 dimer
 
+## Databases
 
+Link to the AlphaFold database: https://alphafold.ebi.ac.uk/
+
+Link to the TmAlphaFold database: https://tmalphafold.ttk.hu/
 
 ## References
 
 Link to the paper on lDDT metric: https://academic.oup.com/bioinformatics/article/29/21/2722/195896?login=true
 
-Link to thr paper of ColabFold: https://www.nature.com/articles/s41592-022-01488-1
+Link to the paper of ColabFold: https://www.nature.com/articles/s41592-022-01488-1
+
+Link to the paper of TmAlphaFold: https://academic.oup.com/nar/article/51/D1/D517/6786192?login=false
 
 pLDDT score:
 
