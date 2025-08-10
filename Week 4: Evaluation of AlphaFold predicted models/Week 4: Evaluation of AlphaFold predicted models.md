@@ -1,5 +1,13 @@
-## Take-home work
+## 📝 Take-home work
 
+After this section, you will be given a take-home assignment in which you will evaluate five AF2-predicted structures based on the metrics (pLDDT, PAE, pTM) discussed in the course. For each structure, please briefly explain the results of the scores and discuss their effects and interpretation in the context of the protein’s structure. 
+
+Below are AF2-predictions to evaluate:
+1) AF-Q8W3K0-F1-v4
+2) AF-Q5VSL9-F1-v4
+3) AF-Q9UPX6-F1-v4
+4) AF-O95256-F1-v4
+5) AF-Q99972-F1-v4
 
 
 ## 🏠 Take-home Points
