@@ -8,6 +8,7 @@ After this section, you will be given a take-home assignment in which you will e
 4) AF-O95256-F1-v4
 5) AF-Q99972-F1-v4
 
+The naming convention follows this structure: “AF” denotes an AlphaFold prediction, “Q8W3K0” represents the corresponding UniProt accession code, “F1” indicates the first segment of the predicted sequence (as AlphaFold divides structures exceeding 1,400 aas into segments), and “v4” specifies the version of the model. When searching in the AlphaFold database, you must use either the protein’s name or its UniProt accession code, entering the full identifier (e.g., “AF-Q8W3K0-F1-v4”) will not return any results!
 
 ## 🏠 Take-home Points
 
