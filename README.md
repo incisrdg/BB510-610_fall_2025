@@ -83,7 +83,7 @@ There will be workshop sessions in the second half of select lessons, including 
 📎 If you are an MSc or PhD student working on a specific protein or proteins, you may use your own protein for the workshop sessions. This will allow you to analyze your protein on a protein-sstructure level, providing insights that can guide your thesis work. 
 
 ## About me
-<img width="1024" height="1536" alt="ChatGPT Image Aug 9, 2025 at 10_31_57 PM" src="https://github.com/user-attachments/assets/bcdeecbb-9d2c-4f4e-9a31-f91f8dcd4be8" />| width=100
+<img width="1024" height="1536" alt="ChatGPT Image Aug 9, 2025 at 10_31_57 PM" src="https://github.com/user-attachments/assets/bcdeecbb-9d2c-4f4e-9a31-f91f8dcd4be8" />| width=20
 
 This is me. I am working in the fileds of computational structural biology and bioinformatics. My special interests include but not limited to protein structure predictions, protein-protein interaction, molecular dynamics simulations, and also ML models based on structural features of proteins as well as deep learning models. 
 
