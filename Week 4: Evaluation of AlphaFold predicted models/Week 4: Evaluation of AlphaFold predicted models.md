@@ -10,6 +10,12 @@ After this section, you will be given a take-home assignment in which you will e
 
 The naming convention follows this structure: “AF” denotes an AlphaFold prediction, “Q8W3K0” represents the corresponding UniProt accession code, “F1” indicates the first segment of the predicted sequence (as AlphaFold divides structures exceeding 1,400 aas into segments), and “v4” specifies the version of the model. When searching in the AlphaFold database, you must use either the protein’s name or its UniProt accession code, entering the full identifier (e.g., “AF-Q8W3K0-F1-v4”) will not return any results!
 
+Additional questions:
+- For the fourth entry, please consider the AlphaFold™ database and provide a discussion of the results with respect to membrane localization.
+
+- For the fifth entry, please survey the human myocilin "fragments" deposited in the PDB and compare them with the AlphaFold2-predicted model, highlighting any global structural differences (Please pay attention to the sequence range as well). Then check the UniProt database to determine the protein’s function, and use this information to rationalize the structural differences observed between the computationally predicted model and the experimental structures.
+-In one of the PDB entries, one of the side helices differs from the others. Identify and report that structure, compare its motif to the AF2-predicted model, and discuss what this local structural deviation might suggest about the protein’s evolutionary history and importance of that structural motif.
+  
 ## 🏠 Take-home Points
 
 - AlphaFold provides several confidence metrics such as pLDDT, ipLDDT, PAE, iPAE, pTM, and ipTM to help assess the quality and reliability of its accuracy of predicted protein structures.
