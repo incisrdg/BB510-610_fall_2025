@@ -6,7 +6,7 @@
 
 - Cryo-EM allows the visualization of large macromolecular complexes in near-native conditions, moreover, it is particularly well-suited for studying membrane proteins.
 
-- NMR spectroscopy provides structural information in solution, closely resembling the physiological environment; however, it is generally limited to smaller proteins due to signal overlap and sensitivity constraints. It is also one of the most labor-intensive methods for determining protein structures.
+- NMR spectroscopy provides structural information in solution, closely resembling the physiological environment, however, it is generally limited to smaller proteins due to signal overlap and sensitivity constraints. It is also one of the most labor-intensive methods for determining protein structures.
 
 - The Protein Data Bank (PDB), which was established in 1971, is a structural database that houses experimentally determined protein structures obtained through X-ray, Cryo-EM and NMR together with some computational models.
 
