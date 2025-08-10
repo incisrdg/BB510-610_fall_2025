@@ -76,9 +76,11 @@ Colab: https://colab.research.google.com/
 
 There will be workshop sessions in the second half of select lessons, including weeks 6, 7, 8, 9 and 12. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are not able to finish your reports during class hours, you will have time until the end of the day to send them to my email.  Please do not forget to bring your computers to the workshop sessions! 💻
 
-❗️ These workshops and reports are the main actions through which you will earn points for this course. There is no MT or final exam, so please pay attention to your reports.
+❗️ These workshops and reports are the main actions through which you will be graded for this course. There is no MT or final exam, so please pay attention to your reports.
 
-📌 A report template will be provided to guide you in the first writing process, however, there will be no templates for the following weeks.
+🧾 A report template will be provided to guide you in the first writing process, however, there will be no templates for the following weeks.
+
+If you are an MSc or PhD student working on a specific protein or proteins, you may use your own protein for the workshop sessions. This will allow you to analyze your protein on a protein-sstructure level, providing insights that can guide your thesis work. 
 
 ## About me
 
