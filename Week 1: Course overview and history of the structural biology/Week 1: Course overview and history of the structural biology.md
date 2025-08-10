@@ -55,6 +55,10 @@ Link to the unit cell definition: http://ccp14.cryst.bbk.ac.uk/ccp/web-mirrors/x
 
 🎼 Link to Bach's Tocatta and Fugue: https://www.youtube.com/watch?v=ATbMw6X3T40&list=PLpYpzr2uMfSVGgN8tDt3IUS36Ayzo3GA_&index=4
 
+## Suggested
+ 
+Celebrating Crystallography - An animated adventure: https://www.youtube.com/watch?v=uqQlwYv8VQI
+
 ## Slides
 
 https://docs.google.com/presentation/d/1wSGxyglgvSnJ-zIdgrNkFPIT5aAzncLxdN0yIgZjpfg/edit?usp=sharing
