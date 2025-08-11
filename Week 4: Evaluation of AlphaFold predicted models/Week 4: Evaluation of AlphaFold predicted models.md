@@ -10,7 +10,7 @@ After this section, you will be given a take-home assignment in which you will e
 
 The naming convention follows this structure: “AF” denotes an AlphaFold prediction, “Q8W3K0” represents the corresponding UniProt accession code, “F1” indicates the first segment of the predicted sequence (as AlphaFold divides structures exceeding 1,400 aas into segments), and “v4” specifies the version of the model. When searching in the AlphaFold database, you must use either the protein’s name or its UniProt accession code, entering the full identifier (e.g., “AF-Q8W3K0-F1-v4”) will not return any results! (1 pts)
 
-Guidline:
+❓ Take-home assignment guidline:
 
 - For the two entries listed in the first section, evaluate the structures based on their pLDDT and PAE scores, examine the TED domains, and provide a detailed discussion of the annotated domain’s function.
 
