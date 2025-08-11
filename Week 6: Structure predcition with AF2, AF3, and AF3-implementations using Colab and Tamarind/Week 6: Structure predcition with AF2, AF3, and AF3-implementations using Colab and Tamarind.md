@@ -1,8 +1,8 @@
 ## 🚨 Attention: pre-course action
 
-In this section, we will perform protein structure predictions using ColabFold (for AF2), the AF3 server, and the Tamarinde Bio server (for Boltz-2 and Chai-1). Please create accounts for the servers in advance of the session by using the links provided on the README page.
+In this section, we will perform protein structure predictions using ColabFold (for AF2), AF3 server, and Tamarinde Bio server (for Boltz-2 and Chai-1). Please create accounts for the servers in advance of the session via the links provided on the README page.
 
-❗️ You are also expected to select a human protein, preferably a monomer or dimer, and extract its FASTA sequence from the PDB or UniProt. Please avoid larger assemblies to save time.
+❗️ You are also expected to select a monomeric and a dimeric (hetero-/homo-dimer) human protein and extract the corresponding FASTA sequence from the UniProt. Avoid structures larger than 500 aas to save time. Verify the PDB entries to obtain the ground truth structures/complexes. (Make sure that your structures/complexes have ground truths, in other words experimentally resolved structures, available in the PDB.)
 
 🤓 Here are some suggestions: 
 
