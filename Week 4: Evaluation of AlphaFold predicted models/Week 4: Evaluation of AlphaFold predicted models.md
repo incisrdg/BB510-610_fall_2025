@@ -2,21 +2,28 @@
 
 After this section, you will be given a take-home assignment in which you will evaluate five AF2-predicted structures based on the metrics (pLDDT, PAE, pTM) discussed in the course. For each structure, please briefly explain the results of the scores and discuss their effects and interpretation in the context of the protein’s structure. You can retrieve the structures from the AlphaFold database using the following entry names:
 
-1) AF-Q8W3K0-F1-v4 (1 pts)
-2) AF-Q5VSL9-F1-v4 (1 pts)
-3) AF-Q9UPX6-F1-v4 (1 pts)
-4) AF-O95256-F1-v4 (1 pts)
-5) AF-Q99972-F1-v4 (1 pts)
+1) AF-Q8W3K0-F1-v4, AF-Q5VSL9-F1-v4 (0.5 + 0.5 pts)
+2) AF-Q9UPX6-F1-v4 (1 pts)
+3)                 (2 pts) 
+4) AF-Q9P0S9-F1-v4 (3 pts)
+5) AF-Q99972-F1-v4 (3 pts)
 
 The naming convention follows this structure: “AF” denotes an AlphaFold prediction, “Q8W3K0” represents the corresponding UniProt accession code, “F1” indicates the first segment of the predicted sequence (as AlphaFold divides structures exceeding 1,400 aas into segments), and “v4” specifies the version of the model. When searching in the AlphaFold database, you must use either the protein’s name or its UniProt accession code, entering the full identifier (e.g., “AF-Q8W3K0-F1-v4”) will not return any results! (1 pts)
 
-Additional questions:
-- For the fourth entry, please consider the TmAlphaFold database and provide a discussion of the results with respect to membrane localization.
+Guidline:
 
-- For the fifth entry, please survey the human myocilin "fragments" deposited in the PDB and compare them with the AlphaFold2-predicted model, highlighting any global structural differences (Please pay attention to the sequence range as well). Then check the UniProt database to determine the protein’s function, and use this information to rationalize the structural differences observed between the computationally predicted model and the experimental structures.
+- For the two entries listed in the first section, evaluate the structures based on their pLDDT and PAE scores, examine the TED domains, and provide a detailed discussion of the annotated domain’s function.
 
-- In one of the PDB entries, one of the side helices differs from the others. Identify and report that structure, compare its motif to the AF2-predicted model, and discuss what this local structural deviation might suggest about the protein’s evolutionary history and importance of that structural motif.
- (4 pts)
+- For the second entry, assess the structures with respect to their pLDDT, PAE, and TED domains, and provide a detailed discussion on disorders.
+
+- For the third entry, evaluate the given protein complex in terms of its pLDDT, ipLDDT, PAE, iPAE, pTM, ipTM, and TED domains, and provide an in-depth discussion of the interface.
+   - To identify the interface, please use the Python script provided in the week 4 section.
+   - Once the interface has been identified, calculate the ipLDDT, iPAE, and ipTM values by averaging the scores corresponding to the interface residues.
+  
+- For the fourth entry, assess the structures with respect to their pLDDT, PAE, and TED domains and consider the TmAlphaFold database to provide a discussion of the results with respect to membrane localization. Compare the structural differences between the AF2-predicted structure and the ground truth (PDB ID: 2LOS_A) by calculating the RMSD after structural alignment. Taking into account the pLDDT and PAE scores, as well as the ground truth structure, discuss the prediction accuracy of the AF2-generated model. Based on the structural accuracy, provide a discussion on the membrane localization.
+  
+- For the fifth entry, assess the structures with respect to their pLDDT, PAE, and TED domains, and survey the human myocilin "fragments" deposited in the PDB and compare them with the AlphaFold2-predicted model, highlighting any global structural differences (Please pay attention to the sequence range as well). Then check the UniProt database to determine the protein’s function, and use this information to rationalize the structural differences observed between the computationally predicted model and the experimental structures.
+   - In one of the PDB entries, one of the side helices differs from the others. Identify and report that structure, compare its motif to the AF2-predicted model, and discuss what this local structural deviation might suggest about the protein’s evolutionary history and importance of that structural motif.
 
 🌄 You may also include score plots, structural visualizations, and comparative graphs of the proteins to support and strengthen your discussion.
   
