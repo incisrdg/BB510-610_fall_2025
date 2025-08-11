@@ -9,23 +9,23 @@
 
  Week 3: Protein folding problem, CASP and CAPRI competitions, AlphaFold and RosettaFold as the leading teams.
  
- Week 4: Evaluation of AlphaFold predicted models.
+ Week 4: Evaluation of AlphaFold predicted models.  ***(report I)*** 📝
  
  Week 5: Architecture of AF2, AF3, and AF3-implementations. 
  
- Week 6: Structure prediction with AF2, AF3, and AF3-implementations using Colab and Tamarind. 💻 ***(workshop session I)*** 
+ Week 6: Structure prediction with AF2, AF3, and AF3-implementations using Colab and Tamarind. 💻 ***(workshop session I + report II)*** 📝
  
  Week 7: Pathogenicity prediction using structural data (single mutants: DynaMut, PremPS, FoldX, double mutants: ThermoMPNN-D) 💻 ***(workshop session II-I)*** 
  
- Week 8: Pathogenicity prediction with AlphaMissense and Hotspot. 💻 ***(workshop session II-II)*** 
+ Week 8: Pathogenicity prediction with AlphaMissense and Hotspot. 💻 ***(workshop session II-II + report III)*** 📝
  
- Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY, Boltz-2). 💻 ***(workshop session III)*** 
+ Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY, Boltz-2). 💻 ***(workshop session III + report IV)*** 📝
  
  Week 10: Molecular docking pipeline: module 1 (Digital Representations of Molecules) and module 2 (Exploring Chemical and Biological Data With BidingDB and the RDKit). 
  
  Week 11: Molecular docking pipeline: module 3 (Preparing Structures for Docking) and module 4 (Molecular Docking using gnina).
  
- Week 12: Conformation prediction with BioEmu. ***(workshop session IV)*** 
+ Week 12: Conformation prediction with BioEmu. ***(workshop session IV + report V)*** 📝
  
  Week 13: De novo protein design with RFDiffusion by Rosetta team.
  
