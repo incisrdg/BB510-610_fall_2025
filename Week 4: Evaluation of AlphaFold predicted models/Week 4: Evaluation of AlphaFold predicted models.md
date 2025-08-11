@@ -1,10 +1,10 @@
 ## 📝 Take-home work (10 pts)
 
-After this section, you will be given a take-home assignment in which you will evaluate five AF2-predicted structures based on the metrics (pLDDT, PAE, pTM) discussed in the course. For each structure, please briefly explain the results of the scores and discuss their effects and interpretation in the context of the protein’s structure. You can retrieve the structures from the AlphaFold database using the following entry names:
+After this section, you will be given a take-home assignment in which you will evaluate six AF2-predicted structures based on the metrics (pLDDT, PAE, pTM) discussed in the course. For each structure, please briefly explain the results of the scores and discuss their effects and interpretation in the context of the protein’s structure. You can retrieve the structures from the AlphaFold database using the following entry names:
 
 1) AF-Q8W3K0-F1-v4, AF-Q5VSL9-F1-v4 (0.5 + 0.5 pts)
 2) AF-Q9UPX6-F1-v4 (1 pts)
-3)             
+3) IL37-IL18R1_complex (2 pts)            
 4) AF-Q9P0S9-F1-v4 (3 pts)
 5) AF-Q99972-F1-v4 (3 pts)
 
@@ -16,9 +16,9 @@ The naming convention follows this structure: “AF” denotes an AlphaFold pred
 
 - For the second entry, assess the structures with respect to their pLDDT, PAE, and TED domains, and provide a detailed discussion on disorders.
 
-- For the third entry, evaluate the given protein complex in terms of its pLDDT, ipLDDT, PAE, iPAE, pTM, ipTM, and TED domains, and provide an in-depth discussion of the interface.
+- For the third entry, evaluate the given protein complex in terms of its pLDDT, ipLDDT, PAE, iPAE, pTM, ipTM, and TED domains, and provide an in-depth discussion of the interface. (Prediction is provided in the week 4 materials.)
    - To identify the interface, please use the Python script provided in the week 4 section.
-   - Once the interface has been identified, calculate the ipLDDT, iPAE, and ipTM values by averaging the scores corresponding to the interface residues.
+   - Once the interface has been identified, calculate the ipLDDT, iPAE, and ipTM values by averaging the scores corresponding to the interface residues (You can do averaging using a short Python script or simply in Excel).
   
 - For the fourth entry, assess the structures with respect to their pLDDT, PAE, and TED domains and consider the TmAlphaFold database to provide a discussion of the results with respect to membrane localization. Compare the structural differences between the AF2-predicted structure and the ground truth (PDB ID: 2LOS_A) by calculating the RMSD after structural alignment. Taking into account the pLDDT and PAE scores, as well as the ground truth structure, discuss the prediction accuracy of the AF2-generated model. Based on the structural accuracy, provide a discussion on the membrane localization.
   
