@@ -4,7 +4,7 @@ After this section, you will be given a take-home assignment in which you will e
 
 1) AF-Q8W3K0-F1-v4, AF-Q5VSL9-F1-v4 (0.5 + 0.5 pts)
 2) AF-Q9UPX6-F1-v4 (1 pts)
-3)                 (2 pts) 
+3)             
 4) AF-Q9P0S9-F1-v4 (3 pts)
 5) AF-Q99972-F1-v4 (3 pts)
 
