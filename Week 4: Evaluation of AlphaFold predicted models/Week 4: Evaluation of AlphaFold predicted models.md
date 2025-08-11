@@ -55,6 +55,10 @@ Link to the AlphaFold database: https://alphafold.ebi.ac.uk/
 
 Link to the TmAlphaFold database: https://tmalphafold.ttk.hu/
 
+Link to the TmDet server: https://tmdet.unitmp.org/
+
+Link to the CCTOP server: https://cctop.ttk.hu/job/submit
+
 ## References
 
 Link to the paper on lDDT metric: https://academic.oup.com/bioinformatics/article/29/21/2722/195896?login=true
