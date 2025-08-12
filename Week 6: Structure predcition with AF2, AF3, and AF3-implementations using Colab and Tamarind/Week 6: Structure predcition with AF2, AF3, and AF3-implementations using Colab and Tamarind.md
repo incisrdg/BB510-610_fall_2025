@@ -1,31 +1,37 @@
 ## 🚨 Attention: pre-course action
 
-In this section, we will perform protein structure predictions using Colab multimer (for AF2), AF3 server, and Tamarinde Bio (for Boltz-2 and Chai-1). Please create accounts for the servers in advance of the session through the links provided on the README page.
+In this section, we will perform protein structure predictions using Colab multimer (for AF2), AF3 server, and Tamarinde Bio (for Boltz-2 and Chai-1). Please create accounts for the servers in advance of the session through the links provided on the README page. We will commence the predictions during the workshop session of the course.
 
 ##  📝 Take-home work
 
-- This workshop presents a case study in which we will perform structure predictions over an antibody–antigen (Ab–Ag) complexe that was entirely blind by all these prediction methods, in other words, the complex was released after the training cut-off of these methods.
+This workshop presents a case study in which we will perform structure predictions over an antibody–antigen (Ab–Ag) complexe that was entirely blind by all these prediction methods, in other words, the complex was released after the training cut-off of these methods.
 
-- Our candidate, PDB ID 7ZK1, is the crystal structure of cystinosin, a proton-driven cystine transporter, bound to both a sybody and a nanobody. Here what it looks like.
+- Our candidate, PDB ID 7ZK1, is the crystal structure of cystinosin, a proton-driven cystine transporter, bound to both a sybody and a nanobody. Here what it looks like:
 
   <img width="250" height="371" alt="image1-2" src="https://github.com/user-attachments/assets/b822be23-8672-4e5e-89bb-221ef7bfc4f4" />
 
+- For simplicity, let's assume that we are only interested in interaction between the synthetic nanobody (sybody) and the transporter.
 
 1) Please retrieve the structure from the PDB along with the FASTA sequences for all chains.
 
-We will commence the predictions during the workshop session of the course. For the selected sequences, perform following predicitons:
+2) Perform complex prediction with AF2 via Colab
+   - Employ multimer_v3 model 
+   - Adjust # of recycles to 6. (Attention: Only one prediction can be run at a time in Colab.)
 
-i) AF2 predictions via Colab
-   - Employ the pTM model for monomers and the multimer_v3 model for complexes.
-   - Adjust # of recycles t0 6. (Attention: Only one prediction can be run at a time in Colab.)
-
-ii) AF3 predictions via AF3 server
+3) Perform complex predictions with AF3 via AF3 server
    - Adjust # of seeds to 1 and 20, respectively.
 
-iii) Chai-1 via Tamarind Bio
-   - 
+4) Perform complex predictions with Chai-1 via Tamarind Bio
+   - Adjust # of seed to 1 and # of recycles to 20
+   - Apply a pocket restraint to the antibody
+   - Please assign unique job names in Tamarind Bio, as jobs with identical names will be overwritten.
 
-   
+5) Perform complex predictions with Boltz-2 via Tamarind Bio
+   - Adjust # of seed to 1 and # of recycles to 20
+   - Apply a contacts restraint to the antibody
+   - Please assign unique job names in Tamarind Bio, as jobs with identical names will be overwritten.
+
+
 ## 🏠 Take-home points
 
 - Adding lipids can help support the correct orientation of membrane-embedded proteins.
