@@ -15,9 +15,9 @@
  
  Week 6: Structure prediction with AF2, AF3, and AF3-implementations using Colab and Tamarind. 💻 ***(workshop session I + report II)*** 📝 -20 pts
  
- Week 7: Pathogenicity prediction using structural data (single mutants: DynaMut, PremPS, FoldX, double mutants: ThermoMPNN-D) 💻 ***(workshop session II-I)***  -10 pts
+ Week 7: Pathogenicity prediction using structural data (single mutants: DynaMut, PremPS, FoldX, double mutants: ThermoMPNN-D) 💻 ***(workshop session II)***  -5 pts
  
- Week 8: Pathogenicity prediction with AlphaMissense and Hotspot. 💻 ***(workshop session II-II + report III)*** 📝
+ Week 8: Pathogenicity prediction with AlphaMissense and Hotspot. 💻 ***(workshop session II + report III)*** 📝 -5 pts
  
  Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY, Boltz-2). 💻 ***(workshop session III + report IV)*** 📝
  
