@@ -4,7 +4,7 @@
 
 - For the previously selected variant positions, assess their tendency to be pathogenic or benign according to AlphaMissense, taking into account their structural and functional importance. Please consider all substitutions within the selected variant positions. Additionally, extract all variant information for these positions from UniProt or gnomAD, and provide supportive or enhanced classification for these reported variants using AlphaMissense scores. (3 pts)
 
-- Evaluate the structural environment of the variant positions to identify clusters with pathogenic-like or benign-like profiles. (2 pts)
+- Evaluate the structural environment (heatmaps) of the variant positions to identify clusters with pathogenic-like or benign-like profiles. (2 pts)
 
 - Evaluate the hotspots in your protein and determine whether the selected variants are located within these regions. Provide a discussion on the average pathogenicity and the identified hotspots. (2 pts)
 
