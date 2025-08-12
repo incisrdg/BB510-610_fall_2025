@@ -19,7 +19,7 @@ This workshop presents a case study in which we will perform structure predictio
    - Adjust # of recycles to 6. (Attention: Only one prediction can be run at a time in Colab.)
 
 3) Perform complex predictions with AF3 via AF3 server
-   - Adjust # of seeds to 1 and 20, respectively.
+   - Adjust # of seeds to 1 and 20, respectively. (2 different predicitons will be obtained)
 
 4) Perform complex predictions with Chai-1 via Tamarind Bio
    - Adjust # of seed to 1 and # of recycles to 20
