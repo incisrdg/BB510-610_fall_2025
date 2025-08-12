@@ -16,11 +16,11 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 - FoldX is a physics-based method that calculates changes in free energy (ΔΔG) upon mutation using an empirical force field, offering fast and relatively accurate predictions, particularly for point mutations.
 
-- DynaMut combines normal mode analysis with statistical potentials to assess both structural stability and changes in protein dynamics, providing insights into flexibility alterations caused by mutations.
+- DynaMut combines normal mode analysis with statistical potentials to assess both structural stability and changes in protein dynamics, providing insights into flexibility changes caused by mutations.
 
 - PremPS employs a hybrid approach integrating structural, energetic, and evolutionary features through machine learning to predict ΔΔG values with improved accuracy, particularly for missense variants.
 
-- ThermoMPNN is a deep learning-based method that uses graph neural networks trained on massive mutational datasets to predict mutation effects on protein stability, including single and double mutants, and can infer potential pathogenicity by modeling ΔΔG landscapes. 
+- ThermoMPNN is a deep learning-based method that uses graph neural networks trained on massive mutational data to predict effects of mutations on protein stability, including single and double mutants, and can infer potential pathogenicity by modeling ΔΔG landscapes. 
 
 ## Summary
 
