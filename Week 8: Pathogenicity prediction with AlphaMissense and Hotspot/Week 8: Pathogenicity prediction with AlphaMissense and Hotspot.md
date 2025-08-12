@@ -2,13 +2,13 @@
 
 - In the second half of this section, you will evaluate the AlphaMissense scores of the proteins and variants analyzed in the previous week. Compare the AlphaMissense scores with the free energy scores obtained in the previous week. Provide a brief comparative discussion linking the free energy scores to the observed variant characteristics. (1 pts)
 
-- For the previously selected variant positions, assess their tendency to be pathogenic or benign according to AlphaMissense, taking into account their structural and functional importance. Please consider all substitutions within the selected variant positions. Additionally, extract all variant information for these positions from UniProt or gnomAD, and provide supportive or enhanced classification for these reported variants using AlphaMissense scores. (3 pts)
+- For the previously selected variant positions, assess their tendency to be pathogenic or benign according to AlphaMissense, taking into account their structural and functional importance. Please consider all substitutions within the selected variant positions. Additionally, extract all variant information for these positions or neighboring positions from UniProt or gnomAD, and provide supportive or enhanced classification for these reported variants using AlphaMissense scores. (3 pts)
 
 - Evaluate the structural environment (heatmaps) of the variant positions to identify clusters with pathogenic-like or benign-like profiles. (2 pts)
 
 - Evaluate the hotspots in your protein and determine whether the selected variants are located within these regions. Provide a discussion on the average pathogenicity and the identified hotspots. (2 pts)
 
-- Why is it important to use multiple complementary methods to assess the impact of a variant on a protein’s structure and function? How can we decide which predictive method is the most reliable for assessing a protein variant’s impact in a given research context? (2 pts)
+- Why is it important to use multiple complementary methods to assess the impact of a variant on a protein’s structure and function? How can we decide which predictive method is the most reliable for assessing a protein variant’s impact in a desired research context? (2 pts)
 
 
 ## 🏠 Take-home points
