@@ -36,7 +36,7 @@ To register, please follow this link: https://foldxsuite.crg.eu/academic-license
 
 There are two tutorial videos, one for Mac and one for Windows, on how to install FoldX locally on your computer. You are expected to install FoldX before coming to class by following these tutorials, as there will be no time to do so during the session. If you are having issues, do not hesitate to contact me!
 
-❗️ Please try to download FoldX at least three days in advance of the class so we can resolve any potential issues and avoid delays in obtaining the academic license. I will not be able to assist with installation issues on the day of the class.
+❗️ Please try to download FoldX at least three days in advance of the class so that we can solve any potential issues and avoid delays in obtaining the academic license. I will not be able to assist with installation issues on the day of the class.
 
 ## References
 
