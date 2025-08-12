@@ -22,12 +22,12 @@ This workshop presents a case study in which we will perform structure predictio
    - Adjust # of seeds to 1 and 20, respectively. (2 different predicitons will be obtained)
 
 4) Perform complex predictions with Chai-1 via Tamarind Bio
-   - Adjust # of seed to 1 and # of recycles to 20
+   - Adjust # of seeds to 1 and # of recycles to 20
    - Apply a pocket restraint to the antibody
    - Please assign unique job names in Tamarind Bio, as jobs with identical names will be overwritten.
 
 5) Perform complex predictions with Boltz-2 via Tamarind Bio
-   - Adjust # of seed to 1 and # of recycles to 20
+   - Adjust # of seeds to 1 and # of recycles to 20
    - Apply a contacts restraint to the antibody
    - Please assign unique job names in Tamarind Bio, as jobs with identical names will be overwritten.
 
