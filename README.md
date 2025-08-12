@@ -9,13 +9,13 @@
 
  Week 3: Protein folding problem, CASP and CAPRI competitions, AlphaFold and RosettaFold as the leading teams.
  
- Week 4: Evaluation of AlphaFold predicted models.  ***(report I)*** 📝
+ Week 4: Evaluation of AlphaFold predicted models.  ***(report I)*** 📝 -10 pts
  
  Week 5: Architecture of AF2, AF3, and AF3-implementations. 
  
- Week 6: Structure prediction with AF2, AF3, and AF3-implementations using Colab and Tamarind. 💻 ***(workshop session I + report II)*** 📝
+ Week 6: Structure prediction with AF2, AF3, and AF3-implementations using Colab and Tamarind. 💻 ***(workshop session I + report II)*** 📝 -20 pts
  
- Week 7: Pathogenicity prediction using structural data (single mutants: DynaMut, PremPS, FoldX, double mutants: ThermoMPNN-D) 💻 ***(workshop session II-I)*** 
+ Week 7: Pathogenicity prediction using structural data (single mutants: DynaMut, PremPS, FoldX, double mutants: ThermoMPNN-D) 💻 ***(workshop session II-I)***  -10 pts
  
  Week 8: Pathogenicity prediction with AlphaMissense and Hotspot. 💻 ***(workshop session II-II + report III)*** 📝
  
