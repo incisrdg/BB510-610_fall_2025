@@ -26,7 +26,7 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 In this section, we will explore pathogenicity prediction tools that utilize the structural data of proteins. FoldX, DynaMut, PremPS, and ThermoMPNN are widely used computational tools for predicting the pathogenicity of protein mutations by estimating changes in protein stability. Each method has its own underlying architecture, offering distinct advantages and limitations. To improve reliability, it is often necessary to cross-validate the outputs of these tools. Collectively, they enable us to prioritize potentially pathogenic mutations by quantifying their thermodynamic impact on protein structure and function.
 
-![science adj8672-f1](https://github.com/user-attachments/assets/a602ca69-b6d2-4e9d-a93f-44ee2415024b) Science
+![science adj8672-f1](https://github.com/user-attachments/assets/a602ca69-b6d2-4e9d-a93f-44ee2415024b) from Science Journal
 
 ## Software downlaod
 
