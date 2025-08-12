@@ -41,9 +41,11 @@ This workshop presents a case study in which we will perform structure predictio
 9) Using the IMGT/DomainGapAlign tool, identify the CDR regions (CDR1, CDR2, and CDR3) based on the sequence. (1 pts, 0.25 pts for each method)
 Link to the IMGT/DomainGapAlign tool: https://www.imgt.org/3Dstructure-DB/cgi/DomainGapAlign.cgi
 
-10) Calculate RMSDs separately for the identified CDR regions (CDR1, CDR2, and CDR3) when the complex is aligned on the antibody. (2 pts, 0.5 pts for each method)
+10) Calculate RMSDs separately for the identified CDR regions (CDR1, CDR2, and CDR3) when the complex is aligned on the antibody. (1 pts, 0.25 pts for each method)
 
-11) Provide a brief discussion on the accuracy of the predicted antibody and antigen structures, the overall accuracy of the predicted complex, and the accuracy of the CDR loops, highlighting their contributions to protein–protein docking. (5 pts)
+11) Report the membrane localization of the transporter using TmAlphaFold. (1 pts)
+
+12) Provide a brief discussion on the accuracy of the predicted antibody and antigen structures, the overall accuracy of the predicted complex, and the accuracy of the CDR loops, highlighting their contributions to protein–protein docking. (5 pts)
 
     
 ## 🏠 Take-home points
