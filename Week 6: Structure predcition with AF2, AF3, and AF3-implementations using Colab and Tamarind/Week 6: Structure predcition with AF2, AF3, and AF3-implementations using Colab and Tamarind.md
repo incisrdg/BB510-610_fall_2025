@@ -47,7 +47,8 @@ Link to the IMGT/DomainGapAlign tool: https://www.imgt.org/3Dstructure-DB/cgi/Do
 
 12) Provide a brief discussion on the accuracy of the predicted antibody and antigen structures, the overall accuracy of the predicted complex, and the accuracy of the CDR loops, highlighting their contributions to protein–protein docking. (5 pts)
 
-    
+🍀 Bonus Question: While AF3 and AF3-implementations represent the latest advancements in structure prediction, building upon the foundations of AF2, can one assume a straightforward positive correlation between the performance of these methods and their chronological development from earlier to more recent models? Discuss briefly, in a maximum of five sentences, and provide a reference paper to support your arguments. (+ 2 pts)
+
 ## 🏠 Take-home points
 
 - Adding lipids can help support the correct orientation of membrane-embedded proteins.
