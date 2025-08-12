@@ -10,14 +10,14 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 <img width="799" height="678" alt="image1" src="https://github.com/user-attachments/assets/636ea167-e871-4ef9-84d9-665e417cd9b8" />
 
-## Workshop report (The deadline is 12:00 a.m. on the same day) (10 pts)
+## Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
 
-- Perform ΔΔG calculations for three selected variants of your protein structure using four different methods discussed in the class. (4 pts, 1 pts for each method)
+- Perform ΔΔG calculations for three selected variants of your protein structure using four different methods discussed in the class. (2 pts, 0.5 pts for each method)
 
-- Report the ΔΔG values in a table and provide a comparative discussion of the methods. (3 pts)
+- Report the ΔΔG values in a table and provide a comparative discussion of the methods. (1 pts)
 
 
-- Rationalize why some mutations tend to be pathogenic while others are benign. In this discussion, consider factors such as secondary structure, relative solvent-accessible surface area (rASA), B-factor, hydrophobicity, and electrostatic charges. (3 pts)
+- Rationalize why some mutations tend to be pathogenic while others are benign. In this discussion, consider factors such as secondary structure, relative solvent-accessible surface area (rASA), B-factor, hydrophobicity, and electrostatic charges. (2 pts)
 
 ## 🏠 Take-home points 
 
