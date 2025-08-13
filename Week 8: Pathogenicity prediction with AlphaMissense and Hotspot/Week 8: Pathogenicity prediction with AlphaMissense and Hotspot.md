@@ -1,6 +1,6 @@
 ## Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
 
-- In the second half of this section, you will evaluate the AlphaMissense scores of the proteins and variants analyzed in the previous week. Compare the AlphaMissense scores with the free energy scores obtained in the previous week. Provide a brief comparative discussion linking the free energy scores to the observed variant characteristics. (0.5 pts)
+- In the second half of this section, you will evaluate the AlphaMissense scores of the proteins and variants analyzed in the previous week. Compare the AlphaMissense scores with the free energy change scores obtained in the previous week. Provide a brief comparative discussion linking the free energy scores to the observed variant characteristics. (0.5 pts)
 
 - For the previously selected variant positions, assess their tendency to be pathogenic or benign according to AlphaMissense, taking into account their structural and functional importance. Please consider all substitutions within the selected variant positions. Additionally, extract all variant information for these positions or neighboring positions from UniProt or gnomAD, and provide supportive or enhanced classification for these reported variants using AlphaMissense scores. (1.5 pts)
 
