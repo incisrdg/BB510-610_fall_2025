@@ -1,3 +1,8 @@
+## 📝 Take-home work (The deadline is 12:00 a.m. on the same day) (5 pts)
+
+
+
+
 In this workshop section, we will use the last two notebooks created by The Molecular Sciences Software Institute. This repository contains notebooks for the workshop Python for Cheminformatics-Driven Molecular Docking held on May 1, 2025 in collaboration with the RCSB Protein Data Bank.
 
 The notebooks for this workshop were designed to work with Google Colab. Open the notebooks in Colab by clicking the links below.
