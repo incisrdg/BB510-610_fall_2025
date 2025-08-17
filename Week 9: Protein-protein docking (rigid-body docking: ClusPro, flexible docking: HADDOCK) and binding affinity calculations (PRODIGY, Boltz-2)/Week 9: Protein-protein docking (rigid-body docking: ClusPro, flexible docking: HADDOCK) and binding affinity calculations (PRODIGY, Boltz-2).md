@@ -14,6 +14,9 @@
 
 In this section, we will discuss various protein–protein docking methods, their theoretical foundations, and applications. Protein–protein docking is a computational strategy used to predict the structures of protein complexes from known subunits and represents an upper-level challenge built on protein structure prediction. The field has evolved over several decades, beginning with rigid-body docking in the 1970s–1980s, which relied on surface complementarity, advancing to scoring-based and flexible docking in the 1990s–2000s to account for side-chain and backbone motions, and later to ensemble docking, which incorporates conformational variability. Most recently, deep learning–based methods such as AlphaFold-Multimer have achieved unprecedented accuracy by leveraging large-scale sequence and structure datasets.
 
+![ProteinComplexStructure](https://github.com/user-attachments/assets/da2a7a8a-bc05-4ad2-88c3-0a46359c88a2)
+from Stony Brook University
+
 ## Softwares
 
 Link to the ClusPro server: https://cluspro.bu.edu/home.php
