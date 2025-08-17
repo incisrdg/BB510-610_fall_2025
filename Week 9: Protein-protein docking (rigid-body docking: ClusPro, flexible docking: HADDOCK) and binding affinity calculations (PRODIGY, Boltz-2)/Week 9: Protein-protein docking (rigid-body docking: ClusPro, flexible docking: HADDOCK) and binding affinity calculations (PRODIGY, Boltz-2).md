@@ -1,6 +1,6 @@
 ## 📝 Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
 
-In this workshop session, we will perform protein–protein docking experiments using four different approaches: rigid-body docking, flexible-docking, ensemble docking, and ML–based models.
+In this workshop session, we will perform protein–protein docking experiments using four different approaches: rigid-body docking, flexible docking, ensemble docking, and ML–based models.
 
 ## 🏠 Take-home points
 
@@ -8,9 +8,9 @@ In this workshop session, we will perform protein–protein docking experiments 
 
 - Rigid-body docking assumes proteins remain structurally rigid and searches for the best geometric and physicochemical fit between their surfaces.
 
-- Flexible-docking allows conformational changes, typically in side chains or loops, to better capture realistic protein–protein interactions.
+- Flexible docking allows conformational changes, typically in side chains or loops, to better capture realistic protein–protein interactions.
 
-- Ensemble-docking uses multiple conformations of proteins (from experiments or simulations) to account for structural flexibility during docking.
+- Ensemble docking uses multiple conformations of proteins (from experiments or simulations) to account for structural flexibility during docking.
 
 - Machine learning approaches learn interaction patterns directly from large datasets of protein sequences and structures, enabling end-to-end prediction of binding likelihoods and interfaces.
 
