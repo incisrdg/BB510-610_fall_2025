@@ -1,4 +1,6 @@
-## Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
+## 📝 Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
+
+In this workshop session, we will perform protein–protein docking experiments using four different approaches: rigid-body docking, flexible-docking, ensemble docking, and ML–based models.
 
 ## 🏠 Take-home points
 
