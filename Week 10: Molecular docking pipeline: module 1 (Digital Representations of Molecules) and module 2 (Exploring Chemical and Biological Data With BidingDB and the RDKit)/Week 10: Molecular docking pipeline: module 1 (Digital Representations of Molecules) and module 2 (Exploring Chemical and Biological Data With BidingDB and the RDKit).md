@@ -1,4 +1,4 @@
-## 📝 Take-home work (The deadline is 12:00 a.m. on the same day)
+## 📝 Take-home work (The deadline is 12:00 a.m. on the same day) (5 pts)
 
 Try to guess each molecule from its SMILES. Please report the name of each molecule and try to draw the chemical structure. (2 pts)
 
@@ -6,7 +6,9 @@ Try to guess each molecule from its SMILES. Please report the name of each molec
 2) c1ncc[nH]1 (0.40 pts)
 3) NC(=O)N (0.40 pts)
 4) CN1C=NC2=C1N(C(=O)N(C)C2=O)C (0.40 pts)
-5) NC(CCC(=O)O)C(=O)O (0.40 pts)
+5) NCCC(=O)O (0.40 pts)
+
+- Please report all the outputs and figures from the second notebook and briefly explain the results. What does the final dataset represent, and how and why did we curate it? (3 pts)
 
 
 ## Workshop
