@@ -25,7 +25,7 @@
  
  Week 11: Molecular docking pipeline: module 3 (Preparing Structures for Docking) and module 4 (Molecular Docking using gnina).
  
- Week 12: Conformation prediction with BioEmu. ***(workshop session IV + report VI)*** 📝
+ Week 12: Conformation prediction with BioEmu. ***(workshop session IV + report VI)*** 📝 -8 pts
  
  Week 13: De novo protein design with RFDiffusion by Rosetta team.
  
