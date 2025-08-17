@@ -56,3 +56,7 @@ Link to the paper of Elucidation of protein function using computational docking
 Link to the active and passive residue selection in HADDOCK: https://www.bonvinlab.org/haddock-restraints/active_passive.html
 
 Link to the paper on Modeling Protein–Glycan Interactions with HADDOCK: https://pubs.acs.org/doi/10.1021/acs.jcim.4c01372
+
+## Slides
+
+https://docs.google.com/presentation/d/1TwB0NwUN5HVZFEOEDfHGnBRCneZ2ue4w1tPlgrYHXT8/edit?usp=sharing
