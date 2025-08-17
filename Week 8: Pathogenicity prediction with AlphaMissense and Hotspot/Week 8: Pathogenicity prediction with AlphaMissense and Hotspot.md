@@ -39,3 +39,7 @@ Link to the AlphaMissense paper: https://www.science.org/doi/10.1126/science.adg
 ➡️ Link for the try yourself section: https://alphafold.ebi.ac.uk/entry/Q9UQ13?activeTab=summary
 
 Link to the AlphaMissense database: https://alphamissense.hegelab.org/search
+
+## Slides
+
+https://docs.google.com/presentation/d/10h39rGs_Ny3c_DKLXtgdAg39RXoml9EL7uRERrGHQto/edit?usp=sharing
