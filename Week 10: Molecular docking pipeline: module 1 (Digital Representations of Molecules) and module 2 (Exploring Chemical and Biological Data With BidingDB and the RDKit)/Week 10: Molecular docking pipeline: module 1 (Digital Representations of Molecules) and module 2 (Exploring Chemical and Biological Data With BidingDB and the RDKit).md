@@ -4,9 +4,9 @@ The notebooks for this workshop were designed to work with Google Colab. Open th
 
 Link to the github page of the workshop: https://github.com/MolSSI-Education/iqb-2025/tree/main?tab=readme-ov-file
 
-01 - Digital Representations of Molecules: https://colab.research.google.com/github/MolSSI-Education/iqb-2025/blob/main/01_Cheminfo_crash_course.ipynb
+➡️ 01 - Digital Representations of Molecules: https://colab.research.google.com/github/MolSSI-Education/iqb-2025/blob/main/01_Cheminfo_crash_course.ipynb
 
-02 - Exploring Chemical and Biological Data With BidingDB and the RDKit: https://colab.research.google.com/github/MolSSI-Education/iqb-2025/blob/main/02_Cheminfo_crash_course.ipynb
+➡️ 02 - Exploring Chemical and Biological Data With BidingDB and the RDKit: https://colab.research.google.com/github/MolSSI-Education/iqb-2025/blob/main/02_Cheminfo_crash_course.ipynb
 
 03 - Preparing Structures for Docking: https://colab.research.google.com/github/MolSSI-Education/iqb-2025/blob/main/03_Cheminfo_crash_course.ipynb
 
