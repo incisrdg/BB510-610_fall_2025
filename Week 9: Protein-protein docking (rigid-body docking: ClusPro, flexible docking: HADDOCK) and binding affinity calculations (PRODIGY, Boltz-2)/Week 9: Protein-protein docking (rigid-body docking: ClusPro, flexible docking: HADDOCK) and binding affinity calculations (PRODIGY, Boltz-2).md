@@ -8,7 +8,7 @@ In this workshop session, we will perform protein–protein docking experiments 
 
 - Using HADDOCK, perform docking of IL37 in its monomeric form to the IL18Rα receptor. Briefly explain the results and discuss the biological relevance of the docked-complex by considering the structural homology between IL18 and IL37. (1 pts)
 
-- Using the different receptor conformations provided, perform docking of dimeric IL37 to the IL18Rα receptor via the HADDOCK server. Briefly explain the results and discuss the biological relevance of the docked complex, highlighting the role of different receptor conformations in the docking process. (2.5 pts)
+- Using the provided receptor conformations extracted from MD simulations, perform docking of dimeric IL37 to the IL18Rα receptor via the HADDOCK server. Briefly explain the results and discuss the biological relevance of the docked complex, highlighting the role of different receptor conformations in the docking process. (2.5 pts)
 
 - Obtain sequences for IL37 and IL18Rα from the UniProt (please pay attention to the sequence ranges in crystal structures), predict the IL37–IL18Rα complex with Boltz-2 on TamarindBio and calculate the binding affinity. Briefly explain the results and discuss the biological relevance of the predicted complex. (1.5 pts)
 
