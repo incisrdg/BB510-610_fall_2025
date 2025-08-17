@@ -1,6 +1,6 @@
 ## 📝 Take-home work (The deadline is 12:00 a.m. on the same day)
 
-Here is a mini “name-that-ligand” quiz. Try to guess each molecule from its SMILES. Please report the name of each ligand and try to draw the chemical structure.
+Try to guess each molecule from its SMILES. Please report the name of each molecule and try to draw the chemical structure.
 
 1) Oc1ccccc1
 2) c1ncc[nH]1
