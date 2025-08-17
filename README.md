@@ -21,7 +21,7 @@
  
  Week 9: Protein-protein docking (rigid-body docking: ClusPro, flexible docking: HADDOCK) and binding affinity calculations (PRODIGY, Boltz-2). 💻 ***(workshop session III + report V)*** 📝  -10 pts
  
- Week 10: Molecular docking pipeline: module 1 (Digital Representations of Molecules) and module 2 (Exploring Chemical and Biological Data With BidingDB and the RDKit). 
+ Week 10: Molecular docking pipeline: module 1 (Digital Representations of Molecules) and module 2 (Exploring Chemical and Biological Data With BidingDB and the RDKit). 📝  -2 pts
  
  Week 11: Molecular docking pipeline: module 3 (Preparing Structures for Docking) and module 4 (Molecular Docking using gnina).
  
