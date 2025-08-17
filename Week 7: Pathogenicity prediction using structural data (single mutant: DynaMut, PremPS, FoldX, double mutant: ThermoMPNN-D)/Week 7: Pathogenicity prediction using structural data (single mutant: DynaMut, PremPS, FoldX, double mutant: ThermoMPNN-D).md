@@ -10,7 +10,7 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 <img width="799" height="678" alt="image1" src="https://github.com/user-attachments/assets/636ea167-e871-4ef9-84d9-665e417cd9b8" />
 
-## Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
+## 📝 Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
 
 - Perform ΔΔG calculations for three selected variants of your protein structure using four different methods discussed in the class. (2 pts, 0.5 pts for each method)
 
