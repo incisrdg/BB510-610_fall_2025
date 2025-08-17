@@ -36,7 +36,7 @@ This workshop presents a case study in which we will perform structure predictio
 
 7) Evaluate the accuracy of selected models (at least one per method) based on the pLDDT, PAE, and pTM scores provided in the corresponding .json files. (4 pts, 1 pts for each method)
 
-8) Calculate the RMSD of the generated models by aligning them to the ground truth structure (7zk1). Perform the RMSD calculations in two distinct alignment modes: (i) aligned on the antigen and (ii)aligned on the antibody. Report the global RMSD values and interpret them in the context of other structural accuracy metrics for comparative evaluation. (ChimeraX's matchmaker module is an easy option to calculate RMSDs) (4 pts, 1 pts for each method)
+8) Calculate the RMSD of the generated models by aligning them to the ground truth structure (7zk1). Perform the RMSD calculations in two distinct alignment modes: (i) aligned on the antigen and (ii) aligned on the antibody. Report the global RMSD values and interpret them in the context of other structural accuracy metrics for comparative evaluation. (ChimeraX's matchmaker module is an easy option to calculate RMSDs) (4 pts, 1 pts for each method)
 
 9) Using the IMGT/DomainGapAlign tool, identify the CDR regions (CDR1, CDR2, and CDR3) based on the sequence. (1 pts, 0.25 pts for each method)
 Link to the IMGT/DomainGapAlign tool: https://www.imgt.org/3Dstructure-DB/cgi/DomainGapAlign.cgi
