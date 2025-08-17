@@ -1,3 +1,5 @@
+## Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
+
 ## 🏠 Take-home points
 
 - Protein-protein interaction (PPI) prediction problem is the challenge of predicting whether and how two proteins interact, often from sequence or structural information, given the complexity and variability of biological interfaces.
