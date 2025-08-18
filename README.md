@@ -81,7 +81,7 @@ There will be workshop sessions in the second half of select lessons, including 
 
 📝 A report template will be provided to guide you in the first writing process, however, there will be no templates for the following weeks.
 
-📎 If you are an MSc or PhD student working on a specific protein or proteins, you may use your own protein for the workshop sessions. This will allow you to analyze your protein on a protein-sstructure level, providing insights that can guide your thesis work. 
+📎 If you are an MSc or PhD student working on a specific protein or proteins, you may use your own protein for the specified workshop sessions. This will allow you to analyze your protein on a protein-structure level, providing insights that can guide your thesis work. 
 
 ❕ A friendly reminder: Since I am working in the computational field, I have tools that can easily detect AI-generated text, and I am also quite familiar with the language of different AI models such as ChatGPT, Claude, and Gemini. Please avoid using AI to write your reports. You are not expected to produce huge paragraphs, instead, focus on explaining your results briefly and providing thoughtful discussions about them. That’s the main purpose of science, after all! 👩‍🔬
 
