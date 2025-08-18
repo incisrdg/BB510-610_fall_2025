@@ -3,7 +3,7 @@
 
 ## 👀 Here is an overview of the next 14 weeks:
 
- Week 1: Course overview, the protein folding problem and the history of structural biology. 
+ Week 1: Course overview, the protein folding and the history of structural biology. 
  
  Week 2: Structure determination methods (X-ray, NMR, Cryo-EM), what the structural data look like, structural databases (PDB, PDBe-KB, UniProt).
 
