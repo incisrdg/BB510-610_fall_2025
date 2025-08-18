@@ -42,6 +42,7 @@
 ✅ For structure visualization as well as some basic calculations, please set up UCSF ChimeraX and/or VMD from the following links.
 
 UCSF ChimeraX: https://www.cgl.ucsf.edu/chimera/download.html
+
 VMD: https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 
 ✅ For additional basic calculations, it is recommended that you use Jupyter🪐 or Spyder🕸️. To access these environments, you can install either Anaconda or Miniconda. Once you have installed Anaconda, you can copy the repositories into Jupyter to work on the provided scripts. This will be required in weeks 10 and 11 for molecular docking modules.
