@@ -1,9 +1,9 @@
 # Computational_structural_biology
-🙌 Welcome to the computational structural biology course! 🧬 This course is all about protein structures. We will cover topics including, but not limited to, the protein folding, the history of structural biology, structural data and sources, the protein folding problem, and the protein structure prediction problem from scratch to today's complexity. You can find all the relevant course materials here 📚. The field is evolving at the speed of the light ⚡️. Let's try to keep up with as many advancements as we can.
+🙌 Welcome to the computational structural biology course! 🧬 This course is all about protein structures. We will cover topics including, but not limited to, protein folding, the history of structural biology, structural data and sources, the protein folding problem, and the protein structure prediction problem from scratch to today's complexity. You can find all the relevant course materials here 📚. The field is evolving at the speed of the light ⚡️. Let's try to keep up with as many advancements as we can.
 
 ## 👀 Here is an overview of the next 14 weeks:
 
- Week 1: Course overview, the protein folding and the history of structural biology. 
+ Week 1: Course overview, protein folding and the history of structural biology. 
  
  Week 2: Structure determination methods (X-ray, NMR, Cryo-EM), what the structural data look like, structural databases (PDB, PDBe-KB, UniProt).
 
