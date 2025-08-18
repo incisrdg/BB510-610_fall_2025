@@ -29,7 +29,7 @@
  
  Week 13: De novo protein design with RFDiffusion by Rosetta team.
  
- Week 14: Q&A and discussion session. 🙋‍♀️
+ Week 14: ***(Final exam)*** 📝 -40 pts
 
 
 
