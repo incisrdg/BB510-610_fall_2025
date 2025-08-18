@@ -83,7 +83,7 @@ There will be workshop sessions in the second half of select lessons, including 
 
 📎 If you are an MSc or PhD student working on a specific protein or proteins, you may use your own protein for the specified workshop sessions. This will allow you to analyze your protein on a protein-structure level, providing insights that can guide your thesis work. 
 
-❕ A friendly reminder: Since I am a computational scientist, I have tools that can easily detect AI-generated text, and I am also quite familiar with the language of different AI models such as ChatGPT, Claude, and Gemini. Please avoid using AI to write your reports. You are not expected to produce huge paragraphs, instead, focus on explaining your results briefly and providing thoughtful discussions about them. That’s the main purpose of science, after all! 👩‍🔬
+❕ A friendly reminder: Since I am a computational scientist, I have tools that can easily detect AI-generated text, and I am also quite familiar with the language of different AI models such as ChatGPT, Claude, and Gemini. Please avoid using AI to write your reports. You are not expected to write huge paragraphs, instead, focus on explaining your results briefly and providing thoughtful discussions about them. That’s the main purpose of science, after all! 👩‍🔬
 
 ## About me
 <img width="350" height="525" alt="ChatGPT Image Aug 9, 2025 at 10_31_57 PM-2" src="https://github.com/user-attachments/assets/f57236cd-a7a0-46db-936f-bed1ff484384" />
