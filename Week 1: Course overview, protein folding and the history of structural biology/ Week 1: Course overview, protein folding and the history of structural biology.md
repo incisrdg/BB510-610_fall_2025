@@ -1,6 +1,6 @@
 ## 🏠 Take-home points:
 
-###The histroy of structural biology
+### The histroy of structural biology
 
 - Henry Bragg and his son Lawrence Bragg invented X-ray crystallography, pioneering the use of X-ray diffraction to determine the atomic structure of crystals.
 
