@@ -1,4 +1,12 @@
+## 📝 Workshop report (The deadline is 12:00 a.m. on the same day) (8 pts)
 
+The second half of this course will be a workshop session. For the desired protein, please perform conformation prediction with BioEmu using the following parameters: num_samples=20, model_name=bioemu-v1.1, n_write_samples=-1, and enable the options reconstruct_sidechains, run_md, and one_per_cluster. Set the md_protocol to local minimization. 
+
+- Superimpose the predicted conformations and upload a snapshot of the aligned structures. (1 pt)
+
+- Extract the experimental structure of the target protein from the PDB (if available) and the AF2-predicted structure from the AF2 database. Calculate the RMSD of the BioEmu-predicted conformations by aligning them to the experimental structure and the AF2-predicted structure, respectively. (3 pts)
+
+- Using experimental structural data or other experimental evidence available in the literature, assess the BioEmu-predicted structures and discuss how successfully it captured different conformations. If BioEmu failed to capture different conformations, discuss possible reasons behind this limitation. Discuss the structural differences between the AF2-predicted and BioEmu-predicted models, explaining the underlying reasons for these differences. (4 pts)
 
 
 ## 🏠 Take-home points
