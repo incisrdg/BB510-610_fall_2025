@@ -2,7 +2,20 @@
 
 ### Protein folding
 
+- Physical and chemical forces drive the protein folding process in the cellular environment.
 
+- First law of thermodynamics: ΔU=Q−W (law of energy conservation)
+
+- Second law of thermodynamics: ΔS>0 (entropy of the universe increases)
+
+- Third law of thermodynamics: entropy approaches 0 as the temperature lowers to 0
+
+- Protein folding is a spontenaous/thermodynamically favorable process.
+
+- Nature knows pretty well how to fold proteins, protein folding is a problem for humanity!
+
+- The internal degrees of freedom (3N–6) include bond stretching, bond angle rotation, and torsional angle rotation (there are also some constraints).
+  
 ### The histroy of structural biology
 
 - Henry Bragg and his son Lawrence Bragg invented X-ray crystallography, pioneering the use of X-ray diffraction to determine the atomic structure of crystals.
