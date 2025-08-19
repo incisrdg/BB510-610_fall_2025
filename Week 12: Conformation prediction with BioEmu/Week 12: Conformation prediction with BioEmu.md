@@ -6,7 +6,7 @@ The second half of this course will be a workshop session. For the desired prote
 
 - Extract the experimental structure of the target protein from the PDB (if available) and the AF2-predicted structure from the AF2 database. Calculate the RMSD of the BioEmu-predicted conformations by aligning them to the experimental structure and the AF2-predicted structure, respectively. (3 pts)
 
-- Using experimental structural data or other experimental evidence available in the literature, assess the BioEmu-predicted structures and discuss how successfully it captured different conformations. If BioEmu failed to capture different conformations, discuss possible reasons behind this limitation. Discuss the structural differences between the AF2-predicted and BioEmu-predicted models, explaining the underlying reasons for these differences. (4 pts)
+- Using experimental structural data or other experimental evidence available in the literature, assess the BioEmu-predicted structures and discuss how successfully it captured different conformations. If BioEmu failed to capture different conformations, discuss possible reasons behind this limitation. Additionally, discuss the structural differences between the AF2-predicted and BioEmu-predicted models, explaining the underlying reasons for these differences. (4 pts)
 
 
 ## 🏠 Take-home points
