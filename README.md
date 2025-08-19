@@ -7,7 +7,7 @@
  
  Week 2: Structure determination methods (X-ray, NMR, Cryo-EM), what the structural data look like, structural databases (PDB, PDBe-KB, UniProt).
 
- Week 3: Protein folding problem, CASP and CAPRI competitions, AlphaFold and RosettaFold as the leading teams.
+ Week 3: Protein folding problem, CASP and CAPRI competitions, AlphaFold and RoseTTAFold as the leading teams.
  
  Week 4: Evaluation of AlphaFold predicted models.  ***(report I)*** 📝 -10 pts
  
