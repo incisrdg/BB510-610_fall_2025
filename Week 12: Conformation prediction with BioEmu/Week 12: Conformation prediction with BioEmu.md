@@ -22,7 +22,7 @@ Link to the preprint of BioEmu: https://www.biorxiv.org/content/10.1101/2024.12.
 
 Link to the paper of BioEmu: https://www.science.org/doi/10.1126/science.adv9817
 
-Link to the BioEmu Colab: https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/BioEmu.ipynb
+Link to the BioEmu Colab notebook: https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/BioEmu.ipynb
 
 ## Slides 
 
