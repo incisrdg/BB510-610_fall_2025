@@ -1,3 +1,6 @@
+
+
+
 ## 🏠 Take-home points
 
 - BioEmu generates protein ensembles, not a single static structure, providing rapid insights into conformational diversity and stability shifts that are critical for understanding protein function.
@@ -18,3 +21,9 @@ Microsoft research
 Link to the preprint of BioEmu: https://www.biorxiv.org/content/10.1101/2024.12.05.626885v2.full
 
 Link to the paper of BioEmu: https://www.science.org/doi/10.1126/science.adv9817
+
+Link to the BioEmu Colab: https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/BioEmu.ipynb
+
+## Slides 
+
+https://docs.google.com/presentation/d/1V6P8oMm3ujYXSQmNXnVrqyHzTePNntoS5J5__87bu2E/edit?usp=sharing
