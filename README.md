@@ -48,6 +48,7 @@ VMD: https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 ✅ For additional basic calculations, it is recommended that you use Jupyter🪐 or Spyder🕸️. To access these environments, you can install either Anaconda or Miniconda. Once you have installed Anaconda, you can copy the repositories into Jupyter to work on the provided scripts. This will be required in weeks 10 and 11 for molecular docking modules.
 
 Anaconda: https://www.anaconda.com/download
+
 Miniconda: https://www.anaconda.com/docs/getting-started/miniconda/install
 
 ✅ Please sign up for Colab with your Google account. You will need Colab to run structure predictions using AF2, AF3-implementations, and BioEmu. Colab can also be used to run scripts in weeks 10 and 11.
