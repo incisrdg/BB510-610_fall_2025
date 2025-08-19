@@ -15,7 +15,12 @@
 - Nature knows pretty well how to fold proteins, protein folding is a problem for humanity!
 
 - The internal degrees of freedom (3N–6) include bond stretching, bond angle rotation, and torsional angle rotation (there are also some constraints).
-  
+
+![Image 9](https://github.com/user-attachments/assets/5f082d8f-c0e1-450e-8f03-7976787c103b)
+
+Cordeiro, Yraima, et al., 2014
+
+
 ### The histroy of structural biology
 
 - Henry Bragg and his son Lawrence Bragg invented X-ray crystallography, pioneering the use of X-ray diffraction to determine the atomic structure of crystals.
