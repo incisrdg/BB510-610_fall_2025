@@ -1,4 +1,4 @@
-BBXXX - Advanced Structural Bioinformatics - Spring 2025
+BBXXX - Computational Structural Biology - Spring 2025
 ================
 
 <table>
