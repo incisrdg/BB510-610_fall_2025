@@ -1,7 +1,7 @@
 # Computational_structural_biology
 🙌 Welcome to the computational structural biology course! 🧬 This course is all about protein structures. We will cover topics including, but not limited to, protein folding, the history of structural biology, structural data and sources, the protein folding problem, and the protein structure prediction problem from scratch to today's complexity. You can find all the relevant course materials here 📚. The field is evolving at the speed of the light ⚡️. Let's try to keep up with as many advancements as we can.
 
-## 👀 Here is an overview of the next 14 weeks:
+👀 Here is an overview of the next 14 weeks:
 
 BBXXX - Computational Structural Biology - Spring 2025
 ================
@@ -20,7 +20,9 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;">1</td>
 <td style="text-align:left;">2025-02-20</td>
-<td style="text-align:left;">Course overview, protein folding and the history of structural biology</td>
+<td style="text-align:left;">
+<a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%201%3A%20Course%20overview%2C%20protein%20folding%20and%20the%20history%20of%20structural%20biology/%20Week%201%3A%20Course%20overview%2C%20protein%20folding%20and%20the%20history%20of%20structural%20biology.mdf">Course overview, protein folding and the history of structural biology</a>
+</td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
@@ -28,7 +30,9 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;">2</td>
 <td style="text-align:left;">2025-02-27</td>
-<td style="text-align:left;">Structure determination methods (X-ray, NMR, Cryo-EM), structural data, databases (PDB, PDBe-KB, UniProt)</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/2.structure_methods.pdf">Structure determination methods (X-ray, NMR, Cryo-EM), structural data, databases (PDB, PDBe-KB, UniProt)</a>
+</td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
@@ -36,7 +40,9 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;">3</td>
 <td style="text-align:left;">2025-03-06</td>
-<td style="text-align:left;">Protein folding problem, CASP & CAPRI competitions, AlphaFold & RoseTTAFold</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/3.protein_folding.pdf">Protein folding problem, CASP & CAPRI competitions, AlphaFold & RoseTTAFold</a>
+</td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
@@ -44,15 +50,19 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;">4</td>
 <td style="text-align:left;">2025-03-13</td>
-<td style="text-align:left;">Evaluation of AlphaFold predicted models</td>
-<td style="text-align:left;">Report I 📝 (10 pts)</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/4.alphafold_eval.pdf">Evaluation of AlphaFold predicted models</a>
+</td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/reports/report1.pdf">Report I 📝 (10 pts)</a></td>
 <td style="text-align:left;"></td>
 </tr>
 
 <tr>
 <td style="text-align:right;">5</td>
 <td style="text-align:left;">2025-03-20</td>
-<td style="text-align:left;">Architecture of AF2, AF3, and AF3-implementations</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/5.architecture_AF.pdf">Architecture of AF2, AF3, and AF3-implementations</a>
+</td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
@@ -60,47 +70,59 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;">6</td>
 <td style="text-align:left;">2025-03-27</td>
-<td style="text-align:left;">Structure prediction with AF2/AF3 (Colab & Tamarind)</td>
-<td style="text-align:left;">Report II 📝 (20 pts)</td>
-<td style="text-align:left;">Workshop Session I 💻</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/6.prediction_AF.pdf">Structure prediction with AF2/AF3 (Colab & Tamarind)</a>
+</td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/reports/report2.pdf">Report II 📝 (20 pts)</a></td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/scripts/workshop1.pdf">Workshop Session I 💻</a></td>
 </tr>
 
 <tr>
 <td style="text-align:right;">7</td>
 <td style="text-align:left;">2025-04-03</td>
-<td style="text-align:left;">Pathogenicity prediction using structural data (DynaMut, PremPS, FoldX, ThermoMPNN-D)</td>
-<td style="text-align:left;">Report III 📝 (5 pts)</td>
-<td style="text-align:left;">Workshop Session II 💻</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/7.pathogenicity1.pdf">Pathogenicity prediction using structural data (DynaMut, PremPS, FoldX, ThermoMPNN-D)</a>
+</td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/reports/report3.pdf">Report III 📝 (5 pts)</a></td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/scripts/workshop2.pdf">Workshop Session II 💻</a></td>
 </tr>
 
 <tr>
 <td style="text-align:right;">8</td>
 <td style="text-align:left;">2025-04-10</td>
-<td style="text-align:left;">Pathogenicity prediction with AlphaMissense and Hotspot</td>
-<td style="text-align:left;">Report IV 📝 (5 pts)</td>
-<td style="text-align:left;">Workshop Session III 💻</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/8.pathogenicity2.pdf">Pathogenicity prediction with AlphaMissense and Hotspot</a>
+</td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/reports/report4.pdf">Report IV 📝 (5 pts)</a></td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/scripts/workshop3.pdf">Workshop Session III 💻</a></td>
 </tr>
 
 <tr>
 <td style="text-align:right;">9</td>
 <td style="text-align:left;">2025-04-17</td>
-<td style="text-align:left;">Protein-protein docking (ClusPro, HADDOCK) & binding affinity (PRODIGY, Boltz-2)</td>
-<td style="text-align:left;">Report V 📝 (10 pts)</td>
-<td style="text-align:left;">Workshop Session IV 💻</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/9.protein_docking.pdf">Protein-protein docking (ClusPro, HADDOCK) & binding affinity (PRODIGY, Boltz-2)</a>
+</td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/reports/report5.pdf">Report V 📝 (10 pts)</a></td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/scripts/workshop4.pdf">Workshop Session IV 💻</a></td>
 </tr>
 
 <tr>
 <td style="text-align:right;">10</td>
 <td style="text-align:left;">2025-04-24</td>
-<td style="text-align:left;">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit)</td>
-<td style="text-align:left;">Report VI 📝 (2 pts)</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/10.docking_pipeline1.pdf">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit)</a>
+</td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/reports/report6.pdf">Report VI 📝 (2 pts)</a></td>
 <td style="text-align:left;"></td>
 </tr>
 
 <tr>
 <td style="text-align:right;">11</td>
 <td style="text-align:left;">2025-05-01</td>
-<td style="text-align:left;">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/11.docking_pipeline2.pdf">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</a>
+</td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
@@ -108,15 +130,19 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;">12</td>
 <td style="text-align:left;">2025-05-08</td>
-<td style="text-align:left;">Conformation prediction with BioEmu</td>
-<td style="text-align:left;">Report VII 📝 (8 pts)</td>
-<td style="text-align:left;">Workshop Session V 💻</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/12.bioemu.pdf">Conformation prediction with BioEmu</a>
+</td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/reports/report7.pdf">Report VII 📝 (8 pts)</a></td>
+<td style="text-align:left;"><a href="https://github.com/your-repo/scripts/workshop5.pdf">Workshop Session V 💻</a></td>
 </tr>
 
 <tr>
 <td style="text-align:right;">13</td>
 <td style="text-align:left;">2025-05-15</td>
-<td style="text-align:left;">De novo protein design with RFDiffusion (Rosetta team)</td>
+<td style="text-align:left;">
+<a href="https://github.com/your-repo/lectures/13.rf_diffusion.pdf">De novo protein design with RFDiffusion (Rosetta team)</a>
+</td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
@@ -124,12 +150,15 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;font-weight: bold;background-color: #E2725A !important;">14</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">2025-05-22</td>
-<td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">Final Exam</td>
+<td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">
+<a href="https://github.com/your-repo/exams/final_exam.pdf">Final Exam</a>
+</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">📝 (40 pts)</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;"></td>
 </tr>
 </tbody>
 </table>
+
 
 ❗️ You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates. ❗️
 
