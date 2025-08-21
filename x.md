@@ -120,7 +120,7 @@ BBXXX - Advanced Structural Bioinformatics - Spring 2025
 <td style="text-align:right;font-weight: bold;background-color: #E2725A !important;">14</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">2025-05-22</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">Final Exam</td>
-<td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">📝 (-40 pts)</td>
+<td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">📝 (40 pts)</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;"></td>
 </tr>
 </tbody>
