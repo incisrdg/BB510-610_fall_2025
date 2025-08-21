@@ -131,10 +131,6 @@ BBXXX - Computational Structural Biology - Spring 2025
 </tbody>
 </table>
 
-
-
-
-
 ❗️ You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates. ❗️
 
 
