@@ -13,7 +13,7 @@ BBXXX - Computational Structural Biology - Spring 2025
 <th style="text-align:left;">Date</th>
 <th style="text-align:left;">Subject</th>
 <th style="text-align:left;">HW / Reports</th>
-<th style="text-align:left;">WorkshopS</th>
+<th style="text-align:left;">Workshops</th>
 </tr>
 </thead>
 <tbody>
