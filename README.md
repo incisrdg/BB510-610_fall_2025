@@ -100,7 +100,7 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;">11</td>
 <td style="text-align:left;">2025-05-01</td>
-<td style="text-align:left;"><a href="[link_to_week11.pdf](https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina)/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina).md)">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</a></td>
+<td style="text-align:left;"><a href="(https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina)/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina).md)">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
@@ -108,7 +108,7 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;">12</td>
 <td style="text-align:left;">2025-05-08</td>
-<td style="text-align:left;"><a href="[link_to_week12.pdf](https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu.md)">Conformation prediction with BioEmu</a></td>
+<td style="text-align:left;"><a href="">Conformation prediction with BioEmu</a></td>
 <td style="text-align:left;">Report VII 📝 (8 pts)</td>
 <td style="text-align:left;">Workshop Session V 💻</td>
 </tr>
@@ -124,7 +124,7 @@ BBXXX - Computational Structural Biology - Spring 2025
 <tr>
 <td style="text-align:right;font-weight: bold;background-color: #E2725A !important;">14</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">2025-05-22</td>
-<td style="text-align:left;font-weight: bold;background-color: #E2725A !important;"><a href="link_to_week14.pdf">Final Exam</a></td>
+<td style="text-align:left;font-weight: bold;background-color: #E2725A !important;"><a Final Exam</a></td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">📝 (40 pts)</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;"></td>
 </tr>
