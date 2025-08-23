@@ -1,4 +1,4 @@
-BBX510/610 - Computational Structural Biology - Spring 2025
+BBX510/610 - Computational Structural Biology - Fall 2025
 ================
 
 <table>
