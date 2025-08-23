@@ -3,7 +3,7 @@
 
 👀 Here is an overview of the next 14 weeks:
 
-BBXXX - Computational Structural Biology - Spring 2025
+BB510/610 - Computational Structural Biology - Spring 2025
 ================
 
 <table>
