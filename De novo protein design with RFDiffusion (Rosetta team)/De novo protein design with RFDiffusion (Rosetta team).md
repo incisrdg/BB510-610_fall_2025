@@ -25,6 +25,8 @@ Link to the github of RFdiffusion: https://github.com/RosettaCommons/RFdiffusion
 
 Link to the paper De novo designed proteins neutralize lethal snake venom toxins: https://www.nature.com/articles/s41586-024-08393-x
 
+Link to the Colab notebook of RFdiffusion: https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb
+
 
 ## Slides
 
