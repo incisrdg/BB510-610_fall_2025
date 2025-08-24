@@ -14,6 +14,8 @@ In this section, we will talk about the foundations and applications of RFdiffus
 
 <img width="862" height="302" alt="partial" src="https://github.com/user-attachments/assets/1bf7c677-1380-4b7b-8ec8-a56cee6f1f8f" />
 
+Baker's lab
+
 
 ## References
 
