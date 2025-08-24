@@ -3,7 +3,7 @@
 
 👀 Here is an overview of the next 14 weeks:
 
-BB510/610 - Computational Structural Biology - Faşş 2025
+BB510/610 - Computational Structural Biology - Fall 2025
 ================
 
 <table>
