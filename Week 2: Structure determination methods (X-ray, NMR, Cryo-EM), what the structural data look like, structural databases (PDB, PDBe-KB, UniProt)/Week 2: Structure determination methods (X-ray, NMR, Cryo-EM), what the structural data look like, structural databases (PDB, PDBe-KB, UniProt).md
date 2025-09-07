@@ -2,7 +2,7 @@
 
 - Most structural data are obtained through the following three methods: X-ray crystallography, cryo-electron microscopy (cryo-EM), and nuclear magnetic resonance (NMR) spectroscopy.
 
-- X-ray crystallography can resolve structures at atomic resolution; however, due to crystal packing effects, the resulting structures may deviate from their native folds. 
+- X-ray crystallography can resolve structures at atomic resolution, however, due to crystal packing effects, the resulting structures may deviate from their native folds. 
 
 - Cryo-EM allows the visualization of large macromolecular complexes in near-native conditions, moreover, it is particularly well-suited for studying membrane proteins.
 
