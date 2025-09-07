@@ -175,7 +175,7 @@ Colab: https://colab.research.google.com/
 
 ## Workshops and reports 
 
-There will be workshop sessions in the second half of select lessons, including weeks 6, 7, 8, 9 and 12. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are not able to finish your reports during class hours, you will have time until the end of the day to send them to my email.  Please do not forget to bring your computers to the workshop sessions! 💻
+There will be workshop sessions in the second half of select lessons, including weeks 6, 7, 8, 9 and 12. During the class hours, you are expected to work on the given problems and begin writing your reports. Do not worry if you are not able to finish your reports during class hours, you will have time until the end of the day to send them via email.  Please do not forget to bring your computers to the workshop sessions! 💻
 
 ❗️ These workshops and reports are one of the main actions through which you will be graded for this course (60 pts). There will also be a final exam (40 pts).
 
