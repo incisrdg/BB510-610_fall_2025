@@ -1,6 +1,6 @@
 ## 🏠 Take-home points:
 
-### Protein folding
+### Introduction: Protein folding
 
 - Physical and chemical forces drive the protein folding process in the cellular environment.
 
