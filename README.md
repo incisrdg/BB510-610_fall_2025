@@ -3,6 +3,8 @@
 
 👀 Here is an overview of the next 14 weeks:
 
+(Just a heads-up: the schedule might change a little during the semester depending on the flow.)
+
 BB510/610 - Computational Structural Biology - Fall 2025
 ================
 
