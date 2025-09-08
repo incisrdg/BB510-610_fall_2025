@@ -30,6 +30,7 @@ This week's lecture is the only one dedicated to discussing the experimental met
 - Symmetry operations in proteins are important because they let nature build large, stable, and functional complexes efficiently, even if this is not the main focus of the course. It is still useful to get familiar with the different sources of symmetry in protein structures, since they often underlie assembly, stability, and function.
 
 <img width="590" height="422" alt="Screenshot 2025-09-08 at 20 15 04" src="https://github.com/user-attachments/assets/bb15661d-6f8a-4209-88df-f23aa381a80b" /> 
+
 Neurosnap
 
 ## 🗄️ Databases: 
