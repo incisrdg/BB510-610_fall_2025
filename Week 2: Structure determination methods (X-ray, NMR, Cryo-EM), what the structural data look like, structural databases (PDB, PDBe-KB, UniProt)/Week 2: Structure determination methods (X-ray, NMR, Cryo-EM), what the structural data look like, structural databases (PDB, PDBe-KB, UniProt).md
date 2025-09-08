@@ -14,8 +14,6 @@
 
 - UniProt is a comprehensive database of both protein sequence/structure and functional information.
 
-- Symmetry operations in proteins is important because it allows nature to build large, stable, and functional complexes efficiently.
-
 ![ATPsynthase_animated](https://github.com/user-attachments/assets/4561684b-dd12-4573-ad7c-5e788fd0ef8c) PDB101 -ATP synthase
 
 
