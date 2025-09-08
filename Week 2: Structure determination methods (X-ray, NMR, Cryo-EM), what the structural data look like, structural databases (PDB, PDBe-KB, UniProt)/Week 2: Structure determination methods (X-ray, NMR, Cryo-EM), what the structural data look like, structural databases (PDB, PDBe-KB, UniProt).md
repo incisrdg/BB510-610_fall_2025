@@ -65,6 +65,10 @@ Link to the NMR lecture from MSU: https://www2.chemistry.msu.edu/faculty/reusch/
 
 ➡️ Link to the example NMR structure 8urv: https://www.rcsb.org/structure/8URV
 
+Link to the protein symmetry sources in the PDB: https://www.google.com/search?client=safari&rls=en&q=protein+symemtry&ie=UTF-8&oe=UTF-8
+
+Link to the blog post "Protein symmetries simplified": https://neurosnap.ai/blog/post/protein-symmetries-simplified-understanding-cn-dn-and-cubic-symmetries/65b4310a66fbcdc5d780129e
+
 ## Suggested
 Understanding Crystallography - Part 1: From Proteins to Crystals: https://www.youtube.com/watch?v=gLsC4wlrR2A
 
