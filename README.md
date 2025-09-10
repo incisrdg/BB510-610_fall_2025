@@ -29,7 +29,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 
 <tr>
 <td style="text-align:right;">2</td>
-<td style="text-align:left;">2025-02-27</td>
+<td style="text-align:left;">2025-09-22</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%202%3A%20Structure%20determination%20methods%20(X-ray%2C%20NMR%2C%20Cryo-EM)%2C%20what%20the%20structural%20data%20look%20like%2C%20structural%20databases%20(PDB%2C%20PDBe-KB%2C%20UniProt)/Week%202%3A%20Structure%20determination%20methods%20(X-ray%2C%20NMR%2C%20Cryo-EM)%2C%20what%20the%20structural%20data%20look%20like%2C%20structural%20databases%20(PDB%2C%20PDBe-KB%2C%20UniProt).md">Structure determination methods (X-ray, NMR, Cryo-EM), structural data, databases (PDB, PDBe-KB, UniProt)</a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
@@ -109,7 +109,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 
 <tr>
 <td style="text-align:right;">12</td>
-<td style="text-align:left;">2025-05-15</td>
+<td style="text-align:left;">2025-12-31</td>
 <td style="text-align:left;"><a href="">De novo protein design with RFDiffusion (Rosetta team)</a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
