@@ -70,6 +70,10 @@ In this section, we will explore pathogenicity prediction tools that utilize the
 
 In this section, we will talk about AlphaMissense which is a deep learning model developed by Google DeepMind to predict the pathogenicity of missense variants. Built upon the structural database of AF2, it uses AF2-predicted protein structures alongside evolutionary conservation patterns and variant frequency data to assess the potential impact of these variants on protein stability and function. Trained on a massive dataset covering nearly 71 million possible human variants, AlphaMissense assigns each variant a pathogenicity score between 0 to 1, classifying them as likely benign, likely pathogenic, or uncertain. It provides a valuable resource for researchers and clinicians to prioritize variants for further study.
 
+<img width="1012" height="579" alt="Screenshot 2025-09-10 at 12 12 54" src="https://github.com/user-attachments/assets/7aa70786-fd8b-4839-a000-31e8e7c7e3ea" /> from Google DeepMind
+
+
+
 ## Software downlaod
 
 🔑 You are required to register for the FoldX server under the academic license, which is free of charge.
