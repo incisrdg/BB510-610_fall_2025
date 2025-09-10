@@ -72,7 +72,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;">2025-04-03</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D)/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D).md">Pathogenicity prediction using structural data (1-DynaMut, PremPS, FoldX, ThermoMPNN-D, 2-Pathogenicity prediction with AlphaMissense and Hotspot)</a></td>
 <td style="text-align:left;">Report III 📝 (5 pts)/ Report IV 📝 (5 pts)</td>
-<td style="text-align:left;">Workshop Session II 💻</td>
+<td style="text-align:left;">Workshop Session II/III 💻</td>
 </tr>
 
 <tr>
