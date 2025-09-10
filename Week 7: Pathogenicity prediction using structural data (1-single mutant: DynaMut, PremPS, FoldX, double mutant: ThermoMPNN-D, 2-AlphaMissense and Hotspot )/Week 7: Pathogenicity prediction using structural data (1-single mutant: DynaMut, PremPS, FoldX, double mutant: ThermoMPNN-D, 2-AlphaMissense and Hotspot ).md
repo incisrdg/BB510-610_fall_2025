@@ -60,13 +60,13 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 
 ## Summary
-1st part
+1st part:
 
 In this section, we will explore pathogenicity prediction tools that utilize the structural data of proteins. FoldX, DynaMut, PremPS, and ThermoMPNN are widely used computational tools for predicting the pathogenicity of protein mutations by estimating changes in protein stability. Each method has its own underlying architecture, offering distinct advantages and limitations. To improve reliability, it is often necessary to cross-validate the outputs of these tools. Collectively, they enable us to prioritize potentially pathogenic mutations by quantifying their thermodynamic impact on protein structure and function.
 
 ![science adj8672-f1](https://github.com/user-attachments/assets/a602ca69-b6d2-4e9d-a93f-44ee2415024b) from Science Journal
 
-2nd part
+2nd part:
 
 In this section, we will talk about AlphaMissense which is a deep learning model developed by Google DeepMind to predict the pathogenicity of missense variants. Built upon the structural database of AF2, it uses AF2-predicted protein structures alongside evolutionary conservation patterns and variant frequency data to assess the potential impact of these variants on protein stability and function. Trained on a massive dataset covering nearly 71 million possible human variants, AlphaMissense assigns each variant a pathogenicity score between 0 to 1, classifying them as likely benign, likely pathogenic, or uncertain. It provides a valuable resource for researchers and clinicians to prioritize variants for further study.
 
@@ -86,6 +86,8 @@ To register, please follow this link: https://foldxsuite.crg.eu/academic-license
 
 ## References
 
+1st part:
+
 Link to the FoldX paper: https://academic.oup.com/nar/article/33/suppl_2/W382/2505499
 
 Link to the DynaMut paper: https://academic.oup.com/nar/article/46/W1/W350/4990022?login=false
@@ -102,6 +104,21 @@ Tool access:
 
 ➡️ Link to the ThermoMPNN Colab: https://colab.research.google.com/drive/1OcT4eYwzxUFNlHNPk9_5uvxGNMVg3CFA
 
+2nd part: 
+
+Link to the AlphaMissense paper: https://www.science.org/doi/10.1126/science.adg7492
+
+➡️ Link for the try yourself section: https://alphafold.ebi.ac.uk/entry/Q9UQ13?activeTab=summary
+
+Link to the AlphaMissense database: https://alphamissense.hegelab.org/search
+
 ## Slides
 
+1st part:
+
 https://docs.google.com/presentation/d/1DyIXaXer8BrBsRzPI62I9Tl4_k4rsK4JK6lR7Qz7M1w/edit?usp=sharing
+
+2nd part:
+
+https://docs.google.com/presentation/d/10h39rGs_Ny3c_DKLXtgdAg39RXoml9EL7uRERrGHQto/edit?usp=sharing
+
