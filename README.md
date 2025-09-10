@@ -77,14 +77,6 @@ BB510/610 - Computational Structural Biology - Fall 2025
 
 <tr>
 <td style="text-align:right;">8</td>
-<td style="text-align:left;">2025-04-10</td>
-<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%208%3A%20Pathogenicity%20prediction%20with%20AlphaMissense%20and%20Hotspot/Week%208%3A%20Pathogenicity%20prediction%20with%20AlphaMissense%20and%20Hotspot.md">xxx</a></td>
-<td style="text-align:left;">xxx</td>
-<td style="text-align:left;">Workshop Session IV 💻</td>
-</tr>
-
-<tr>
-<td style="text-align:right;">9</td>
 <td style="text-align:left;">2025-04-17</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%209%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2)/Week%209%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2).md">Protein-protein docking (ClusPro, HADDOCK) & binding affinity (PRODIGY, Boltz-2)</a></td>
 <td style="text-align:left;">Report V 📝 (10 pts)</td>
@@ -92,7 +84,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 </tr>
 
 <tr>
-<td style="text-align:right;">10</td>
+<td style="text-align:right;">9</td>
 <td style="text-align:left;">2025-04-24</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2010%3A%20Molecular%20docking%20pipeline%3A%20module%201%20(Digital%20Representations%20of%20Molecules)%20and%20module%202%20(Exploring%20Chemical%20and%20Biological%20Data%20With%20BidingDB%20and%20the%20RDKit)/Week%2010%3A%20Molecular%20docking%20pipeline%3A%20module%201%20(Digital%20Representations%20of%20Molecules)%20and%20module%202%20(Exploring%20Chemical%20and%20Biological%20Data%20With%20BidingDB%20and%20the%20RDKit).md">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit)</a></td>
 <td style="text-align:left;">Report VI 📝 (2 pts)</td>
@@ -100,7 +92,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 </tr>
 
 <tr>
-<td style="text-align:right;">11</td>
+<td style="text-align:right;">10</td>
 <td style="text-align:left;">2025-05-01</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina)/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina).md">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</a></td>
 <td style="text-align:left;"></td>
@@ -108,7 +100,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 </tr>
 
 <tr>
-<td style="text-align:right;">12</td>
+<td style="text-align:right;">11</td>
 <td style="text-align:left;">2025-05-08</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu.md">Conformation prediction with BioEmu</a></td>
 <td style="text-align:left;">Report VII 📝 (8 pts)</td>
@@ -116,7 +108,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 </tr>
 
 <tr>
-<td style="text-align:right;">13</td>
+<td style="text-align:right;">12</td>
 <td style="text-align:left;">2025-05-15</td>
 <td style="text-align:left;"><a href="">De novo protein design with RFDiffusion (Rosetta team)</a></td>
 <td style="text-align:left;"></td>
