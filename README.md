@@ -80,7 +80,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;">2025-04-10</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%208%3A%20Pathogenicity%20prediction%20with%20AlphaMissense%20and%20Hotspot/Week%208%3A%20Pathogenicity%20prediction%20with%20AlphaMissense%20and%20Hotspot.md">xxx</a></td>
 <td style="text-align:left;">xxx</td>
-<td style="text-align:left;">Workshop Session III 💻</td>
+<td style="text-align:left;">Workshop Session IV 💻</td>
 </tr>
 
 <tr>
