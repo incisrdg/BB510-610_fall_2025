@@ -18,8 +18,19 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 - Report the ΔΔG values in a table and provide a comparative discussion of the methods. (1 pts)
 
-
 - Rationalize why some mutations tend to be pathogenic while others are benign. In this discussion, consider factors such as secondary structure, relative solvent-accessible surface area (rASA), B-factor, hydrophobicity, and electrostatic charges. (2 pts)
+
+## 📝 Workshop report (The deadline is 12:00 a.m. on the same day) (5 pts)
+
+- Compare the AlphaMissense scores with the free energy change scores obtained in the previous section. Provide a brief comparative discussion linking the free energy scores to the observed variant characteristics. (0.5 pts)
+
+- For the previously selected variant positions, assess their tendency to be pathogenic or benign according to AlphaMissense, taking into account their structural and functional importance. Please consider all substitutions within the selected variant positions. Additionally, extract all variant information for these positions or neighboring positions from UniProt or gnomAD, and provide supportive or enhanced classification for these reported variants using AlphaMissense scores. (1.5 pts)
+
+- Evaluate the structural environment (heatmaps) of the variant positions to identify clusters with pathogenic-like or benign-like profiles. (1 pts)
+
+- Evaluate the hotspots in your protein and determine whether the selected variants are located within these regions. Provide a discussion on the average pathogenicity and the identified hotspots. (1 pts)
+
+- Why is it important to use multiple complementary methods to assess the impact of a variant on a protein’s structure and function? How can we decide which predictive method is the most reliable for assessing a protein variant’s impact in a desired research context? (1 pts)
 
 ## 🏠 Take-home points 
 
