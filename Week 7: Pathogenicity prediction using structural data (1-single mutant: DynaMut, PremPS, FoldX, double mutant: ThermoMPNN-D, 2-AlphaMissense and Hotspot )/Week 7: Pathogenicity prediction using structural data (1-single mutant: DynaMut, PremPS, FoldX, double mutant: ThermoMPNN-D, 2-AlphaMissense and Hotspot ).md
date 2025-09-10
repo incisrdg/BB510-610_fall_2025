@@ -2,7 +2,7 @@
 
 In the first half of this section, we will discuss various structure-based pathogenicity prediction tools, and then we will perform free energy calculations on our target proteins to assess the effects of mutations. Therefore, before coming to class, please select a human protein from the PDB or UniProt that you are interested in, preferably in a monomeric form for simplicity (If your structure is a dimer or tetramer, don't worry, we can manipulate it to extract the monomeric form before starting the calculations). Download the corresponding PDB structure (in .pdb format) and record the entry ID. You are also expected to select three different variants of your target protein, classified as pathogenic, of uncertain significance, and benign. To choose these variants, you can use the "Variant Viewer" available under the "Disease & Variants" section in UniProt. You can also extract variant information from gnomAD. Additionally, it is recommended to select variants that are located within the same 3D environment, such as being in close proximity within a specific domain of the protein. 
 
-In the second half of this section,
+In the second half of this section, you will evaluate the AlphaMissense scores of the proteins and variants analyzed in the first section.
 
 👍 Make sure to review the FoldX set-up tutorials below. 
 
