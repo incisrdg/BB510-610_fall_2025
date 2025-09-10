@@ -78,7 +78,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">8</td>
 <td style="text-align:left;">2025-04-17</td>
-<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%209%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2)/Week%209%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2).md">Protein-protein docking (ClusPro, HADDOCK) & binding affinity (PRODIGY, Boltz-2)</a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Week%208%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2)/Week%208%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2).md">Protein-protein docking (ClusPro, HADDOCK) & binding affinity (PRODIGY, Boltz-2)</a></td>
 <td style="text-align:left;">Report V 📝 (10 pts)</td>
 <td style="text-align:left;">Workshop Session IV 💻</td>
 </tr>
