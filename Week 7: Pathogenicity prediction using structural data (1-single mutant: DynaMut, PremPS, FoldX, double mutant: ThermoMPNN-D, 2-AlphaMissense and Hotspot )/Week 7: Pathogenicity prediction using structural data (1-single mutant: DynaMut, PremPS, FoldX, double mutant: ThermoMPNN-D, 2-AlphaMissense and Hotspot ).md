@@ -34,6 +34,8 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 ## 🏠 Take-home points 
 
+1st part:
+
 - FoldX is a physics-based method that calculates changes in free energy (ΔΔG) upon mutation using an empirical force field, offering fast and relatively accurate predictions, particularly for point mutations.
 
 - DynaMut combines normal mode analysis with statistical potentials to assess both structural stability and changes in protein dynamics, providing insights into flexibility changes caused by mutations.
@@ -41,6 +43,21 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 - PremPS employs a hybrid approach integrating structural, energetic, and evolutionary features through machine learning to predict ΔΔG values with improved accuracy, particularly for missense variants.
 
 - ThermoMPNN is a deep learning-based method that uses graph neural networks trained on massive mutational data to predict effects of mutations on protein stability, including single and double mutants, and can infer potential pathogenicity by modeling ΔΔG landscapes. 
+
+2nd part: 
+
+- AlphaMissense was built on AF2 protein structure database, integrating structural, evolutionary, and variant frequency information.
+
+- It assigns each variant a pathogenicity score (0–1) and classifies it as likely benign, likely pathogenic, or uncertain.
+
+- It provides information about the functional or structural importance of specific regions on protein structure, for example by revealing clusters with a high pathogenicity profile.
+
+- Hotspot calculates the average profile of pathonecity and highlights the protein regions where variants are predicted to be highly pathogenic, mapping these "hotspot" regions onto AF2-predicted structures for functional and structural insight.
+
+- If a cluster contains mostly variants with benign characteristics, it does not necessarily mean that all variants within it will have benign-like effects.
+
+- Similarly, if a cluster contains variants with pathogenic characteristics, certain substitutions may still be compensated for and exhibit benign-like effects.
+
 
 ## Summary
 
