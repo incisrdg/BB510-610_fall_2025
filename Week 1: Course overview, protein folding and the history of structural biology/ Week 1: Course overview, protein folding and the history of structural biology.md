@@ -25,7 +25,7 @@ Cordeiro, Yraima, et al., 2014
 
 - Henry Bragg and his son Lawrence Bragg invented X-ray crystallography, pioneering the use of X-ray diffraction to determine the atomic structure of crystals.
 
-- The first studies by Henry Bragg and his son Lawrence Bragg were conducted on simple inorganic salt crystals such as sodium chloride
+- The first studies by Henry Bragg and his son Lawrence Bragg were conducted on simple inorganic salt crystals such as sodium chloride.
 
 - Lawrence Bragg went on to focus on the structures of organic compounds and was the first to determine the low-resolution structure of hemoglobin, revealing the structural differnece of deoxy- and oxy-states.
 
