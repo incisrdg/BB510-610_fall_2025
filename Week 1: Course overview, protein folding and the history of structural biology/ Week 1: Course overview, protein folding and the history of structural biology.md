@@ -1,3 +1,10 @@
+## 🚨 Action required
+
+Before we move on, please fill out the form below.
+
+https://docs.google.com/forms/d/e/1FAIpQLSdMpjHbCTq2_X4H-TlSGmjhy6cufEd30OVfylgzTzF0_Pv3Ug/viewform?usp=sharing&ouid=108507081684040311582
+
+
 ## 🏠 Take-home points:
 
 ### Introduction: Protein folding
