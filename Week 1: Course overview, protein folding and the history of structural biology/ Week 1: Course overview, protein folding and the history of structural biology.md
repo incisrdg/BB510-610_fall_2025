@@ -50,8 +50,7 @@ Cordeiro, Yraima, et al., 2014
 ## Summary
 Part 1: 
 
-Protein folding is driven by physical and chemical forces and explained by thermodynamics: energy conservation (ΔU = Q − W), inct
-rease in entropy (ΔS > 0), and entropy approaching zero at absolute zero. Folding is a spontaneous, favorable process that nature performs efficiently, though it remains a challenge for prediction. Proteins have internal degrees of freedom (3N–6), including bond stretching, angle rotation, and torsional rotation, with some constraints.
+Protein folding is driven by physical and chemical forces and explained by thermodynamics: energy conservation (ΔU = Q − W), increase in entropy (ΔS > 0), and entropy approaching zero at absolute zero. Folding is a spontaneous, favorable process that nature performs efficiently, though it remains a challenge for prediction. Proteins have internal degrees of freedom (3N–6), including bond stretching, angle rotation, and torsional rotation, with some constraints.
 
 Part 2: 
 
