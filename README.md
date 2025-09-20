@@ -118,7 +118,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">12</td>
 <td style="text-align:left;">2025-12-16</td>
-<td style="text-align:left;"><a href="">>
+<td style="text-align:left;"><a href=""></a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
