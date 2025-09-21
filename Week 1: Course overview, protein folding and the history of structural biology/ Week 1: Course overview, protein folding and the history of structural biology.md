@@ -96,6 +96,13 @@ Link to the unit cell definition: http://ccp14.cryst.bbk.ac.uk/ccp/web-mirrors/x
  
 Celebrating Crystallography - An animated adventure: https://www.youtube.com/watch?v=uqQlwYv8VQI
 
+Potential models of protein folding to explain Levinthal's paradox: https://www.youtube.com/watch?v=WA_bDzcoNv0
+
+Hydrophobic collapse: https://www.youtube.com/watch?v=SGKn4QDINg4
+
+The physics of entropy and the origin of life: https://www.youtube.com/watch?v=Sz1n0RHwLqA
+
+
 ## Slides
 
 https://docs.google.com/presentation/d/1VkqGN81GCZB-rEoR3tm2-UiRXIMxOapEDIa0SNXCcb8/edit?usp=sharing
