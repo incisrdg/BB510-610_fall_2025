@@ -16,7 +16,7 @@ The naming convention follows this structure: “AF” denotes an AlphaFold pred
 
 - For the second entry, assess the structures with respect to their pLDDT, PAE, and TED domains, and provide a detailed discussion on disorders. (max 4 lines)
 
-- For the third entry, evaluate the given protein complex in terms of its pLDDT, ipLDDT, PAE, iPAE, pTM, ipTM, and TED domains, and provide an in-depth discussion of the interface. (Prediction is provided in the week 4 materials.)
+- For the third entry, evaluate the given protein complex in terms of its pLDDT, ipLDDT, PAE, iPAE, pTM, ipTM, and TED domains, and provide an in-depth discussion of the interface. (Prediction is provided in the week 4 materials.) (max 6 lines)
    - To identify the interface, please use the Python script provided in the week 4 section.
    - Once the interface has been identified, calculate the ipLDDT, iPAE, and ipTM values by averaging the scores corresponding to the interface residues (You can do averaging using a short Python script or simply in Excel).
   
