@@ -204,7 +204,7 @@ There will be workshop sessions in the second half of select lessons, including 
 ## About me
 <img width="350" height="525" alt="ChatGPT Image Aug 9, 2025 at 10_31_57 PM-2" src="https://github.com/user-attachments/assets/f57236cd-a7a0-46db-936f-bed1ff484384" />
 
-This is me! At least, it looks like. I am working in the fileds of computational structural biology and bioinformatics. My special interests include, but not limited to, protein structure predictions, protein-protein interactions, molecular dynamics simulations, ML models based on structural features of proteins as well as deep learning models. 
+This is me! At least, it looks like. I am working in the fileds of computational structural biology and bioinformatics. My special interests include, but not limited to, protein structure predictions, protein-protein interactions, molecular dynamics simulations, ML models based on structural features of proteins as well as DL models. 
 
 👤 You can check my Scholar profile to see more: https://scholar.google.com/citations?view_op=list_works&hl=tr&hl=tr&user=4zw1czEAAAAJ
 
