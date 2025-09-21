@@ -12,7 +12,7 @@ The naming convention follows this structure: “AF” denotes an AlphaFold pred
 
 ❓ Take-home assignment guidline:
 
-- For the two entries listed in the first section, evaluate the structures based on their pLDDT and PAE scores, examine the TED domains, and provide a detailed discussion of the annotated domain’s function.
+- For the two entries listed in the first section, evaluate the structures based on their pLDDT and PAE scores, examine the TED domains, and provide a detailed discussion of the annotated domain’s function. (max 3 sentences for each entry)
 
 - For the second entry, assess the structures with respect to their pLDDT, PAE, and TED domains, and provide a detailed discussion on disorders.
 
