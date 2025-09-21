@@ -12,9 +12,9 @@ The naming convention follows this structure: “AF” denotes an AlphaFold pred
 
 ❓ Take-home assignment guidline:
 
-- For the two entries listed in the first section, evaluate the structures based on their pLDDT and PAE scores, examine the TED domains, and provide a detailed discussion of the annotated domain’s function. (max 4 sentences for each entry)
+- For the two entries listed in the first section, evaluate the structures based on their pLDDT and PAE scores, examine the TED domains, and provide a detailed discussion of the annotated domain’s function. (max 4 lines for each entry)
 
-- For the second entry, assess the structures with respect to their pLDDT, PAE, and TED domains, and provide a detailed discussion on disorders. (max 4 sentences)
+- For the second entry, assess the structures with respect to their pLDDT, PAE, and TED domains, and provide a detailed discussion on disorders. (max 4 lines)
 
 - For the third entry, evaluate the given protein complex in terms of its pLDDT, ipLDDT, PAE, iPAE, pTM, ipTM, and TED domains, and provide an in-depth discussion of the interface. (Prediction is provided in the week 4 materials.)
    - To identify the interface, please use the Python script provided in the week 4 section.
