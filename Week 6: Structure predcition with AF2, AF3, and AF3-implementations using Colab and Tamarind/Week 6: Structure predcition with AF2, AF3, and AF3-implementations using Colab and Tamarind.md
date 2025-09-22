@@ -1,6 +1,6 @@
 ## 🚨 Attention: pre-course action 
 
-In this section, we will perform protein structure predictions using Colab multimer (for AF2), AF3 server, and Tamarinde Bio (for Boltz-2 and Chai-1). Please create accounts for the servers in advance of the session through the links provided on the README page. We will commence the predictions during the workshop session of the course.
+In this section, we will perform protein structure predictions using Colab multimer (for AF2), AF3 server, and Tamarind Bio (for Boltz-2 and Chai-1). Please create accounts for the servers in advance of the session through the links provided on the README page. We will commence the predictions during the workshop session of the course.
 
 ##  📝 Workshop report (The deadline is 12:00 a.m. on the same day) (10 pts)
 
