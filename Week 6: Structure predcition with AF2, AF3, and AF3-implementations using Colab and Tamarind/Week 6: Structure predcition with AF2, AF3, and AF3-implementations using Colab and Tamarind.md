@@ -4,7 +4,7 @@ In this section, we will perform protein structure predictions using Colab multi
 
 ##  📝 Workshop report (The deadline is 12:00 a.m. on the same day) (10 pts)
 
-This workshop presents a case study in which we will perform structure predictions over an antibody–antigen (Ab–Ag) complexe that was entirely blind by all these prediction methods, in other words, the complex was released after the training cut-off of these methods.
+This workshop presents a case study in which we will perform structure predictions over an antibody–antigen (Ab–Ag) complexes that was entirely blind by all these prediction methods, in other words, the complex was released after the training cut-off of these methods.
 
 - Our candidate, PDB ID 7ZK1, is the crystal structure of cystinosin, a proton-driven cystine transporter, bound to both a sybody and a nanobody. Here what it looks like:
 
