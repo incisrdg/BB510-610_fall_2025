@@ -102,7 +102,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">11</td>
 <td style="text-align:left;">2025-12-02</td>
-<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu.md">Conformation prediction with BioEmu</a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Week%2011:%20Conformation%20prediction%20with%20BioEmu/Week%2011:%20Conformation%20prediction%20with%20BioEmu.md">Conformation prediction with BioEmu</a></td>
 <td style="text-align:left;">Report VII 📝 (8 pts)</td>
 <td style="text-align:left;">Workshop Session V 💻</td>
 </tr>
