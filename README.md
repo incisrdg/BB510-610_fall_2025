@@ -110,7 +110,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">12</td>
 <td style="text-align:left;">2025-12-09</td>
-<td style="text-align:left;"><a href=""></a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Week%2012%3A%20De%20novo%20protein%20design%20with%20RFDiffusion%20(Rosetta%20team)/Week%2012%3A%20De%20novo%20protein%20design%20with%20RFDiffusion%20(Rosetta%20team).md">De novo protein design with RFDiffusion (Rosetta team)</a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
@@ -134,7 +134,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">12</td>
 <td style="text-align:left;">2025-12-30</td>
-<td style="text-align:left;"><a href="">De novo protein design with RFDiffusion (Rosetta team)</a></td>
+<td style="text-align:left;"><a href=""></a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
