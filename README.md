@@ -70,7 +70,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">7</td>
 <td style="text-align:left;">2025-11-04</td>
-<td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(1-single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D%2C%202-AlphaMissense%20and%20Hotspot%20)/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(1-single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D%2C%202-AlphaMissense%20and%20Hotspot%20).md">Pathogenicity prediction using structural data (1-DynaMut, PremPS, FoldX, ThermoMPNN-D, 2-Pathogenicity prediction with AlphaMissense and Hotspot)</a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(1-single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D%2C%202-AlphaMissense%20and%20Hotspot%20)/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(1-single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D%2C%202-AlphaMissense%20and%20Hotspot%20).md">1- Pathogenicity prediction using structural data (DynaMut, PremPS, FoldX, ThermoMPNN-D), 2-Pathogenicity prediction with AlphaMissense and Hotspot</a></td>
 <td style="text-align:left;">Report III 📝 (5 pts)/ Report IV 📝 (5 pts)</td>
 <td style="text-align:left;">Workshop Session II/III 💻</td>
 </tr>
