@@ -118,7 +118,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">12</td>
 <td style="text-align:left;">2025-12-23</td>
-<td style="text-align:left;"><a href="">Protein sequence design</a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Protein%20sequence%20design/Protein%20sequence%20design.md">Protein sequence design</a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
