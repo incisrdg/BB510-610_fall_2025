@@ -38,7 +38,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">3</td>
 <td style="text-align:left;">2025-10-07</td>
-<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%203%3A%20Protein%20folding%20problem%2C%20CASP%20and%20CAPRI%20competitions%2C%20AlphaFold%20and%20RosettaFold%20as%20groundbreaking%20teams/Week%203%3A%20Protein%20folding%20problem%2C%20CASP%20and%20CAPRI%20competitions%2C%20AlphaFold%20and%20RosettaFold%20as%20groundbreaking%20teams.md">Protein folding problem, CASP & CAPRI competitions, AlphaFold & RoseTTAFold</a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%203%3A%20Protein%20folding%20problem%2C%20CASP%20and%20CAPRI%20competitions%2C%20AlphaFold%20and%20RosettaFold%20as%20groundbreaking%20teams/Week%203%3A%20Protein%20folding%20problem%2C%20CASP%20and%20CAPRI%20competitions%2C%20AlphaFold%20and%20RosettaFold%20as%20groundbreaking%20teams.md">Protein folding problem, CASP & CAPRI competitions, AlphaFold & RoseTTAFold as groundbreaking teams</a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
