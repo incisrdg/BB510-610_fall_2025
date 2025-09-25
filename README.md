@@ -86,7 +86,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">9</td>
 <td style="text-align:left;">2025-11-25</td>
-<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2010%3A%20Molecular%20docking%20pipeline%3A%20module%201%20(Digital%20Representations%20of%20Molecules)%20and%20module%202%20(Exploring%20Chemical%20and%20Biological%20Data%20With%20BidingDB%20and%20the%20RDKit)/Week%2010%3A%20Molecular%20docking%20pipeline%3A%20module%201%20(Digital%20Representations%20of%20Molecules)%20and%20module%202%20(Exploring%20Chemical%20and%20Biological%20Data%20With%20BidingDB%20and%20the%20RDKit).md">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit)</a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Week%209%3A%20Molecular%20docking%20pipeline%3A%20module%201%20(Digital%20Representations%20of%20Molecules)%20and%20module%202%20(Exploring%20Chemical%20and%20Biological%20Data%20With%20BidingDB%20and%20the%20RDKit)/Week%209%3A%20Molecular%20docking%20pipeline%3A%20module%201%20(Digital%20Representations%20of%20Molecules)%20and%20module%202%20(Exploring%20Chemical%20and%20Biological%20Data%20With%20BidingDB%20and%20the%20RDKit).md">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit)</a></td>
 <td style="text-align:left;">Report VI 📝 (2 pts)</td>
 <td style="text-align:left;"></td>
 </tr>
