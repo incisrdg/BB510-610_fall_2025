@@ -1,4 +1,4 @@
-## 📝 Workshop report (The deadline is 12:00 a.m. on the same day) (10 pts)
+## 📝 Workshop report (The deadline is 2025-11-18 at 12 pm) (10 pts)
 
 In this workshop session, we will perform protein–protein docking experiments of IL37 (monomeric and dimeric form) and its primary receptor IL18Rα using four different approaches: rigid-body docking, flexible docking, ensemble docking, and ML–based models. This complex is known to block inflammation mediated by IL18 by binding to its receptor and preventing the formation of IL18 receptor complexes. 
 
