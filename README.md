@@ -94,7 +94,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">10</td>
 <td style="text-align:left;">2025-12-02</td>
-<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina)/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina).md">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Week%2010%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina)/Week%2010%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina).md">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</a></td>
 <td style="text-align:left;"></td>
 <td style="text-align:left;"></td>
 </tr>
