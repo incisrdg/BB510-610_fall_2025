@@ -1,4 +1,4 @@
-## 📝 Workshop report (The deadline is 2025-11-04 at 12 pm) (8 pts)
+## 📝 Workshop report (The deadline is 2025-12-09 at 12 pm) (8 pts)
 
 The second half of this course will be a workshop session. For the desired protein, please perform conformation prediction with BioEmu using the following parameters: num_samples=20, model_name=bioemu-v1.1, n_write_samples=-1, and enable the options reconstruct_sidechains, run_md, and one_per_cluster. Set the md_protocol to local minimization. 
 
