@@ -102,6 +102,8 @@ Hydrophobic collapse: https://www.youtube.com/watch?v=SGKn4QDINg4
 
 The physics of entropy and the origin of life: https://www.youtube.com/watch?v=Sz1n0RHwLqA
 
+➡️ Link to the dihedrals Ramachandran tutorial: https://proteopedia.org/wiki/index.php/Tutorial%3ARamachandran_principle_and_phi_psi_angles?utm_source=chatgpt.com
+
 
 ## Slides
 
