@@ -164,7 +164,7 @@ Colab: https://colab.research.google.com/
 
 📚: link to the reference books
 
-➡️: link to the example structures
+➡️: link to the examples
 
 ✅: required actions
 
