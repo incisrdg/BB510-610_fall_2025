@@ -172,6 +172,10 @@ Colab: https://colab.research.google.com/
 
 ✅: required actions
 
+🎼: music pieces
+
+🎤: podcasts
+
 ## Pop-up quizzes 
 🔮 There will be pop-up quizzes during the first five minutes of select lessons, not for grading, but to help recall the key points from the previous week. Highly recommend you join the pop-up quizzes, they will be fun!
 
