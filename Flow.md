@@ -9,6 +9,8 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <th style="text-align:left;">Subject</th>
 <th style="text-align:left;">Completed ✅</th>
 <th style="text-align:left;">Postponed ❌</th>
+<th style="text-align:left;">Pay attention to:</th>
+
 </tr>
 </thead>
 <tbody>
@@ -18,6 +20,8 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%201%3A%20Course%20overview%2C%20protein%20folding%20and%20the%20history%20of%20structural%20biology/%20Week%201%3A%20Course%20overview%2C%20protein%20folding%20and%20the%20history%20of%20structural%20biology.md">Course overview, protein folding and the history of structural biology</a></td>
 <td style="text-align:left;">Course overview, protein folding completed ✅</td>
 <td style="text-align:left;">The history of structural biology postponed to the next week. ❌</td>
+<td style="text-align:left;">1- First three laws of thermodynamics driving protein folding. 2- Dot product to calculate bond angles. 3- Cross product to calculate dihedral angles. </td>
+
 </tr>
 
 <tr>
@@ -57,7 +61,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;">2025-03-27</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%206%3A%20Structure%20predcition%20with%20AF2%2C%20AF3%2C%20and%20AF3-implementations%20using%20Colab%20and%20Tamarind/Week%206%3A%20Structure%20predcition%20with%20AF2%2C%20AF3%2C%20and%20AF3-implementations%20using%20Colab%20and%20Tamarind.md">Structure prediction with AF2/AF3 (Colab & Tamarind)</a></td>
 <td style="text-align:left;"></td>
-<td style="text-align:left;">Workshop Session I 💻</td>
+<td style="text-align:left;"></td>
 </tr>
 
 <tr>
@@ -65,7 +69,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;">2025-04-03</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D)/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D).md">Pathogenicity prediction using structural data (DynaMut, PremPS, FoldX, ThermoMPNN-D)</a></td>
 <td style="text-align:left;"></td>
-<td style="text-align:left;">Workshop Session II 💻</td>
+<td style="text-align:left;"></td>
 </tr>
 
 <tr>
@@ -73,7 +77,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;">2025-04-10</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%208%3A%20Pathogenicity%20prediction%20with%20AlphaMissense%20and%20Hotspot/Week%208%3A%20Pathogenicity%20prediction%20with%20AlphaMissense%20and%20Hotspot.md">Pathogenicity prediction with AlphaMissense and Hotspot</a></td>
 <td style="text-align:left;"></td>
-<td style="text-align:left;">Workshop Session III 💻</td>
+<td style="text-align:left;"></td>
 </tr>
 
 <tr>
@@ -81,7 +85,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;">2025-04-17</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%209%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2)/Week%209%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2).md">Protein-protein docking (ClusPro, HADDOCK) & binding affinity (PRODIGY, Boltz-2)</a></td>
 <td style="text-align:left;"></td>
-<td style="text-align:left;">Workshop Session IV 💻</td>
+<td style="text-align:left;"></td>
 </tr>
 
 <tr>
@@ -105,7 +109,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;">2025-05-08</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu.md">Conformation prediction with BioEmu</a></td>
 <td style="text-align:left;"></td>
-<td style="text-align:left;">Workshop Session V 💻</td>
+<td style="text-align:left;"></td>
 </tr>
 
 <tr>
