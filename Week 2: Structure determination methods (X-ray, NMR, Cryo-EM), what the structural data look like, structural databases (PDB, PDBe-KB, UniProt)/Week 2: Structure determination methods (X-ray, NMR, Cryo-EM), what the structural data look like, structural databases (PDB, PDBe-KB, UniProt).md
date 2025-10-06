@@ -92,7 +92,7 @@ Boat-chair conformations interconversion: https://www.youtube.com/watch?v=bPLREp
 
 ## Server
 
-➡️ Link to the PDB protein symmetry server: https://www.rcsb.org/docs/search-and-browse/browse-options/protein-symmetry
+➡️ Link to the PDB protein symmetry server https://www.rcsb.org/docs/search-and-browse/browse-options/protein-symmetry
 
 ## Slides
 
