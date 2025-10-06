@@ -88,6 +88,8 @@ NMR spectroscopy visualized: https://www.youtube.com/watch?v=RZLew6Ff-JE&t=89s
 
 Boat-chair conformations interconversion: https://www.youtube.com/watch?v=bPLREpfZ63I
 
+🎤 Podcast suggestion: The tortured protein department: https://fraserlab.com/2025/03/15/TTPD_1/
+
 ## Server
 
 ➡️ Link to the PDB protein symmetry server: https://www.rcsb.org/docs/search-and-browse/browse-options/protein-symmetry
