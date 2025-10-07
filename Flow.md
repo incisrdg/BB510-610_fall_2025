@@ -16,7 +16,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <tbody>
 <tr>
 <td style="text-align:right;">1</td>
-<td style="text-align:left;">2025-02-20</td>
+<td style="text-align:left;">2025-09-30</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%201%3A%20Course%20overview%2C%20protein%20folding%20and%20the%20history%20of%20structural%20biology/%20Week%201%3A%20Course%20overview%2C%20protein%20folding%20and%20the%20history%20of%20structural%20biology.md">Course overview, protein folding and the history of structural biology</a></td>
 <td style="text-align:left;">Course overview, protein folding completed ✅</td>
 <td style="text-align:left;">The history of structural biology postponed to the next week. ❌</td>
