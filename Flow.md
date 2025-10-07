@@ -122,7 +122,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 
 <tr>
 <td style="text-align:right;font-weight: bold;background-color: #E2725A !important;">14</td>
-<td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">2025-05-22</td>
+<td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">2025-12-30</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">Final Exam</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;">📝 (40 pts)</td>
 <td style="text-align:left;font-weight: bold;background-color: #E2725A !important;"></td>
