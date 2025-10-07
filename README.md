@@ -1,6 +1,6 @@
 # BB510/610_Computational_structural_biology
 
-# ❗️❗️❗️IMPORTANT: If you’re enrolled in this course, please complete the form in the First Weeks section.❗️❗️❗️
+# ❗️❗️❗️IMPORTANT: If you’re enrolled in this course, please complete the form in the First Week's section.❗️❗️❗️
 
 
 🙌 Welcome to the computational structural biology course! 🧬 This course is all about protein structures. We will cover topics including, but not limited to, protein folding, the history of structural biology, structural data and sources, the protein folding problem, and the protein structure prediction problem from scratch to today's complexity. You can find all the relevant course materials here 📚. The field is evolving at the speed of the light ⚡️. Let's try to keep up with as many advancements as we can.
