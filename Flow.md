@@ -129,3 +129,5 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 </tr>
 </tbody>
 </table>
+
+You can find your grades in the following link: https://docs.google.com/spreadsheets/d/1ECEJRgD1C82UquVpETQasydBWiYNIj3JKxAmiH0t3Vw/edit?usp=sharing
