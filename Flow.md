@@ -30,6 +30,8 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%202%3A%20Structure%20determination%20methods%20(X-ray%2C%20NMR%2C%20Cryo-EM)%2C%20what%20the%20structural%20data%20look%20like%2C%20structural%20databases%20(PDB%2C%20PDBe-KB%2C%20UniProt)/Week%202%3A%20Structure%20determination%20methods%20(X-ray%2C%20NMR%2C%20Cryo-EM)%2C%20what%20the%20structural%20data%20look%20like%2C%20structural%20databases%20(PDB%2C%20PDBe-KB%2C%20UniProt).md">Structure determination methods (X-ray, NMR, Cryo-EM), structural data, databases (PDB, PDBe-KB, UniProt)</a></td>
 <td style="text-align:left;">The history of structural biology, Structure determination methods (X-ray) completed ✅</td>
 <td style="text-align:left;">Structure determination methods (X-ray, Cryo-EM, NMR postponed to the next week. ❌</td>
+<td style="text-align:left;">1- Thermodynamics of crystal seeding </td>
+
 </tr>
 
 <tr>
