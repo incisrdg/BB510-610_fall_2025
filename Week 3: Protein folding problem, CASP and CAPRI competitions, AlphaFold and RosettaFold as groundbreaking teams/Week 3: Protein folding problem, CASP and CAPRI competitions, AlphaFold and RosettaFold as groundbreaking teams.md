@@ -1,7 +1,8 @@
 ## Attention: 2025 Nobel Prize in Chemistry: Metal Organic Frameworks (MOFs)
 
-<img width="600" height="451" alt="compounds-05-00001-g001-2" src="https://github.com/user-attachments/assets/5e131f75-7923-42a0-b004-22a209355e39" />
-![press-chemistryprize2025-figure6-2](https://github.com/user-attachments/assets/bac78413-4c40-4a9d-b0f6-86b168dbdf2f)
+<img width="299" height="225" alt="compounds-05-00001-g001-2" src="https://github.com/user-attachments/assets/530c4d65-82a4-43fd-9996-17d95e939a43" />
+
+![press-chemistryprize2025-figure6-2](https://github.com/user-attachments/assets/5a261038-c11a-4845-85c4-b66df9e4a1dd)
 
 
 
