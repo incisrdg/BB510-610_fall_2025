@@ -1,3 +1,10 @@
+## Attention: 2025 Nobel Prize in Chemistry: Metal Organic Frameworks (MOFs)
+
+<img width="2446" height="1838" alt="compounds-05-00001-g001" src="https://github.com/user-attachments/assets/301d2868-882a-4146-826e-03ef85a07774" /><img width="2446" height="1838" alt="compounds-05-00001-g001" src="https://github.com/user-attachments/assets/b123bd7f-8017-417c-98cb-37fc4c30f5b8" />
+
+
+
+
 ## 🏠 Take-home points
 - Levinthal’s paradox highlights the computational complexity of protein folding, which has historically hindered accurate in silico structure prediction.
 
