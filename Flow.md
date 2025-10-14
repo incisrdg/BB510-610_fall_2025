@@ -40,7 +40,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%203%3A%20Protein%20folding%20problem%2C%20CASP%20and%20CAPRI%20competitions%2C%20AlphaFold%20and%20RosettaFold%20as%20groundbreaking%20teams/Week%203%3A%20Protein%20folding%20problem%2C%20CASP%20and%20CAPRI%20competitions%2C%20AlphaFold%20and%20RosettaFold%20as%20groundbreaking%20teams.md">Protein folding problem, CASP & CAPRI competitions, AlphaFold & RoseTTAFold </a></td>
 <td style="text-align:left;">Structure determination methods Cryo-EM, NMR; Protein folding problem, CASP & CAPRI competitions, AlphaFold & RoseTTAFold,  Symmetry in nature, Metal organic frameworks (MOFs) ✅</td>
 <td style="text-align:left;">RMSD calculation postponed to the next week. ❌</td>
-<td style="text-align:left;">1- Which method to use, when: XRC, Cryo-EM or NMR? 2-MOFs </td>
+<td style="text-align:left;">1- Which method to use, when: XRC, Cryo-EM or NMR? 2-MOFs. </td>
 
 </tr>
 
