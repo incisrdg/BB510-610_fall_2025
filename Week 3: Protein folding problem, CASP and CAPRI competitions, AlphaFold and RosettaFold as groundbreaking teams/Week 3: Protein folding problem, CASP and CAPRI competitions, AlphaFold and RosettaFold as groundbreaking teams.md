@@ -4,7 +4,7 @@
  /> Ma and Moulton (2011)
  ![press-chemistryprize2025-figure6-2](https://github.com/user-attachments/assets/470c4e8a-2ded-4adf-acb1-61bc05993e10) <img width="531" height="448" alt="Screenshot 2025-10-14 at 04 30 25" src="https://github.com/user-attachments/assets/a6a4275a-bfd0-4198-8f8a-f129f06402f4" />
 
-
+Link to the nobel prize in chemistry: https://www.nobelprize.org/prizes/chemistry/2025/press-release/
 
 ## 🏠 Take-home points
 - Levinthal’s paradox highlights the computational complexity of protein folding, which has historically hindered accurate in silico structure prediction.
