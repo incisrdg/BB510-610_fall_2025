@@ -50,7 +50,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%204%3A%20Evaluation%20of%20AlphaFold%20predicted%20models/Week%204%3A%20Evaluation%20of%20AlphaFold%20predicted%20models.md">Evaluation of AlphaFold predicted models</a></td>
 <td style="text-align:left;">RMSD calculation by hand✅</td>
 <td style="text-align:left;">Evaluation of AlphaFold predicted models postponed to the next week. ❌</td>
-<td style="text-align:left;">How to calculate RMSD of the given system using matrix multiplication</td>
+<td style="text-align:left;">RMSD computation using matrix multiplication</td>
 
 </tr>
 
@@ -58,8 +58,10 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:right;">5</td>
 <td style="text-align:left;">2025-10-28</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%205%3A%20Architecture%20of%20AF2%2C%20AF3%2C%20and%20AF3-implementations/Week%205%3A%20Architecture%20of%20AF2%2C%20AF3%2C%20and%20AF3-implementations.md">Architecture of AF2, AF3, and AF3-implementations</a></td>
-<td style="text-align:left;"></td>
-<td style="text-align:left;"></td>
+<td style="text-align:left;">Evaluation of AlphaFold predicted models✅</td>
+<td style="text-align:left;">Architecture of AF2, AF3, and AF3-implementations postponed to the next week. ❌</td>
+<td style="text-align:left;">Model confidence scoresd: pLDDT, PAE and TM </td>
+
 </tr>
 
 <tr>
