@@ -2,7 +2,7 @@
 
 In this section, we will perform protein structure predictions using Colab multimer (for AF2), AF3 server, and Tamarind Bio (for Boltz-2 and Chai-1). Please create accounts for the servers in advance of the session through the links provided on the README page. We will commence the predictions during the workshop session of the course.
 
-##  📝 Workshop report (The deadline is 2025-11-04 at 12 pm) (10 pts)
+##  📝 Workshop report (The deadline is 2025-11-04 at 11.59 pm) (10 pts)
 
 This workshop presents a case study in which we will perform structure predictions over an antibody–antigen (Ab–Ag) complexes that was entirely blind by all these prediction methods, in other words, the complex was released after the training cut-off of these methods.
 
