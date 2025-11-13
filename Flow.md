@@ -67,7 +67,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <tr>
 <td style="text-align:right;">6</td>
 <td style="text-align:left;">2025-11-04</td>
-<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%206%3A%20Structure%20predcition%20with%20AF2%2C%20AF3%2C%20and%20AF3-implementations%20using%20Colab%20and%20Tamarind/Week%206%3A%20Structure%20predcition%20with%20AF2%2C%20AF3%2C%20and%20AF3-implementations%20using%20Colab%20and%20Tamarind.md">Architecture of AF2, AF3, and AF3-implementations✅</a></td>
+<td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%206%3A%20Structure%20predcition%20with%20AF2%2C%20AF3%2C%20and%20AF3-implementations%20using%20Colab%20and%20Tamarind/Week%206%3A%20Structure%20predcition%20with%20AF2%2C%20AF3%2C%20and%20AF3-implementations%20using%20Colab%20and%20Tamarind.md">Architecture of AF2, AF3, and AF3-implementations</a></td>
 <td style="text-align:left;">Structure prediction with AF2/AF3 (Colab & Tamarind) postponed to the next week. ❌ </td>
 <td style="text-align:left;"></td>
 </tr>
