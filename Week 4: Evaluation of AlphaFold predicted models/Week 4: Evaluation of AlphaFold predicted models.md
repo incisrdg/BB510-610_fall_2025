@@ -1,4 +1,4 @@
-## 📝 Take-home work (10 pts) ❗️(The deadline is 2025-11-11 at 12 pm)❗️
+## 📝 Take-home work (10 pts) ❗️(The deadline is 2025-11-11 at 11.59 pm, −2 points for each day late, up to a maximum of 3 days) ❗️
 
 After this section, you will be given a take-home assignment in which you will evaluate six AF2-predicted structures based on the metrics (pLDDT, PAE, pTM) discussed in the course. For each structure, please briefly explain the results of the scores and discuss their effects and interpretation in the context of the protein’s structure. You can retrieve the structures from the AlphaFold database using the following entry names:
 
