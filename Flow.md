@@ -78,7 +78,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:right;">7</td>
 <td style="text-align:left;">2025-11-11</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D)/Week%207%3A%20Pathogenicity%20prediction%20using%20structural%20data%20(single%20mutant%3A%20DynaMut%2C%20PremPS%2C%20FoldX%2C%20double%20mutant%3A%20ThermoMPNN-D).md">Pathogenicity prediction using structural data (DynaMut, PremPS, FoldX, ThermoMPNN-D)</a></td>
-<td style="text-align:left;">>Structure prediction with AF2/AF3 (Colab & Tamarind) postponed to the next week. ✅ Hands-on workshop I 👩‍💻</td>
+<td style="text-align:left;">Structure prediction with AF2/AF3 (Colab & Tamarind) postponed to the next week. ✅ Hands-on workshop I 👩‍💻</td>
 <td style="text-align:left;">Pathogenicity prediction using structural data (DynaMut, PremPS, FoldX, ThermoMPNN-D) postponed to the next week. ❌</td>
 <td style="text-align:left;">Structure prediction with AF2/AF3/AF3-derivatives, optimal # of recycles and seeds, adding interaction constraints, hacks in protein structure prediction. </td>
 
