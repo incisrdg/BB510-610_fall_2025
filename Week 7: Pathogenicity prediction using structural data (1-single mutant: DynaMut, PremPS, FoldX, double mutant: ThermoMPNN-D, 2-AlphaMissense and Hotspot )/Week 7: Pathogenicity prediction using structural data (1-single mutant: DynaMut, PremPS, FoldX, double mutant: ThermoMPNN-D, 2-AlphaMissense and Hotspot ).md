@@ -18,7 +18,7 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 - Report the ΔΔG values in a table and provide a comparative discussion of the methods. (1 pts)
 
-- Rationalize why some mutations tend to be pathogenic while others are benign. In this discussion, consider factors such as secondary structure, relative solvent-accessible surface area (rASA), B-factor, hydrophobicity, and electrostatic charges. (2 pts)
+- Rationalize why some mutations tend to be pathogenic while others are benign. In this discussion, consider factors such as secondary structure, relative solvent-accessible surface area (rSASA), B-factor, hydrophobicity, and electrostatic charges. (2 pts)
 
 ## 📝 Workshop report (The deadline is 2025-11-18 at 12 am) (5 pts)
 
