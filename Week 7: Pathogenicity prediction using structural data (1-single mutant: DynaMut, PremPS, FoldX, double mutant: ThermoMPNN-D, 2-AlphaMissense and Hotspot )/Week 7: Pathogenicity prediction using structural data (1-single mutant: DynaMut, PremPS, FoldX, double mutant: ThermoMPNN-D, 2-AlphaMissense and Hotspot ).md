@@ -12,7 +12,7 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 <img width="799" height="678" alt="image1" src="https://github.com/user-attachments/assets/636ea167-e871-4ef9-84d9-665e417cd9b8" />
 
-## 📝 Workshop report (The deadline is 2025-11-18 at 11.59 pm) (5 pts)
+## 📝 Workshop report (The deadline is 2025-11-18 at 11.59 pm, −2 points for each day late, up to a maximum of 3 days) (5 pts)
 
 - Perform ΔΔG calculations for three selected variants of your protein structure using four different methods discussed in the class. (2 pts, 0.5 pts for each method)
 
@@ -20,7 +20,7 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 - Rationalize why some mutations tend to be pathogenic while others are benign. In this discussion, consider factors such as secondary structure, relative solvent-accessible surface area (rSASA), B-factor, hydrophobicity, and electrostatic charges. (2 pts)
 
-## 📝 Workshop report (The deadline is 2025-11-18 at 11.59 pm) (5 pts)
+## 📝 Workshop report (The deadline is 2025-11-18 at 11.59 pm, −2 points for each day late, up to a maximum of 3 days) (5 pts)
 
 - Compare the AlphaMissense scores with the free energy change scores obtained in the previous section. Provide a brief comparative discussion linking the free energy scores to the observed variant characteristics. (0.5 pts)
 
