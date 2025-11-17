@@ -122,3 +122,6 @@ https://docs.google.com/presentation/d/1DyIXaXer8BrBsRzPI62I9Tl4_k4rsK4JK6lR7Qz7
 
 https://docs.google.com/presentation/d/10h39rGs_Ny3c_DKLXtgdAg39RXoml9EL7uRERrGHQto/edit?usp=sharing
 
+See the video in week 7 for FoldX installation for mac.
+
+See the following video for FoldX installation for windows: https://www.youtube.com/watch?v=ZatwVMnswA4😎
