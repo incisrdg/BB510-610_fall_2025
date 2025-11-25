@@ -14,6 +14,8 @@ IL37, with the monomeric form extracted from the dimeric PDB structure with ID 5
 
 ## 📝 Workshop report (The deadline is 2025-11-18 at 11.59 pm, −2 points for each day late, up to a maximum of 3 days) (5 pts)
 
+Tools: FoldX, DynaMut2, PremPS, ThermoMPNN (Tamarind Bio)
+
 - Perform ΔΔG calculations for three selected variants of your protein structure using four different methods discussed in the class. (2 pts, 0.5 pts for each method)
 
 - Report the ΔΔG values in a table and provide a comparative discussion of the methods. (1 pts)
