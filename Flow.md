@@ -96,7 +96,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:right;">9</td>
 <td style="text-align:left;">2025-11-25</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%209%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2)/Week%209%3A%20Protein-protein%20docking%20(rigid-body%20docking%3A%20ClusPro%2C%20flexible%20docking%3A%20HADDOCK)%20and%20binding%20affinity%20calculations%20(PRODIGY%2C%20Boltz-2).md">Protein-protein docking (ClusPro, HADDOCK) & binding affinity (PRODIGY, Boltz-2)</a></td>
-<td style="text-align:left;">Pathogenicity prediction using structural data (DynaMut, PremPS, FoldX, ThermoMPNN-D). ✅ Hands-on workshop II 👩‍💻< </td>
+<td style="text-align:left;">Pathogenicity prediction using structural data (DynaMut, PremPS, FoldX, ThermoMPNN-D). ✅ Hands-on workshop II 👩‍💻< /td>
 <td style="text-align:left;">Pathogenicity prediction with AlphaMissense and Hotspot postponed to the next week. ❌ Hands-on workshop III 👩‍💻</td>
 <td style="text-align:left;">Folding free energy change calculation/prediction tools: FoldX, DynaMut, PremPS,ThermoMPNN). Concept of folding free energy and free energy change. 👩‍💻</td>
 
