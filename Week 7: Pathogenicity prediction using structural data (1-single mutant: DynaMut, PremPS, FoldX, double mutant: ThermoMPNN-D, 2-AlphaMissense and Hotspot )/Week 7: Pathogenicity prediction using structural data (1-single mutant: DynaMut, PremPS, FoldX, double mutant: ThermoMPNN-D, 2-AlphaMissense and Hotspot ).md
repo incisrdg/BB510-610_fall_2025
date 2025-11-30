@@ -74,7 +74,7 @@ In this section, we will talk about AlphaMissense which is a deep learning model
 
 <img width="1012" height="579" alt="Screenshot 2025-09-10 at 12 12 54" src="https://github.com/user-attachments/assets/7aa70786-fd8b-4839-a000-31e8e7c7e3ea" /> from Google DeepMind
 
-![1-s2 0-S2001037024001247-gr006](https://github.com/user-attachments/assets/293f2ab5-6c4a-4133-bc55-228ce2ac7e7c)
+![1-s2 0-S2001037024001247-gr006_lrg](https://github.com/user-attachments/assets/ba2c8082-cce7-44f8-829b-2b55123fb4af)
 Sardag, Inci, et al., 2024
 
 ## Software downlaod
