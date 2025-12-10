@@ -37,6 +37,8 @@ NEW:(!!!Analyse complex command: FoldX --command=AnalyseComplex --pdb=wnk3_pep_R
 
 - Machine learning approaches learn interaction patterns directly from large datasets of protein sequences and structures, enabling end-to-end prediction of binding likelihoods and interfaces.
 
+Bonus: In this context, discuss why ensemble docking is particularly important for accurately modeling the binding of dimeric ligands to the receptor, considering receptor conformational heterogeneity and potential cooperative binding effects. (2 pts)
+
 ## Summary
 
 In this section, we will discuss various protein–protein docking methods, their theoretical foundations, and applications. Protein–protein docking is a computational strategy used to predict the structures of protein complexes from known subunits and represents an upper-level challenge built on protein structure prediction. The field has evolved over several decades, beginning with rigid-body docking in the 1970s–1980s, which relied on surface complementarity, advancing to scoring-based and flexible docking in the 1990s–2000s to account for side-chain and backbone motions, and later to ensemble docking, which incorporates conformational variability. Most recently, deep learning–based methods such as AlphaFold-Multimer have achieved unprecedented accuracy by leveraging large-scale sequence and structure datasets.
