@@ -25,6 +25,8 @@ NEW:(!!!Add active site restrain 253-53!!!)
   
 NEW:(!!!Analyse complex command: FoldX --command=AnalyseComplex --pdb=wnk3_pep_Repair.pdb --analyseComplexChains=A,D!!!)
 
+Bonus: In this context, discuss why ensemble docking is particularly important for accurately modeling the binding of dimeric ligands to the receptor, considering receptor conformational heterogeneity and potential cooperative binding effects. (2 pts)
+
 ## 🏠 Take-home points
 
 - Protein-protein interaction (PPI) prediction problem is the challenge of predicting whether and how two proteins interact, often from sequence or structural information, given the complexity and variability of biological interfaces.
@@ -37,7 +39,6 @@ NEW:(!!!Analyse complex command: FoldX --command=AnalyseComplex --pdb=wnk3_pep_R
 
 - Machine learning approaches learn interaction patterns directly from large datasets of protein sequences and structures, enabling end-to-end prediction of binding likelihoods and interfaces.
 
-Bonus: In this context, discuss why ensemble docking is particularly important for accurately modeling the binding of dimeric ligands to the receptor, considering receptor conformational heterogeneity and potential cooperative binding effects. (2 pts)
 
 ## Summary
 
