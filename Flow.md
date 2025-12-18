@@ -117,6 +117,8 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina)/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina).md">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</a></td>
 <td style="text-align:left;">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina  postponed to the next week.❌</td>
 <td style="text-align:left;">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit) ✅ Hands-on workshop V 👩‍💻</td>
+<td style="text-align:left;">Structural file formats for macromolecules and chemical compounds.</td>
+
 </tr>
 
 <tr>
