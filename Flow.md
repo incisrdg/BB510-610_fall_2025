@@ -107,7 +107,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:left;">2025-12-02</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2010%3A%20Molecular%20docking%20pipeline%3A%20module%201%20(Digital%20Representations%20of%20Molecules)%20and%20module%202%20(Exploring%20Chemical%20and%20Biological%20Data%20With%20BidingDB%20and%20the%20RDKit)/Week%2010%3A%20Molecular%20docking%20pipeline%3A%20module%201%20(Digital%20Representations%20of%20Molecules)%20and%20module%202%20(Exploring%20Chemical%20and%20Biological%20Data%20With%20BidingDB%20and%20the%20RDKit).md">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit)</a></td>
 <td style="text-align:left;">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit) postponed to the next week.❌ </td>
-<td style="text-align:left;">Pathogenicity prediction with AlphaMissense and Hotspot. ✅ Hands-on workshop III 👩‍💻</td>
+<td style="text-align:left;">Pathogenicity prediction with AlphaMissense and Hotspot. ✅ Hands-on workshop Iv 👩‍💻</td>
 <td style="text-align:left;">Folding free energy change calcualtions vs pathogenicity prediction upon a mutation. </td>
 </tr>
 
@@ -115,8 +115,8 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:right;">11</td>
 <td style="text-align:left;">2025-12-09</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina)/Week%2011%3A%20Molecular%20docking%20pipeline%3A%20module%203%20(Preparing%20Structures%20for%20Docking)%20and%20module%204%20(Molecular%20Docking%20using%20gnina).md">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina)</a></td>
-<td style="text-align:left;"></td>
-<td style="text-align:left;"></td>
+<td style="text-align:left;">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina  postponed to the next week.❌</td>
+<td style="text-align:left;">Molecular docking pipeline: Module 1 (Molecular Representations), Module 2 (BindingDB, RDKit) ✅ Hands-on workshop V 👩‍💻</td>
 </tr>
 
 <tr>
