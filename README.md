@@ -107,7 +107,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:right;">11</td>
 <td style="text-align:left;">2025-12-09</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/BB510-610_fall_2025/blob/main/Week%2011:%20Conformation%20prediction%20with%20BioEmu/Week%2011:%20Conformation%20prediction%20with%20BioEmu.md">Conformation prediction with BioEmu</a></td>
-<td style="text-align:left;">Report VII 📝 (8 pts)</td>
+<td style="text-align:left;"></td>
 <td style="text-align:left;">Workshop Session V 💻</td>
 </tr>
 
@@ -136,6 +136,8 @@ BB510/610 - Computational Structural Biology - Fall 2025
 </tr>
 </tbody>
 </table>
+
+[8 pts will be given for the attendance!]
 
 ❗️ You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates. ❗️
 
