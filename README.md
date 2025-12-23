@@ -137,7 +137,7 @@ BB510/610 - Computational Structural Biology - Fall 2025
 </tbody>
 </table>
 
-[8 pts will be given for the attendance!]
+❗️8 pts will be given for the attendance!❗️
 
 ❗️ You can access the materials and required information for each week in the corresponding section. You are kindly requested to review materials before coming to class. Please check them regularly to keep up with the updates. ❗️
 
