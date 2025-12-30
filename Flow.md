@@ -125,7 +125,7 @@ BBX510/610 - Computational Structural Biology - Fall 2025
 <td style="text-align:right;">12</td>
 <td style="text-align:left;">2025-12-16</td>
 <td style="text-align:left;"><a href="https://github.com/incisrdg/Computational_structural_biology_25_fall/blob/main/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu/Week%2012%3A%20Conformation%20prediction%20with%20BioEmu.md">Conformation prediction with BioEmu</a></td>
-<td style="text-align:left;"></td>
+<td style="text-align:left;">Molecular docking pipeline: Module 3 (Preparing Structures), Module 4 (Docking with gnina  postponed to the next week. ✅</td>
 <td style="text-align:left;"></td>
 </tr>
 
